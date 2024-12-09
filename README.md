@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 En este repositorio están mis notas y anotaciones relacionadas a mi trabajo, tareas, proyectos, etc.. 
 
 Existe otro repositorio diferente para toda mi bóveda de conocimientos o mi "segundo cerebro".
