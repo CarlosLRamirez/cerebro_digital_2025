@@ -165,3 +165,8 @@ cssclasses:
 # Apuntes
 - [x] Hacer PaO Cyberbank Honduras #followup
 - [x] Tema de Ticket por Clonación instancia, preguntar como van?  📅 2024-05-31
+
+
+
+--------
+[[Escala24x7]]

@@ -168,3 +168,6 @@ cssclasses:
 
 
 - [x] Pendiente PaO, segunda sesión actualizar status de tickets a la fecha en el checklist #followup ✅ 2024-11-11
+
+--------
+[[Escala24x7]]

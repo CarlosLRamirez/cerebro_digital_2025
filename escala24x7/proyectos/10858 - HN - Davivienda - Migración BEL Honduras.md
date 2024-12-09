@@ -31,4 +31,6 @@ Cerrar Sprint en JIRA: N/A
 
 ## Puntos de Acción - Equipo
 
-`
+
+--------
+[[Escala24x7]]

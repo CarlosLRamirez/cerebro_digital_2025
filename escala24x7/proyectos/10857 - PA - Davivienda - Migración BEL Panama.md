@@ -24,4 +24,7 @@ statusProyecto: Cerrado
 
 ## Puntos de Acción - Equipo
 
-`
+
+
+--------
+[[Escala24x7]]

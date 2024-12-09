@@ -175,3 +175,7 @@ cssclasses:
 	- 19/Nov: Nelson dice que son solo ajustes cosmeticos, dar seguimiento #followup 
 - [ ] Error de Comunicación con GoAnywhere #followup
 	- 19/Nov: Lina se llevó el tema, dar seguimiento
+
+
+--------
+[[Escala24x7]]

@@ -269,3 +269,7 @@ Open Items
 ### Misc
 - We request the creation of the user in Active Collab for rafael.tamayo@escala24x7.com - Jason - 28/10
 
+
+
+--------
+[[Escala24x7]]
