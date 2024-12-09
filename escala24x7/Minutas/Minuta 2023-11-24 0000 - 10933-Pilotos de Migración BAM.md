@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 ### Reunion-10933-Pilotos de Migración BAM  24Nov2023
 - Aplicaciones Piloto - BAM #id10933  #minuta 
 	- Jean-Paul ha tenido reuniones internamente con los equipos para definir las aplicaciones candidatas.
