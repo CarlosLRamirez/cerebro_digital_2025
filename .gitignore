@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#obsidian 
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/*
+.obsidian/plugins
