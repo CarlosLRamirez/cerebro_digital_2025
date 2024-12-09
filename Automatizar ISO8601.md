@@ -1,0 +1,149 @@
+En **Obsidian**, puedes automatizar el proceso de nombrar nuevas notas siguiendo el formato ISO 8601 (como YYYY-MM-DD o YYYY-MM-DDTHH:mm:ss) utilizando plugins como **Templater** o **QuickAdd**.
+
+
+## **Opción 1: Usar Templater para Renombrar la Nota**
+  
+Con **Templater**, puedes ejecutar un script que renombre automáticamente una nueva nota al momento de su creación.
+
+**Configuración de Templater:**
+1. **Instala el Plugin Templater**:
+	• Ve a **Settings > Community Plugins**, busca **Templater**, instálalo y actívalo.
+
+2. **Configura una Carpeta para las Notas Nuevas (opcional)**:
+	• Ve a **Settings > Files and Links**.
+	• Establece una carpeta para las notas nuevas en **Default location for new notes**.
+
+3. **Crea un Script en Templater**:
+	• Crea una plantilla o script de Templater para renombrar la nota al momento de su creación.
+	• Ve a tu carpeta de plantillas configurada en Templater y crea un archivo llamado rename-note.md con el siguiente contenido:
+
+  
+```
+
+<%*
+
+const iso8601 = tp.date.now("YYYY-MM-DDTHH:mm:ss");
+
+const newName = iso8601;
+
+await tp.file.rename(newName);
+
+%>```
+
+  
+
+  
+
+4. **Asocia el Script a la Creación de Nuevas Notas**:
+
+• Ve a **Settings > Templater**.
+
+• En **Trigger Templater on new file creation**, selecciona esta plantilla (rename-note.md).
+
+  
+
+Ahora, cada vez que crees una nueva nota, esta será automáticamente renombrada con el formato ISO 8601.
+
+  
+
+## **Opción 2: Usar QuickAdd para Renombrar Notas**
+
+  
+
+El plugin **QuickAdd** es otra excelente opción para automatizar el proceso de nombrado de notas.
+
+  
+
+**Configuración de QuickAdd:**
+
+  
+
+1. **Instala el Plugin QuickAdd**:
+
+• Ve a **Settings > Community Plugins**, busca **QuickAdd**, instálalo y actívalo.
+
+2. **Crea un Comando Personalizado**:
+
+• Ve a **Settings > QuickAdd > Add Command**.
+
+• Asigna un nombre al comando (por ejemplo, New ISO Note).
+
+3. **Configura el Comando para Usar una Plantilla**:
+
+• En el comando creado, selecciona la opción **Capture**.
+
+• Configura las siguientes opciones:
+
+• **Format**: YYYY-MM-DDTHH:mm:ss.
+
+• **Folder**: Selecciona la carpeta donde quieres que se guarden las notas.
+
+• **Template**: Selecciona una plantilla si necesitas agregar contenido inicial a la nota.
+
+4. **Asigna un Atajo de Teclado (opcional)**:
+
+• Ve a **Settings > Hotkeys** y busca tu comando (New ISO Note).
+
+• Asigna un atajo para ejecutar este comando rápidamente.
+
+  
+
+Ahora, al ejecutar este comando desde QuickAdd, se creará una nueva nota automáticamente con un nombre en formato ISO 8601.
+
+  
+
+## **Opción 3: Sin Plugins (Usando Templates Nativos de Obsidian)**
+
+  
+
+Si prefieres no usar plugins, puedes aprovechar la funcionalidad de **Templates** en Obsidian.
+
+1. **Configura una Carpeta para Plantillas**:
+
+• Ve a **Settings > Core Plugins** y activa **Templates**.
+
+• Configura una carpeta para tus plantillas en **Settings > Templates**.
+
+2. **Crea una Plantilla para Notas con el Formato ISO 8601**:
+
+• Crea un archivo en tu carpeta de plantillas, por ejemplo, new-note-template.md.
+
+• En el archivo, escribe:
+
+  
+
+---
+
+created: {{date:YYYY-MM-DDTHH:mm:ss}}
+
+---
+
+  
+
+  
+
+3. **Renombra Manualmente la Nota**:
+
+• Cada vez que crees una nota nueva usando esta plantilla, puedes copiar la fecha del frontmatter (created) y usarla como el nombre del archivo.
+
+  
+
+**Comparativa de Métodos**
+
+  
+
+**Método** **Ventaja** **Inconveniente**
+
+**Templater** Totalmente automatizado. Necesita configurar scripts.
+
+**QuickAdd** Flexible y configurable. Requiere instalar un plugin adicional.
+
+**Sin Plugins** Más simple, sin dependencias. Requiere pasos manuales para renombrar.
+
+  
+
+**Siguientes Pasos**
+
+  
+
+Te recomiendo usar **Templater** si buscas la máxima automatización o **QuickAdd** si prefieres una solución más interactiva. Si necesitas más detalles sobre alguno de estos métodos, ¡solo avísame! 😊
