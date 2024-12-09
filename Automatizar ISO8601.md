@@ -18,17 +18,13 @@ Con **Templater**, puedes ejecutar un script que renombre automáticamente una n
 	• Ve a tu carpeta de plantillas configurada en Templater y crea un archivo llamado rename-note.md con el siguiente contenido:
 
   
-```
-
+  ```
 <%*
-
 const iso8601 = tp.date.now("YYYY-MM-DDTHH:mm:ss");
-
 const newName = iso8601;
-
 await tp.file.rename(newName);
-
-%>```
+%>
+```
 
   
 
