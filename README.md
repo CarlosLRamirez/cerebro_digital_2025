@@ -1,5 +1,5 @@
 ---
-type: Journal
+type: Readme
 ---
 
 En este repositorio están mis notas y anotaciones relacionadas a mi trabajo, tareas, proyectos, etc.. 
