@@ -1,8 +1,8 @@
 ---
-Created: <% tp.date.now("YYYY-MM-DD") %>
-Last modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
-Aliases: 
-Tags: 
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
+aliases: 
+tags:
 ---
 <%*
 const iso8601 = tp.date.now("YYYY-MM-DDTHHmmss");
