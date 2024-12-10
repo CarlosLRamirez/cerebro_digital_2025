@@ -12,3 +12,7 @@ const currentTitle = tp.file.title; // Obtiene el título actual de la nota
 const newName = `${iso8601} - ${currentTitle}`;
 await tp.file.rename(newName);
 %>
+
+
+---
+NO OLVIDAR EL PILAR

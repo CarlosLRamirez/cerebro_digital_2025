@@ -21,4 +21,6 @@ where contains(type, "proyecto personal")
 sort created desc
 ```
 
+---
+[[2024-12-09T190558 - Pilar de Crecimiento Personal]]
 
