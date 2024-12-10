@@ -1,14 +1,14 @@
 ---
 created: 2024-12-09T18:27:08
-modified: 2024-12-09T17:17:27
+modified: '"2024-12-10 14:21", "2tc/G12T+6"'
 type:
   - Home
   - TOC
 aliases: 
-tags:
+tags: 
 ---
 # 🏠 Home
-Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de conocimiento.
+Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de conocimiento...,,
 
 ## 🌟 Acceso Rápido
 - 📝 [[01-Quick Notes]] (Notas rápidas y captura de ideas)
