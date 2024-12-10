@@ -1,11 +1,11 @@
 ---
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
-pilar: 
 type:
-  - daily-note
+  - weekly-note
 aliases: 
 tags:
+  - journal
 ---
 
 ## Entrada de diario 
