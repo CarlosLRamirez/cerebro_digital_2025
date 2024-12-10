@@ -170,4 +170,4 @@ cssclasses:
 - [x] Pendiente PaO, segunda sesión actualizar status de tickets a la fecha en el checklist #followup ✅ 2024-11-11
 
 --------
-[[2024-12-09T182711 - Pilar de Trabajo (Escala24x7)]]
+[[2024-12-09T191216 - Pilar de Trabajo (Escala24x7)]]

@@ -23,4 +23,4 @@ statusProyecto: Cerrado
 
 
 --------
-[[2024-12-09T182711 - Pilar de Trabajo (Escala24x7)]]
+[[2024-12-09T191216 - Pilar de Trabajo (Escala24x7)]]
