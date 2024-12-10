@@ -15,5 +15,4 @@ Para el 2025 mis metas de certificaciones técnicas son:
 - Sacar un curso de Python o Go (Con certificado) en codeacademy
 
 
-[[2024-12-09T190558 - Pilar de Crecimiento Personal]]
-
+[[2024-12-09T183143 - Propositos 2025]]
