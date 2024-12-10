@@ -58,3 +58,6 @@ echo "🚀 Sincronización completada exitosamente."
 read -p "Presiona Enter para salir..."
 ```
 El siguiente paso es hacer una especia de crontab para que lo haga cierto tiempo automáticamente desde el teléfono. 
+
+[[2024-12-09 My Obsidian Setup]]
+#obsidian #git 
