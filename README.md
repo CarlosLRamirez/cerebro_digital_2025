@@ -1,14 +1,17 @@
----
-type: Readme
----
-Esta será mi "Vault" prin
+Esta será mi "Vault" principal donde gestionaré mi sistema de productividad como mi sistema de conocmiento.
 
+## Sistema de Productividad
+- Manejo de Diario: Entradas diarias, semanales, mensuales y anuales
+- Gestion de Tareas: listas según prioridad
+- Gestión de Proyectos (no relacionados a mi trabajo): seguimiento, tareas relacionadas
+- Notas de Trabajo Principal (Escala24x7): Mi sistema de notas sobre los proyectos, minutas, tareas, puntos de accion, puntos de seguimietno, etc..
+- Gestion de creación y publicacion de contenido.
+- Gestion de Finanzas
 
-En este repositorio están mis notas y anotaciones relacionadas a mi trabajo, tareas, proyectos, etc.. 
+## Sistema de Gestión de Conocimiento
+- Sistema Zettelkasten para la anotación de ideas, conceptos, flash cards. 
+- Interconexion
 
-Existe otro repositorio diferente para toda mi bóveda de conocimientos o mi "segundo cerebro".
-
-TODO: Ir migrando aqui el sistema de notas y gestión de tareas que había creado en el otro respositorio
 
 
 TODO: Automatizar el nombrado de las notas para cumplir con el encabezado ISO8601 - [[2024-12-09T180147 - Automatizar con ISO8601]]
