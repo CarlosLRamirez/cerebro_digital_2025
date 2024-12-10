@@ -8,5 +8,6 @@ tags:
 ---
 En esta nota apuntar todo lo relacionado a El Salvador como un destino de viaje.
 
-## Bitacoras
+## Notas Relacionadas
+
 
