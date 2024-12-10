@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T23:07:00
-modified: 2024-12-09T23:08:00
+modified: 2024-12-10T23:08:00
 ---
 
 # Mi Cerebro Digital: version 2025 (El definitivo)
@@ -12,18 +12,27 @@ Este Vault combina mi **sistema de productividad** y mi **sistema de gestión de
 
 Este sistema está basado en principios de organización y gestión de tareas, proyectos y prioridades (GTD), incluyendo los siguientes elementos clave:
 
-1. **Manejo de Diario**:
-	• Entradas diarias, semanales, mensuales y anuales para planificación, reflexión y revisión.
-2. **Gestión de Tareas**:
-	• Listas de tareas organizadas por prioridad, estado y contexto.
-3. **Gestión de Proyectos (Personales)**:
-	• Seguimiento detallado de proyectos no relacionados con mi trabajo principal, incluyendo tareas relacionadas y objetivos.
-5. **Notas de Trabajo Principal (Escala24x7)**:
-	• Sistema para documentar proyectos laborales, minutas de reuniones, tareas, puntos de acción y seguimiento.
-5. **Gestión de Contenido**:
-	• Sistema para la creación, planificación y publicación de contenido personal o profesional.
-6. **Gestión de Finanzas**:
-	• Seguimiento y planificación de aspectos financieros.
+- **Manejo de Diario (Journal)**:  
+	- Entradas diarias, semanales, mensuales y anuales para planificación, reflexión y revisión.
+- **Gestión de Tareas**:
+	- Listas de tareas organizadas por prioridad, estado y contexto.
+- **Gestión de Proyectos (Personales)**:
+	- Seguimiento detallado de proyectos no relacionados con mi trabajo principal, incluyendo objetivos, tareas relacionadas, estado,
+- **Notas de Trabajo Principal (Escala24x7)**:
+	- Sistema para documentar proyectos laborales, minutas de reuniones, tareas, puntos de acción y seguimiento, etc.. todo lo que tenga que ver con mi trabajo principal, manteniéndolo separado del resto.
+- **Vida & Familia:**
+	- Aquí va todo lo que no tenga que ver con temas laborales o profesionales
+		- Salud
+		- Familia
+		- Viajes
+		- Gestión de la casa
+		- Vehículos y otros activos
+		- Finanzas Personales 
+
+### Pendiente Por organizar:
+-  **Gestión de Creacion de Contenido**:
+	- Sistema para la creación, planificación y publicación de contenido personal o profesional.
+- Teaching
 
 
 ## Sistema de Gestión de Conocimiento
@@ -40,24 +49,23 @@ Basado en el método **Zettelkasten**, este sistema está diseñado para captura
 
 Este Vault está organizado en carpetas principales que separan las diferentes áreas de enfoque:
   
-📂 00 - Quick Notes
+📂 00 - QuickNotes
     - Captura rápida de ideas, tareas o notas no procesadas.
 📂 01 - HOME
     - Nota principal que actúa como índice y guía del Vault.
-📂 02 - Productividad
-    📂 0201 - Tareas
+📂 02 - Journal
+    - Entradas diarias, semanales, mensuales y anuales.
+📂 03 - Productividad
+    📂 Tareas
         - Listas de tareas organizadas por prioridad y contexto.
-    📂 0202 - Proyectos
-        - Notas individuales para proyectos personales.
-    📂 0203 - Journal
-        - Entradas diarias, semanales, mensuales y anuales.
-📂 03 - Work (Escala24x7)
+    📂 Proyectos
+        - Notas individuales para proyectos personales..
+📂 04- Work@ Escala24x7
     - Documentación de proyectos laborales, minutas y tareas relacionadas con mi trabajo principal.
-📂 04 - Knowledge
-    📂 0401 - Zettelkasten
+📂 05 - Knowledge
         - Sistema de notas interconectadas para capturar y desarrollar ideas.
-📂 05 - Archive
-    - Archivo de proyectos completados, notas antiguas o referencias inactivas.
+📂 06 -Life
+    - Notas relacionadas a la familia, salud, viajes, finanzas.
 
 ## Flujo de Trabajo
 
