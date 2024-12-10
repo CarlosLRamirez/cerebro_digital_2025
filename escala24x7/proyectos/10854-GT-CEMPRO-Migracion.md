@@ -176,5 +176,5 @@ cssclasses:
 
 
 --------
-[[2024-12-09T182711 - PILAR Escala24x7]]
+[[2024-12-09T182711 - Pilar de Trabajo (Escala24x7)]]
 

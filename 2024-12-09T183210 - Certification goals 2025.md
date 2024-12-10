@@ -14,3 +14,6 @@ Para el 2025 mis metas de certificaciones técnicas son:
 - AWS Developer
 - Sacar un curso de Python o Go (Con certificado) en codeacademy
 
+
+[[2024-12-09T190558 - Pilar de Crecimiento Personal]]
+
