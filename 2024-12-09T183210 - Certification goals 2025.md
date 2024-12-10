@@ -16,3 +16,7 @@ Para el 2025 mis metas de certificaciones técnicas son:
 
 
 [[2024-12-09T183143 - Propositos 2025]]
+
+
+
+[[2024-12-09T190558 - Pilar de Crecimiento Personal]]
