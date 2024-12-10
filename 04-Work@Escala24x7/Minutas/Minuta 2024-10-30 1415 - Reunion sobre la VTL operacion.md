@@ -2,9 +2,9 @@
 type:
   - Minuta
 IDProyecto: "11152"
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2024-12-10
 ---
-<%* await tp.file.move("/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmm") + " - " + tp.file.title) -%>`
+`
 
 ### Seguimiento
 
@@ -33,7 +33,7 @@ let combinedTasks = [...new Set([...tasksByProperty, ...tasksByTag])];
 dv.taskList(combinedTasks, { asOf: dv.date("today") });
  ```
 ## Fecha de Reunion
-<% tp.date.now() %>
+2024-12-10
 
 ## Asistentes
 
