@@ -1,7 +1,6 @@
 ---
 type:
-  - TOC
-  - Pilar
+  - pilar
 tags:
   - Escala24x7
 aliases:
