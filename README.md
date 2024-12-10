@@ -1,6 +1,5 @@
 Esta será mi "Vault" principal donde gestionaré mi sistema de productividad como mi sistema de conocmiento.
-
-## Sistema de Productividad
+## :LiListTodo:Sistema de Productividad
 - Manejo de Diario: Entradas diarias, semanales, mensuales y anuales
 - Gestion de Tareas: listas según prioridad
 - Gestión de Proyectos (no relacionados a mi trabajo): seguimiento, tareas relacionadas
@@ -8,11 +7,18 @@ Esta será mi "Vault" principal donde gestionaré mi sistema de productividad co
 - Gestion de creación y publicacion de contenido.
 - Gestion de Finanzas
 
-## Sistema de Gestión de Conocimiento
+## :LiBrain: Sistema de Gestión de Conocimiento
 - Sistema Zettelkasten para la anotación de ideas, conceptos, flash cards. 
-- Interconexion
+- Interconexion de ideas para la generacion de conocimiento profundo
 
-
-
-TODO: Automatizar el nombrado de las notas para cumplir con el encabezado ISO8601 - [[2024-12-09T180147 - Automatizar con ISO8601]]
-
+## :LiIndent: Estructura Inicial
+- 00 - Quick Notes
+- 01 - HOME
+- 02 - Productividad
+- 0201 - Tareas
+- 0202 - Proyectos
+- 0203 - Journal
+- 03 - Work (Escala24x7)
+- 04 - Knowledge
+- 0401 - Zettelkasten
+- 05 - Archive
