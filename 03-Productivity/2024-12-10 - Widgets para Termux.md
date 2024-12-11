@@ -1,4 +1,14 @@
-Cree un script con ayuda de ChatGPT para sincronizar el repositorio con el Vault de Obsidian. 
+---
+created: 2024-12-10T21:41:16
+modified: '"2024-12-10 21:44", "2tc/G12T+6"'
+type: 
+aliases: 
+tags:
+  - obsidian
+  - git
+---
+
+Cree un script con ayuda de ChatGPT para sincronizar el repositorio que contiene el Vault de Obsidian. 
 
 Primero verifica cambios en el remoto y hace pull y luego sube los cambios en el local y hace push.
 
@@ -57,7 +67,9 @@ echo "🚀 Sincronización completada exitosamente."
 
 read -p "Presiona Enter para salir..."
 ```
-El siguiente paso es hacer una especia de crontab para que lo haga cierto tiempo automáticamente desde el teléfono. 
+El siguiente paso es hacer una especie de crontab para que lo haga cierto tiempo automáticamente desde el teléfono. 
 
+
+--- 
+ **Notas relacionadas:**
 [[2024-12-09 My Obsidian Setup]]
-#obsidian #git 

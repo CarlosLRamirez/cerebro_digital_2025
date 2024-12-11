@@ -1,6 +1,0 @@
-Ududuud
-# {{date}}
-
-## Tareas
-
-## Notas
