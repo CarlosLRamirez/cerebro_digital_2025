@@ -75,5 +75,5 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 #leccionaprendida Aolocitar los urls, cnames, etc para todos los ambientes desde un principio. No solo desarrollo, y luego qa, y luego prod.
 
 ---
-Template: [[Minuta de Reunion Proyecto]]
+Template: [[Minuta 2024-12-12 0935 - Minuta de Reunion Proyecto]]
 Author: Carlos Ramírez - 2024

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 09:18", "4tc/G12T+6"'
+modified: '"2024-12-12 09:35", "4tc/G12T+6"'
 type:
   - daily-note-escala24x7
 aliases: 
@@ -21,6 +21,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 ## Registro de tiempo
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
 9:00 reunion con Frank para revisar PER
+9:30 termine con Frank, me puse a ver lo de la gestion de minutas
 10:00 hay una reunion de PER
 
 ## Apuntes Proyectos
@@ -59,6 +60,7 @@ Pendiente de definir:
 		- Sync interno con MC
 	- Elaborar plan de trabajo
 	- Herramiente comunicacion directa
+	- Matriz RACI entre Escala y Mobile
 
 ![[Pasted image 20241212091508.png]]
 

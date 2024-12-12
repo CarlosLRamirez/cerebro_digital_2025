@@ -72,5 +72,5 @@ ping desde la 10.8.112.23 (LZ-onprem) hacia AWS:
 *   
 
 ---
-Template: [[Minuta de Reunion Proyecto]]
+Template: [[Minuta 2024-12-12 0935 - Minuta de Reunion Proyecto]]
 Author: Carlos Ramírez - 2024

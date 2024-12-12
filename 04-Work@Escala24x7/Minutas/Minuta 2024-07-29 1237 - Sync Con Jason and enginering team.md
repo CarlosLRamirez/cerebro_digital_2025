@@ -75,5 +75,5 @@ I would need to download my tool (MIMIX_BLD).  This will allow me to perform jou
 *   
 
 ---
-Template: [[Minuta de Reunion Proyecto]]
+Template: [[Minuta 2024-12-12 0935 - Minuta de Reunion Proyecto]]
 Author: Carlos Ramírez - 2024
