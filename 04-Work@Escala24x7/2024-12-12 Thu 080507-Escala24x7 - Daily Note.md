@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 10:05", "4tc/G12T+6"'
+modified: '"2024-12-12 11:15", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - daily-note-escala24x7
@@ -19,11 +19,18 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Hablar con Rafa al final del dia
 - Configurar la plantillas para minutas Escala
 
+- [ ] Crear Slack con MC #id11236 
+- [ ] Crear Space con Dav #id11236 
+- [ ] Hablar con Jenny por PER #id11236 
+
+
 ## Registro de tiempo
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
 9:00 reunion con Frank para revisar PER
 9:30 termine con Frank, me puse a ver lo de la gestion de minutas
 10:00 hay una reunion de PER
+11:00 termine la reunion de PER, y  entre a una reunion interna con CPSM
+
 
 ## Apuntes Proyectos
 
