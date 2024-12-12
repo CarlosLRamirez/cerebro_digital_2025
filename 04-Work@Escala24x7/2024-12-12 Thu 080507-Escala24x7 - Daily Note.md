@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 13:16", "4tc/G12T+6"'
+modified: '"2024-12-12 13:44", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -31,6 +31,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 12:20 termine con Novys y entre a sync on Raul
 12:39 termine sync on Raul
 1:00 intenté almorzar, y me meti a la sync con Novys, aùn no llega, mientras me pongo al dia con Slack de Whitelist y NetRetail.. nunca apareció Novys
+1:30 Entro a sync de Davivienda Whitelist
 
 ## Apuntes Proyectos
 
@@ -54,6 +55,27 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - [ ] Confirmar con Jhonatan y resto del equipo #id10854
 - [ ] Como quedaron los PaO? #id10854
 - [ ] Hubo un issue con la aplicacion de marcajes? #id10854
+
+
+### 11065 - Whitelist - Davivienda
+- Vamos por el pase a Laboratorio (QA), ya casí estamos listos para desplegar
+- Davivienda tenia pendiente la corrección de unos módulos
+	- CloudWatch y ALB: dicen que ya lo liberamos
+	- Aún nos esta dando un error con el ALB
+	- El MBaSS no resuelve por DNS, en conclusión ya no va ir por ALB
+		- El cliente esta de acuerdo, que no va resolver por nombre, solo por IP
+		- Los vamos a comentar nuevamente - Cori
+
+**Siguientes Pasos**
+- Estamos esperando el GO del cliente para pasar a la Laboratorio
+- Hacer el branch (Laboratorio) ✅ 
+- Configuración del Pipeline para que tome el ambiente Laboratorio ✅ 
+- DAV debería tener configurados los secrets - Iliana va confirmar ✅ 
+- Solo hay que hacer el Pull Request ✅ 
+- Alberto Madrir debe crear unos usuarios #followup
+- Nelson esta resoliviendo unos temas de la redacción de los correos
+
+
 
 ## Otros temas
 - Performance Review 2024 https://drive.google.com/file/d/1kNEYfFGPQoYBtp02nbMy-JB9xZVnpV_R/view?usp=sharing
