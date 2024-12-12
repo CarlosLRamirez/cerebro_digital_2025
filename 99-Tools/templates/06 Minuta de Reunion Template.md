@@ -1,10 +1,15 @@
 ---
-type: Minuta
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
+type:
+  - minuta
+aliases: 
+tags:
+  - Escala24x7
 IDProyecto: 
-date: <% tp.date.now("YYYY-MM-DD") %>
-ultima-modificacion: 2024-12-12T09:35:12-06:00
 ---
-<%* await tp.file.move("/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmm") + " - " + tp.file.title) -%>`
+
+<%* await tp.file.move("/04-Work@Escala24x7/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
 
 ### Seguimiento
 
@@ -55,5 +60,5 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 *   
 
 ---
-Template: [[Minuta de Reunion Proyecto]]
+Template: [[06 Minuta de Reunion Template]]
 Author: Carlos Ramírez - 2024

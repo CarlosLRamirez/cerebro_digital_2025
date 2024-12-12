@@ -55,5 +55,5 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 *   
 
 ---
-Template: [[Minuta de Reunion Proyecto]]
+Template: [[06 Minuta de Reunion Template]]
 Author: Carlos Ramírez - 2024

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 09:35", "4tc/G12T+6"'
+modified: '"2024-12-12 09:45", "4tc/G12T+6"'
 type:
   - daily-note-escala24x7
 aliases: 
@@ -39,30 +39,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Presentacion de Kickoff: https://docs.google.com/presentation/d/1ijw8Jg_yd7rZFv_BgKHDpiiHjZ4jCnFENQIkNs4WXT0/edit#slide=id.p1
 - Plantilla Backlog:  https://docs.google.com/spreadsheets/d/1xAVlg8fVIGKjSWj7J1id53kNlgxX7QrULvLEpqYaRQ4/edit?gid=1120027636#gid=1120027636 -- Esta vacia 😀
 
-
-Sync con Frank Caicedo
-- Prekickoff interno con Mobile Computing:
-	- Al dia de hoy no hay ningun SOW firmado, ni MSA ni NDA, el SoW es lo mas importante ⚠
-	- Aún no tienen el equipo armado completo: el Lunes pasado fue que asignaron al PM (el dia del Prekicoff - Sergio Bonano)
-	- En el prekickoff dijeron que aún no tienen el equipo de desarrollo.. el acuerdo es ir haciendo las tareas que no dependan de desarrollo  - Esto no se le ha dicho al cliente
-	- Se le envió un plan a MC, para crear un Roadmap, con hitos y fechas.
-		- Tener equipo de desarrollo
-		- etc...
-	- Ese riesgo lo asume Maria Fernanda y Mobile Computing - no tener el equipo completo - Frank le pidio a MC el plan de mitigación.
-	- Tambien hay un cambio de compañia: este es otro riesgo.
-	- El canal de Slack todavia no esta creado.
-	- Nicolas es el PM de Davivienda
-
-
-Pendiente de definir:
-	- Estrategia de comunicacion:
-		- Sync Semanal - bi-semanal ???
-		- Sync interno con MC
-	- Elaborar plan de trabajo
-	- Herramiente comunicacion directa
-	- Matriz RACI entre Escala y Mobile
-
-![[Pasted image 20241212091508.png]]
+[[Minuta 2024-12-12 094303 - Sync con Frank]]
 
 
 
