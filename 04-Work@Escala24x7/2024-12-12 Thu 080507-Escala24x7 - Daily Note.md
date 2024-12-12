@@ -93,7 +93,8 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 	- Al momento no se tiene ningún inconveniente.
 - Axity dicen que no recibieron el acta de la ultima sesión: Daniel Bernal daberyha@proveedores.davivienda.com
 
-
+**Punto de accion**
+- enviar un correo preguntando por la nueva imagen con RedHat
 
 ## Otros temas
 - Performance Review 2024 https://drive.google.com/file/d/1kNEYfFGPQoYBtp02nbMy-JB9xZVnpV_R/view?usp=sharing
