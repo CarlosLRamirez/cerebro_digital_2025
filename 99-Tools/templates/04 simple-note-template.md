@@ -3,7 +3,7 @@ created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 type: 
 aliases: 
-tags: 
+tags:
 ---
 <%*
 const iso8601 = tp.date.now("YYYY-MM-DD");
