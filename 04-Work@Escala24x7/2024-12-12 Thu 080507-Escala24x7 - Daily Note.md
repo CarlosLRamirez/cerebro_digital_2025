@@ -1,9 +1,9 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 12:11", "4tc/G12T+6"'
+modified: '"2024-12-12 12:22", "4tc/G12T+6"'
 date: 2024-12-12
 type:
-  - daily-note-escala24x7
+  - Minuta
 aliases: 
 tags:
   - Escala24x7
