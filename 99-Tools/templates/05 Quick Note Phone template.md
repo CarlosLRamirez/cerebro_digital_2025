@@ -2,9 +2,11 @@
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 date: <% tp.date.now("YYYY-MM-DD") %>
-type: 
+type:
+  - quick-note
 aliases: 
 tags:
+  - phone
 ---
 <%*
 const iso8601 = tp.date.now("YYYY-MM-DDTHHmmss");
