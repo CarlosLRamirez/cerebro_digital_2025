@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 15:19", "4tc/G12T+6"'
+modified: '"2024-12-12 15:41", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -21,6 +21,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - [x] Crear Slack con MC #id11236 
 - [ ] Crear Space con Dav #id11236 
 - [ ] Hablar con Jenny por PER #id11236 
+- [ ] Hago Minuta de la ultima sesion de PER #id11236 ???
 
 ## Registro de tiempo
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
