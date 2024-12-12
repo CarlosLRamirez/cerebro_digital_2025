@@ -1,6 +1,7 @@
 ---
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
-modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>+
+date: <% tp.date.now("YYYY-MM-DD") %>
 type:
   - minuta
 aliases: 

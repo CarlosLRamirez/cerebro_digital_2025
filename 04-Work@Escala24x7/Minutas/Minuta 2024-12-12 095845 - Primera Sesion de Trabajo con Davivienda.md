@@ -1,6 +1,7 @@
 ---
 created: 2024-12-12T09:58:45
-modified: '"2024-12-12 10:56", "4tc/G12T+6"'
+modified: '"2024-12-12 11:54", "4tc/G12T+6"'
+date: 2024-12-12
 type:
   - minuta
 aliases: 

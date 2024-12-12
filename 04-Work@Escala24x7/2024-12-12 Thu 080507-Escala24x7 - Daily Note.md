@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 11:15", "4tc/G12T+6"'
+modified: '"2024-12-12 12:05", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - daily-note-escala24x7
@@ -47,10 +47,6 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Presentacion de Kickoff: https://docs.google.com/presentation/d/1ijw8Jg_yd7rZFv_BgKHDpiiHjZ4jCnFENQIkNs4WXT0/edit#slide=id.p1
 - Plantilla Backlog:  https://docs.google.com/spreadsheets/d/1xAVlg8fVIGKjSWj7J1id53kNlgxX7QrULvLEpqYaRQ4/edit?gid=1120027636#gid=1120027636 -- Esta vacia 😀
 
-[[Minuta 2024-12-12 094303 - Sync con Frank]]
-
-
-
 
 ### 10854 - Cempro #id10854
 - Según el ultimo informe ya se terminaron las migracions Lift & Shift
@@ -62,13 +58,19 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 ## Otros temas
 - Performance Review 2024 https://drive.google.com/file/d/1kNEYfFGPQoYBtp02nbMy-JB9xZVnpV_R/view?usp=sharing
 - Convivio Escala24x7 el jueves 19 de Diciembre
-- 
+- [ ] Enviar consumo de horas a Sandra Lucas #PMO 
+	- Ejemplo: ![[Pasted image 20241212115900.png]]
+	- Enviarlo mensualmente a partir del 2025
 
-### Minutas del dia
+
+
+## Minutas del dia
 
  ```dataview
 table date as "Fecha de Reunión", IDProyecto as "ID del Proyecto"
-where type contains "minuta"
+from "04-Work@Escala24x7/Minutas"
+where contains(type, "minuta")
+where date = date(this.file.frontmatter.date)
 sort date asc
 ```
 
