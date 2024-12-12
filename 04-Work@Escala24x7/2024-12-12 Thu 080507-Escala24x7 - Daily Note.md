@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 15:41", "4tc/G12T+6"'
+modified: '"2024-12-12 15:58", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -15,13 +15,14 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 
 
 ## Tareas para hoy
-- Ponerme al dia de los proyectos
-- Hablar con Rafa al final del dia
-- Configurar la plantillas para minutas Escala
+- [x] Ponerme al dia de los proyectos ✅ 2024-12-12
+- [x] Hablar con Rafa al final del dia ✅ 2024-12-12
+- [x] Configurar la plantillas para minutas Escala ✅ 2024-12-12
 - [x] Crear Slack con MC #id11236 
 - [ ] Crear Space con Dav #id11236 
 - [ ] Hablar con Jenny por PER #id11236 
 - [ ] Hago Minuta de la ultima sesion de PER #id11236 ???
+- [ ] Completar - Performance Review  📅 2024-12-13 
 
 ## Registro de tiempo
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
@@ -34,6 +35,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 1:00 intenté almorzar, y me meti a la sync con Novys, aùn no llega, mientras me pongo al dia con Slack de Whitelist y NetRetail.. nunca apareció Novys
 1:30 Entro a sync de Davivienda Whitelist
 2:30 Sesion con Davivienda (David Chaparro)
+entre 3 y 4 estuve revisando correos
 
 ## Apuntes Proyectos
 
