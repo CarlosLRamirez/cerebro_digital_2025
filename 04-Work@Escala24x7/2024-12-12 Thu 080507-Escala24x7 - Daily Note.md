@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 14:55", "4tc/G12T+6"'
+modified: '"2024-12-12 15:19", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -18,7 +18,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Ponerme al dia de los proyectos
 - Hablar con Rafa al final del dia
 - Configurar la plantillas para minutas Escala
-- [ ] Crear Slack con MC #id11236 
+- [x] Crear Slack con MC #id11236 
 - [ ] Crear Space con Dav #id11236 
 - [ ] Hablar con Jenny por PER #id11236 
 
@@ -32,6 +32,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 12:39 termine sync on Raul
 1:00 intenté almorzar, y me meti a la sync con Novys, aùn no llega, mientras me pongo al dia con Slack de Whitelist y NetRetail.. nunca apareció Novys
 1:30 Entro a sync de Davivienda Whitelist
+2:30 Sesion con Davivienda (David Chaparro)
 
 ## Apuntes Proyectos
 
