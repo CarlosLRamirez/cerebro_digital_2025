@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 16:05", "4tc/G12T+6"'
+modified: '"2024-12-12 17:08", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -23,7 +23,9 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - [ ] Hablar con Jenny por PER #id11236 
 - [ ] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13 
 - [ ] Completar - Performance Review  📅 2024-12-13 
-- [ ] Ver grabaciones del proyecto PER 📅 2024-12-13 
+- [ ] Ver grabaciones del proyecto PER 📅 2024-12-13 #id11236
+- [ ] Agendar sesion de PaO de Lift&Shift 📅 2024-12-13 #id10854 
+- [ ] Ver tema de Inicio de Relacion del proyecto PER 📅 2024-12-13  #id11236
 ## Registro de tiempo
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
 9:00 reunion con Frank para revisar PER
