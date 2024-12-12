@@ -1,0 +1,12 @@
+# {{title}}
+## Descripción
+* {{description}}
+## Objetivos
+* {{objetivo1}}
+* {{objetivo2}}
+* {{objetivo3}}
+## ntador 
+## Recursos
+* {{recursos}}
+## Calendario
+* {{calendario}}
