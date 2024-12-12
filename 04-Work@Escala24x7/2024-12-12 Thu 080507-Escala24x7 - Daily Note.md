@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 12:41", "4tc/G12T+6"'
+modified: '"2024-12-12 13:06", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -28,8 +28,10 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 9:30 termine con Frank, me puse a ver lo de la gestion de minutas
 10:00 hay una reunion de PER, me puse a ver vainas
 11:10  entre a una reunion interna con CPSM
-12:20 termine con Novys
-12:39 sync on Raul
+12:20 termine con Novys y entre a sync on Raul
+12:39 termine sync on Raul
+1:00 intenté almorzar, y me meti a la sync con Novys, aùn no llega, mientras me pongo al dia con Slack de Whitelist
+
 ## Apuntes Proyectos
 
 ### 11236-Davivienda-PER #id11236
