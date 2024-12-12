@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 12:22", "4tc/G12T+6"'
+modified: '"2024-12-12 12:41", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -26,9 +26,10 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 8:00 inicie con revision de los chats de proyectos, principalmente PER y Cempro, ah y ver un poco Bancolombia
 9:00 reunion con Frank para revisar PER
 9:30 termine con Frank, me puse a ver lo de la gestion de minutas
-10:00 hay una reunion de PER
-11:00 termine la reunion de PER, y  entre a una reunion interna con CPSM
-
+10:00 hay una reunion de PER, me puse a ver vainas
+11:10  entre a una reunion interna con CPSM
+12:20 termine con Novys
+12:39 sync on Raul
 ## Apuntes Proyectos
 
 ### 11236-Davivienda-PER #id11236
