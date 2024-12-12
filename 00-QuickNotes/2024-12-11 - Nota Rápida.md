@@ -7,16 +7,16 @@ tags:
 ---
 #todo/life
 - [ ] llevar mi moto a servicio 
-* [ ] pedir el pavo 
+* [x] pedir el pavo 
 * [x] sacar el camastron
 * [ ] arreglar olla
 * [ ] Enmarcar títulos
-* [ ] ordenar mi estudio
+* [x] ordenar mi estudio
 * [ ] pagar impuesto circulación
 * [ ] pagar al contador
 
 #todo/comprasdiciembre
-- [ ] Pavo
+- [x] Pavo
 - [x] Trajes pants niños
 - [ ] Ropa interior
 - [ ] Pachones
