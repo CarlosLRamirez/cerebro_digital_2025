@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 13:44", "4tc/G12T+6"'
+modified: '"2024-12-12 14:46", "4tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -57,7 +57,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - [ ] Hubo un issue con la aplicacion de marcajes? #id10854
 
 
-### 11065 - Whitelist - Davivienda
+### 11065 - Whitelist - Davivienda #id11065
 - Vamos por el pase a Laboratorio (QA), ya casí estamos listos para desplegar
 - Davivienda tenia pendiente la corrección de unos módulos
 	- CloudWatch y ALB: dicen que ya lo liberamos
@@ -75,6 +75,24 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Alberto Madrir debe crear unos usuarios #followup
 - Nelson esta resoliviendo unos temas de la redacción de los correos
 
+### 11206 - Ambientes Bajos #id11206
+- Ya se desplegó CR con el ambiente, ya esta clonado el RDS. Solo falta que nos digan como serían las pruebas.
+	- Están pendientes una rutas en el TGW.
+- Necesitamos coordinar una reunión para coordinar las pruebas de ambientes bajos con la seguridad perimetral.
+- Los otros países aún no están desplegados, primero queremos hacer las pruebas Integrales.
+
+**Punto de Accion**
+- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
+
+### 11221 - DR #id11221
+- David Chaparro: avances sobre la cuenta Shared-Services
+	- Ya se desplegó la primer máquina Palo Alto
+	- Desplegaron una maquina tipo Bastión
+	- Esta semana continuan con la implementación de los otros dos dispotivios tipo FW
+	- Ya tienen la base de Networking ya desplegada
+	- Al momento no se tiene ningún inconveniente.
+- Axity dicen que no recibieron el acta de la ultima sesión: Daniel Bernal daberyha@proveedores.davivienda.com
+
 
 
 ## Otros temas
@@ -83,7 +101,6 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - [ ] Enviar consumo de horas a Sandra Lucas #PMO 
 	- Ejemplo: ![[Pasted image 20241212115900.png]]
 	- Enviarlo mensualmente a partir del 2025
-
 
 
 ## Minutas del dia
