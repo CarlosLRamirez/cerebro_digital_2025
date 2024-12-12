@@ -12,6 +12,7 @@ Hoy es <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MM
 
 > Aquí escribe todo lo que piensas sobre el día de hoy
 
+<% tp.file.rename(tp.date.now("YYYY-MM-DD ddd HHmmss") + "-Daily Note") %>
 
 ----
 **Notas relacionadas:**
