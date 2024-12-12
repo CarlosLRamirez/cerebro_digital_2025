@@ -1,6 +1,7 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-12 09:45", "4tc/G12T+6"'
+modified: '"2024-12-12 10:05", "4tc/G12T+6"'
+date: 2024-12-12
 type:
   - daily-note-escala24x7
 aliases: 
@@ -43,6 +44,7 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 
 
 
+
 ### 10854 - Cempro #id10854
 - Según el ultimo informe ya se terminaron las migracions Lift & Shift
 - Solo queda pendiente la ventana para la salida a producción de APP Ruteo
@@ -55,7 +57,15 @@ Hoy es jueves 12 de diciembre, estamos en la semana 50 del año 2024
 - Convivio Escala24x7 el jueves 19 de Diciembre
 - 
 
+### Minutas del dia
 
+ ```dataview
+table date as "Fecha de Reunión", IDProyecto as "ID del Proyecto"
+where type contains "minuta"
+sort date asc
+```
 
+from "/04-Work@Escala24x7/Minutas"
+and date = date(this.file.frontmatter.created)
 ----
 **Notas relacionadas:**
