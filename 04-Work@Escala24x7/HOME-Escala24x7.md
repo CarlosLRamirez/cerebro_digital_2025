@@ -1,7 +1,7 @@
 ---
 cssclasses: []
 ultima-modificacion: 2024-12-13T08:31:02-06:00
-modified: '"2024-12-13 12:13", "5tc/G12T+6"'
+modified: '"2024-12-13 12:31", "5tc/G12T+6"'
 ---
 # :EsEscalaBlank: HOME - Escala24x7
 
@@ -61,3 +61,7 @@ sort asc
 ## Enlaces  
 [20241119 1249 - Enlaces Escala24x7](20241119%201249%20-%20Enlaces%20Escala24x7.md)
 
+
+
+-----
+[[2024-12-13 - Workflow - Gestion de Proyectos y Tareas Escala24x7]]
