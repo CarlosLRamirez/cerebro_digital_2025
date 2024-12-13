@@ -9,6 +9,7 @@ cssclasses:
   - wide-page
 tags:
   - Escala24x7
+modified: '"2024-12-13 15:27", "5tc/G12T+6"'
 ---
 
 > [!multi-column]
@@ -173,4 +174,3 @@ tags:
 - [x] Pendiente PaO, segunda sesión actualizar status de tickets a la fecha en el checklist #followup ✅ 2024-11-11
 
 --------
-[[2024-12-09T191216 - Pilar de Trabajo (Escala24x7)]]
