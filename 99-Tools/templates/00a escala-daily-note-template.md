@@ -22,10 +22,18 @@ Hoy es <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MM
 
 ## Apuntes Proyectos
 
+## Minutas del Dia
 
+ ```dataview
+table date as "Fecha de Reunión", IDProyecto as "ID del Proyecto"
+from "04-Work@Escala24x7/Minutas"
+where contains(type, "minuta")
+where date = date(this.file.frontmatter.date)
+sort date asc
+```
 
 
 ----
 **Notas relacionadas:**
-[[2024-12-13 - Agenda Escala24x7 TOC]]
+[[TOC-Agenda Escala24x7]]
 

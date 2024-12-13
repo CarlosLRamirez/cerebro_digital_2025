@@ -1,11 +1,22 @@
 ---
 cssclasses: []
 ultima-modificacion: 2024-12-13T08:31:02-06:00
-modified: '"2024-12-13 08:33", "5tc/G12T+6"'
+modified: '"2024-12-13 12:13", "5tc/G12T+6"'
 ---
+# :EsEscalaBlank: HOME - Escala24x7
+
+[[TOC-Agenda Escala24x7]]
 
 
-# 👨‍💼 HOME - Escala24x7
+## Tareas
+
+```dataview
+TASK
+FROM "04-Work@Escala24x7"
+WHERE !completed
+GROUP by tags
+```
+
 
 [[20241119 1249 - Enlaces Escala24x7]]
 [[20241119 1317 - Registro de horas]]

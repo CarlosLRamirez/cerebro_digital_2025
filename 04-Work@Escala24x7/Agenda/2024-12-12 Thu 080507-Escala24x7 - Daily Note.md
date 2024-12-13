@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-13 10:52", "5tc/G12T+6"'
+modified: '"2024-12-13 12:17", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -92,6 +92,7 @@ entre 3 y 4 estuve revisando correos
 	- Ya tienen la base de Networking ya desplegada
 	- Al momento no se tiene ningún inconveniente.
 - Axity dicen que no recibieron el acta de la ultima sesión: Daniel Bernal daberyha@proveedores.davivienda.com
+	- Si estaba Daniel Bernal en el correo
 
 **Punto de accion**
 - enviar un correo preguntando por la nueva imagen con RedHat
@@ -115,6 +116,6 @@ sort date asc
 ```
 ----
 **Notas relacionadas:**
-[[2024-12-13 - Agenda Escala24x7 TOC]]
+[[TOC-Agenda Escala24x7]]
 
 

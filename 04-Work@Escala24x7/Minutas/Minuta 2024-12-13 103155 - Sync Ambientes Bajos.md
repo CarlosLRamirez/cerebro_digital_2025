@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T10:31:55
-modified: '"2024-12-13 10:47", "5tc/G12T+6"'
+modified: '"2024-12-13 12:20", "5tc/G12T+6"'
 date: 2024-12-13
 type:
   - minuta
@@ -65,7 +65,10 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Podriamos iniciar con la replica de Oracle, 
 
 ## Puntos de Acción acordados
-- 
+- [ ] Ajustar las cadencias para Martes y Jueves, incluir a David Chaparro y Daniel Bernal #id11206 
+	- Dejar la del martes para un proyecto
+	- Y la del Miercoles para le otro proyecto
+
 
 ## Proxima Reunión
 *   

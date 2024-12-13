@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T18:27:08
-modified: '"2024-12-13 11:36", "5tc/G12T+6"'
+modified: '"2024-12-13 11:57", "5tc/G12T+6"'
 type:
   - Home
   - TOC
@@ -15,6 +15,8 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 [[HOME-Escala24x7]]
 
 
+
+:My70f9e70f55172f6a:
 
 
 - 📝 [[01-Quick Notes]] (Notas rápidas y captura de ideas)

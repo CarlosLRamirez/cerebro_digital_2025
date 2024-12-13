@@ -4,6 +4,7 @@ IDProyecto: "11065"
 statusProyecto: Activo
 cssclasses:
   - wide-page
+modified: '"2024-12-13 12:11", "5tc/G12T+6"'
 ---
 
 
@@ -171,8 +172,8 @@ cssclasses:
 	- 20/Nov: Necesitamos tener sesión con Technysis para ver tema de connectiividad, junto con Jhonathan Muñoz, el cree que son rutas del lado de Azure #
 - [ ] Reorganizacion de Codigo a peticion de CybarSeguridad Jose Miguel Vanegas #followup 
 	-  19/Nov: Iliana lo esta trabajando, dijo que era cuestion de un dia, dar seguimiento 
-- [ ] Ultimos ajustes de Desarrollo
-	- 19/Nov: Nelson dice que son solo ajustes cosmeticos, dar seguimiento #followup 
+- [ ] Ultimos ajustes de Desarrollo #id11065 #followup
+	- 19/Nov: Nelson dice que son solo ajustes cosmeticos, dar seguimiento 
 - [ ] Error de Comunicación con GoAnywhere #followup
 	- 19/Nov: Lina se llevó el tema, dar seguimiento
 

@@ -2,6 +2,7 @@
 type: Minuta
 IDProyecto: INT-CECA
 date: 2024-11-19
+modified: '"2024-12-13 12:06", "5tc/G12T+6"'
 ---
 `
 
@@ -45,7 +46,6 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * [ ] Debemos enviar todos los meses la horas a finanzas, Novys tiene un formato #followup   ⏫ 
 * [x] Revisar presentaciones de EMX de este mes #emx 📅 2024-11-19
-* [ ] 
 
 [[../20241119 Dashbord de Quicksight de Escala|20241119 Dashbord de Quicksight de Escala]]
 

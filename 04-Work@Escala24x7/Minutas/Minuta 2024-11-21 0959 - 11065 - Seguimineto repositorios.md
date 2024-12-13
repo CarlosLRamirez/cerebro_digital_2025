@@ -2,6 +2,7 @@
 type: Minuta
 IDProyecto: "11065"
 date: 2024-11-21
+modified: '"2024-12-13 12:10", "5tc/G12T+6"'
 ---
 `
 
@@ -45,7 +46,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * 
 ## Temas Discutidos
-- [ ] Cori tiene problemas con el MFA de Davivienda para el Github
+- [ ] Cori tiene problemas con el MFA de Davivienda para el Github #id11065
 	- Se necesita pedir soporte al cliente
 - Comunicacion SuperAppç
 	- Ellos tienen que arreglar el enrutamiento, agregar los IPS
