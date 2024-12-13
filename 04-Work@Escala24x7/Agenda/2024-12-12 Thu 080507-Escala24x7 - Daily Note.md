@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-13 13:16", "5tc/G12T+6"'
+modified: '"2024-12-13 13:48", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -36,7 +36,6 @@ entre 3 y 4 estuve revisando correos
 ## Apuntes Proyectos
 
 ### 11236-Davivienda-PER
-
 - Hoy es la primera sesión técnica entre Dav, MC y Escala24x7 a mis 10am
 - A las 9 programé una sync previa con Frank
 - Cuadro Resumen al dia de hoy: https://docs.google.com/spreadsheets/d/1d_elL-W5sRhfpDWoLm_8fQopYCPJsZcJYY1ySIFu_Kg/edit?gid=0#gid=0
@@ -45,45 +44,47 @@ entre 3 y 4 estuve revisando correos
 - Matriz RACI Escala/MC #followup #id11236 
 	- https://docs.google.com/spreadsheets/d/1O1jAzv0Ce6NdZIB3_utt-5omStVyI5EjQIc8057rC4I/edit?gid=0#gid=0 -- Esta vacia 😀
 	- hay que marcar bien quienes son los responsables, por ejemplo, de seguridad perimetra (Davi CO), publicacion de las apps (Davi CO), devops (Davi CO), etc
-- [ ] Completar la Matriz RACI - Gestionar #id11236
+- [ ] Completar la Matriz RACI - Gestionar #id11236 📅 2024-12-16 
 - Presentacion de Kickoff: https://docs.google.com/presentation/d/1ijw8Jg_yd7rZFv_BgKHDpiiHjZ4jCnFENQIkNs4WXT0/edit#slide=id.p1
 - Plantilla Backlog:  https://docs.google.com/spreadsheets/d/1xAVlg8fVIGKjSWj7J1id53kNlgxX7QrULvLEpqYaRQ4/edit?gid=1120027636#gid=1120027636 -- Esta vacia 😀
 
-
-### 10854 - Cempro #id10854
+### 10854 - Cempro 
 - Según el ultimo informe ya se terminaron las migracions Lift & Shift
 - Solo queda pendiente la ventana para la salida a producción de APP Ruteo
-- [ ] Confirmar con Jhonatan y resto del equipo #id10854
-- [ ] Como quedaron los PaO? #id10854
-- [ ] Hubo un issue con la aplicacion de marcajes? #id10854
+- [x] Confirmar con Jhonatan y resto del equipo #id10854 ✅ 2024-12-13
+- [ ] Agendar PaO de Lift&Shif? #id10854 📅 2024-12-16 
+- [x] Hubo un issue con la aplicacion de marcajes? #id10854 ✅ 2024-12-13
+- Ventana de AppRuteo #followup #id10854
 
 
-### 11065 - Whitelist - Davivienda #id11065
-- Vamos por el pase a Laboratorio (QA), ya casí estamos listos para desplegar
+### 11065 - Whitelist - Davivienda 
+- Vamos por el pase a Laboratorio (QA), ya casi estamos listos para desplegar
 - Davivienda tenia pendiente la corrección de unos módulos
 	- CloudWatch y ALB: dicen que ya lo liberamos
 	- Aún nos esta dando un error con el ALB
 	- El MBaSS no resuelve por DNS, en conclusión ya no va ir por ALB
 		- El cliente esta de acuerdo, que no va resolver por nombre, solo por IP
 		- Los vamos a comentar nuevamente - Cori
+- Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
 
 **Siguientes Pasos**
-- Estamos esperando el GO del cliente para pasar a la Laboratorio
+- Estamos esperando el GO del cliente para pasar a la Laboratorio #followup #id11065
 - Hacer el branch (Laboratorio) ✅ 
 - Configuración del Pipeline para que tome el ambiente Laboratorio ✅ 
 - DAV debería tener configurados los secrets - Iliana va confirmar ✅ 
 - Solo hay que hacer el Pull Request ✅ 
-- Alberto Madrir debe crear unos usuarios #followup
-- Nelson esta resoliviendo unos temas de la redacción de los correos
+- Alberto Madrir debe crear unos usuarios #followup #id11065
+- Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
 
-### 11206 - Ambientes Bajos #id11206
+### 11206 - Ambientes Bajos 
 - Ya se desplegó CR con el ambiente, ya esta clonado el RDS. Solo falta que nos digan como serían las pruebas.
 	- Están pendientes una rutas en el TGW.
 - Necesitamos coordinar una reunión para coordinar las pruebas de ambientes bajos con la seguridad perimetral.
 - Los otros países aún no están desplegados, primero queremos hacer las pruebas Integrales.
 
 **Punto de Accion**
-- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
+- Fernando quedo de llevarse para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica #id11206 #followup
+	- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
 
 ### 11221 - DR #id11221
 - David Chaparro: avances sobre la cuenta Shared-Services
