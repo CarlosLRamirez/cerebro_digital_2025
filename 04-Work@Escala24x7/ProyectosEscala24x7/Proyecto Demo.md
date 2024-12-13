@@ -1,9 +1,14 @@
 ---
-type: proyecto
-IDProyecto: "9999"
-statusProyecto: Demo
+type:
+  - proyecto
+IDProyecto:
+  - "9999"
+statusProyecto:
+  - Demo
 cssclasses:
   - wide-page
+tags:
+  - Escala24x7
 ---
 
 > [!multi-column]

@@ -1,9 +1,14 @@
 ---
-type: proyecto
-IDProyecto: "10915"
-statusProyecto: Suspendido
+type:
+  - proyecto
+IDProyecto:
+  - "10915"
+statusProyecto:
+  - Suspendido
 cssclasses:
   - wide-page
+tags:
+  - Escala24x7
 ---
 
 > [!multi-column]

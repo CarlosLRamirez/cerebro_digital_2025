@@ -1,9 +1,15 @@
 ---
-type: proyecto
-IDProyecto: emx-davivienda
-statusProyecto: Activo
+type:
+  - emx
+IDProyecto:
+  - emx-davivienda
+statusProyecto:
+  - Activo
 cssclasses:
   - wide-page
+modified: '"2024-12-13 14:59", "5tc/G12T+6"'
+tags:
+  - Escala24x7
 ---
 
 > [!multi-column]

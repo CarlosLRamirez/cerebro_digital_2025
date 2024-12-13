@@ -1,10 +1,15 @@
 ---
-type: proyecto
-IDProyecto: "11065"
-statusProyecto: Activo
+type:
+  - proyecto
+IDProyecto:
+  - "11065"
+statusProyecto:
+  - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-13 12:11", "5tc/G12T+6"'
+modified: '"2024-12-13 15:11", "5tc/G12T+6"'
+tags:
+  - Escala24x7
 ---
 
 

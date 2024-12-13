@@ -1,12 +1,15 @@
 ---
-type:
-  - proyecto
+created: 2024-12-13T15:14:00
+modified: '"2024-12-13 15:15", "5tc/G12T+6"'
 IDProyecto:
-  - "10859"
+  - "11221"
 statusProyecto:
-  - Cerrado
+  - activo
 cssclasses:
   - wide-page
+type:
+  - proyecto
+aliases: 
 tags:
   - Escala24x7
 ---
@@ -168,10 +171,4 @@ tags:
 
 ---- 
 # Apuntes
-- [x] Hacer PaO Cyberbank Honduras #followup
-- [x] Tema de Ticket por Clonación instancia, preguntar como van?  📅 2024-05-31
 
-
-
---------
-[[2024-12-09T191216 - Pilar de Trabajo (Escala24x7)]]

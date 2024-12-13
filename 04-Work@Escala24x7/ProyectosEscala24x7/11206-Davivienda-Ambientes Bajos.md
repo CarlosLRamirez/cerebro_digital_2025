@@ -1,9 +1,15 @@
 ---
-type: proyecto
-IDProyecto: "11206"
-statusProyecto: Activo
+type:
+  - proyecto
+IDProyecto:
+  - "11206"
+statusProyecto:
+  - activo
 cssclasses:
   - wide-page
+tags:
+  - Escala24x7
+modified: '"2024-12-13 15:11", "5tc/G12T+6"'
 ---
 
 > [!multi-column]

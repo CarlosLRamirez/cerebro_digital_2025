@@ -1,12 +1,19 @@
 ---
-cssclasses: []
-ultima-modificacion: 2024-12-13T08:31:02-06:00
-modified: '"2024-12-13 12:31", "5tc/G12T+6"'
+created: 2024-12-13T15:13:00
+modified: '"2024-12-13 15:17", "5tc/G12T+6"'
+cssclasses:
+  - wide-page
+type:
+  - Home
+aliases: 
+tags:
+  - Escala24x7
 ---
 # :EsEscalaBlank: HOME - Escala24x7
 
 [[TOC-Agenda Escala24x7]]
 
+[Indice de Minutas](Indice%20de%20Minutas.md)
 
 ## Tareas
 
@@ -24,36 +31,14 @@ GROUP by tags
 
 
 ## Proyectos Escala24x7
-
-[Indice de Minutas](Indice%20de%20Minutas.md)
-
-### Activos
-
+solo activos
 ```dataview
-TABLE IDProyecto, statusProyecto
+TABLE statusProyecto
 from "04-Work@Escala24x7/ProyectosEscala24x7"
-where type = "proyecto" and statusProyecto = "Activo"
+WHERE contains(type, "proyecto")
+WHERE contains(statusProyecto, "activo")
 sort IDProyecto asc
 ```
-
-### Cerrado, Transferidos o Cancelados
-
-```dataview
-TABLE IDProyecto, statusProyecto
-from "escala24x7/proyectos"
-where type = "proyecto" and (statusProyecto = "Cerrado" or statusProyecto = "Cancelado" or statusProyecto = "Transferido" or statusProyecto = "Suspendido")
-sort IDProyecto asc
-```
-
-### Todos  los proyectos
-
-```dataview
-TABLE IDProyecto, statusProyecto
-from "escala24x7/proyectos"
-where type="proyecto"
-sort asc
-```
-
 
 ## Accounts
 ### Davivienda CECA

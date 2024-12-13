@@ -1,11 +1,14 @@
 ---
 type:
   - proyecto
-IDProyecto: "11100"
+IDProyecto:
+  - "11100"
 statusProyecto:
   - Cerrado
 cssclasses:
   - wide-page
+tags:
+  - Escala24x7
 ---
 
 > [!multi-column]

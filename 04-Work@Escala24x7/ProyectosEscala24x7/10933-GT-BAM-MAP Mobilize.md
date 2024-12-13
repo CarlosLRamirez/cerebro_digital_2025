@@ -1,9 +1,14 @@
 ---
-type: proyecto
-IDProyecto: "10933"
-statusProyecto: Transferido
+type:
+  - proyecto
+IDProyecto:
+  - "10933"
+statusProyecto:
+  - Transferido
 cssclasses:
   - wide-page
+tags:
+  - Escala24x7
 ---
 
 > [!multi-column]

@@ -1,7 +1,12 @@
 ---
-type: proyecto
-IDProyecto: "10858"
-statusProyecto: Cerrado
+type:
+  - proyecto
+IDProyecto:
+  - "10858"
+statusProyecto:
+  - Cerrado
+tags:
+  - Escala24x7
 ---
 
 
