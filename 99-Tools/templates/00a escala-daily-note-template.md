@@ -27,3 +27,5 @@ Hoy es <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MM
 
 ----
 **Notas relacionadas:**
+[[2024-12-13 - Agenda Escala24x7 TOC]]
+

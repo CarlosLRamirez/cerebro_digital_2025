@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-13 08:28", "5tc/G12T+6"'
+modified: '"2024-12-13 10:52", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -115,4 +115,6 @@ sort date asc
 ```
 ----
 **Notas relacionadas:**
+[[2024-12-13 - Agenda Escala24x7 TOC]]
+
 

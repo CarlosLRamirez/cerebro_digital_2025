@@ -1,13 +1,14 @@
 ---
 created: 2024-12-13T10:31:55
-modified: '"2024-12-13 10:41", "5tc/G12T+6"'
+modified: '"2024-12-13 10:47", "5tc/G12T+6"'
 date: 2024-12-13
 type:
   - minuta
 aliases: 
 tags:
   - Escala24x7
-IDProyecto: 
+IDProyecto:
+  - "11206"
 ---
 
 `
