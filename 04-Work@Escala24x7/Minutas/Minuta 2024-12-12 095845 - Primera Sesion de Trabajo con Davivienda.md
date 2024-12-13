@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T09:58:45
-modified: '"2024-12-12 11:54", "4tc/G12T+6"'
+modified: '"2024-12-13 16:34", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - minuta
@@ -60,7 +60,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * 
 
 ## Puntos de Acción acordados
-- Organizacion de recursos en cuentas y distribución de costos: #followup
+- [ ] Organizacion de recursos en cuentas y distribución de costos: #followup
 	- Sandra dice no usar cuentas Shared
 	- El objetivo es desplegar sus propias cuentas (3 para PER por ambiente (DEV,LAB,PROD), y 3 para Camara Compensacion (una por ambiente) - Total 6 cuentas
 	- Las cuentas compartidas son por paises
@@ -72,11 +72,11 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	- Todos los componentes son una sola solucion...no se puede taggear por tasks.
 	- El consumo lo debe gestionar la aplicacion 🚩
 		- A futuro!! en este momento la estrategia debe ser fija
-	- Sesion de Etiquetado #followup
+	- [ ] Sesion de Etiquetado #followup
 	- Conclusion: sesiones nuevas, por ambiente (6 en total)
-- Darwin Gabriel Arellano pide sesiones para revisar la infraestructura. Diferencias entre laboratorio y producción. #followup
+- [ ] Darwin Gabriel Arellano pide sesiones para revisar la infraestructura. Diferencias entre laboratorio y producción. #followup
 	- Hay componentes que no son iguales entre ambientes (F5, etc..)
-- Infraestructura de seguridad perimetral #followup ⚠ 🔺 🚩 🚩
+- [ ] Infraestructura de seguridad perimetral #followup ⚠ 🔺 🚩 🚩
 	- Esto es administrado por Cyberseguridad Colombia
 
 
@@ -98,10 +98,10 @@ Principales actividades
 	- Pipelines
 - Se solicita que se tenga alguna persona asignada de DevOps y Seguridad al proyecto
 
-3. Lineamientos de seguridad #followup
+- [ ] Lineamientos de seguridad #followup
 
-- Definicion de Historias de Usuario con el analista funcional (Rerfinamiento de Backlog)
-	- MC pide acceso a JIRA - en cual Jira #followup
+- [ ] Definicion de Historias de Usuario con el analista funcional (Rerfinamiento de Backlog)
+	- [ ] MC pide acceso a JIRA - en cual Jira #followup
 	- MC tambien pide los prototipos
 	- Con eso pueden empezar a volcar los HU
 

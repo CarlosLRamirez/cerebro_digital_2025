@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-13 14:06", "5tc/G12T+6"'
+modified: '"2024-12-13 16:34", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -41,7 +41,7 @@ entre 3 y 4 estuve revisando correos
 - Cuadro Resumen al dia de hoy: https://docs.google.com/spreadsheets/d/1d_elL-W5sRhfpDWoLm_8fQopYCPJsZcJYY1ySIFu_Kg/edit?gid=0#gid=0
 - El Kickoff con el cliente fue el martes 10/Dic - Buscar la grabacion
 - [ ] Ver grabaciones de Kickoff y Prekickoff #id11236 📅 2024-12-13 
-- Matriz RACI Escala/MC #followup #id11236 
+- [ ] Matriz RACI Escala/MC #followup #id11236 
 	- https://docs.google.com/spreadsheets/d/1O1jAzv0Ce6NdZIB3_utt-5omStVyI5EjQIc8057rC4I/edit?gid=0#gid=0 -- Esta vacia 😀
 	- hay que marcar bien quienes son los responsables, por ejemplo, de seguridad perimetra (Davi CO), publicacion de las apps (Davi CO), devops (Davi CO), etc
 - [ ] Completar la Matriz RACI - Gestionar #id11236 📅 2024-12-16 
@@ -54,7 +54,7 @@ entre 3 y 4 estuve revisando correos
 - [x] Confirmar con Jhonatan y resto del equipo #id10854 ✅ 2024-12-13
 - [ ] Agendar PaO de Lift&Shif? #id10854 📅 2024-12-16 
 - [x] Hubo un issue con la aplicacion de marcajes? #id10854 ✅ 2024-12-13
-- Ventana de AppRuteo #followup #id10854
+- [ ] Ventana de AppRuteo #followup #id10854
 
 
 ### 11065 - Whitelist - Davivienda 
@@ -65,16 +65,16 @@ entre 3 y 4 estuve revisando correos
 	- El MBaSS no resuelve por DNS, en conclusión ya no va ir por ALB
 		- El cliente esta de acuerdo, que no va resolver por nombre, solo por IP
 		- Los vamos a comentar nuevamente - Cori
-- Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
+- [ ] Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
 
 **Siguientes Pasos**
-- Estamos esperando el GO del cliente para pasar a la Laboratorio #followup #id11065
+- [ ] Estamos esperando el GO del cliente para pasar a la Laboratorio #followup #id11065
 - Hacer el branch (Laboratorio) ✅ 
 - Configuración del Pipeline para que tome el ambiente Laboratorio ✅ 
 - DAV debería tener configurados los secrets - Iliana va confirmar ✅ 
 - Solo hay que hacer el Pull Request ✅ 
-- Alberto Madrir debe crear unos usuarios #followup #id11065
-- Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
+- [ ] Alberto Madrir debe crear unos usuarios #followup #id11065
+- [ ] Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
 
 ### 11206 - Ambientes Bajos 
 - Ya se desplegó CR con el ambiente, ya esta clonado el RDS. Solo falta que nos digan como serían las pruebas.
@@ -83,7 +83,7 @@ entre 3 y 4 estuve revisando correos
 - Los otros países aún no están desplegados, primero queremos hacer las pruebas Integrales.
 
 **Punto de Accion**
-- Fernando quedo de llevarse para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica #id11206 #followup
+- [ ] Fernando quedo de llevarse para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica #id11206 #followup
 	- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
 
 ### 11221 - DR 
@@ -95,8 +95,8 @@ entre 3 y 4 estuve revisando correos
 	- Al momento no se tiene ningún inconveniente.
 - Axity dicen que no recibieron el acta de la ultima sesión: Daniel Bernal daberyha@proveedores.davivienda.com
 	- Si estaba Daniel Bernal en el correo
-- Seguimiento a despliegue de Seguridad Perimetral #followup #id11221
-- Seguimiento a imagen de Redhat #followup #id11221
+- [ ] Seguimiento a despliegue de Seguridad Perimetral #followup #id11221
+- [ ] Seguimiento a imagen de Redhat #followup #id11221
 
 **Punto de accion**
 - [ ] Enviar un correo preguntando por la nueva imagen con RedHat #id11221 📅 2024-12-16 

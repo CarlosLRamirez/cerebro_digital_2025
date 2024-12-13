@@ -3,6 +3,7 @@ type:
   - Minuta
 IDProyecto: "11206"
 date: 2024-11-05
+modified: '"2024-12-13 16:32", "5tc/G12T+6"'
 ---
 `
 
@@ -46,11 +47,11 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * 
 ## Temas Discutidos
-*  Backups, pendiente definir periodicidad #followup 
-* Revisar temas de balanceo #followup 
-- sCon cleafy ya no es extrictamente necesario el NGINX
-- Sesiones para socializar con los paises davivienda el SLA de DR #followup 
-- 
+*  [ ] Backups, pendiente definir periodicidad #followup 
+* [ ] Revisar temas de balanceo #followup 
+- Con cleafy ya no es extrictamente necesario el NGINX
+- [ ] Sesiones para socializar con los paises davivienda el SLA de DR #followup 
+
 
 ## Puntos de Acción acordados
 - 
