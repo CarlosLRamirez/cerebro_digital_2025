@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-13 13:48", "5tc/G12T+6"'
+modified: '"2024-12-13 14:06", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -86,7 +86,7 @@ entre 3 y 4 estuve revisando correos
 - Fernando quedo de llevarse para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica #id11206 #followup
 	- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
 
-### 11221 - DR #id11221
+### 11221 - DR 
 - David Chaparro: avances sobre la cuenta Shared-Services
 	- Ya se desplegó la primer máquina Palo Alto
 	- Desplegaron una maquina tipo Bastión
@@ -95,14 +95,16 @@ entre 3 y 4 estuve revisando correos
 	- Al momento no se tiene ningún inconveniente.
 - Axity dicen que no recibieron el acta de la ultima sesión: Daniel Bernal daberyha@proveedores.davivienda.com
 	- Si estaba Daniel Bernal en el correo
+- Seguimiento a despliegue de Seguridad Perimetral #followup #id11221
+- Seguimiento a imagen de Redhat #followup #id11221
 
 **Punto de accion**
-- enviar un correo preguntando por la nueva imagen con RedHat
+- [ ] Enviar un correo preguntando por la nueva imagen con RedHat #id11221 📅 2024-12-16 
 
 ## Otros temas
 - Performance Review 2024 https://drive.google.com/file/d/1kNEYfFGPQoYBtp02nbMy-JB9xZVnpV_R/view?usp=sharing
 - Convivio Escala24x7 el jueves 19 de Diciembre
-- [ ] Enviar consumo de horas a Sandra Lucas #PMO 
+- [ ] Enviar consumo de horas a Sandra Lucas #PMO  📅 2025-01-02 
 	- Ejemplo: ![[Pasted image 20241212115900.png]]
 	- Enviarlo mensualmente a partir del 2025
 
