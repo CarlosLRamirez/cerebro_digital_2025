@@ -46,7 +46,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * 
 ## Temas Discutidos
-- [ ] Cori tiene problemas con el MFA de Davivienda para el Github #id11065
+- [x] Cori tiene problemas con el MFA de Davivienda para el Github #id11065
 	- Se necesita pedir soporte al cliente
 - Comunicacion SuperAppç
 	- Ellos tienen que arreglar el enrutamiento, agregar los IPS

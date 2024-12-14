@@ -48,17 +48,17 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * 
 ## Temas Discutidos
-* [ ] Conectividad Ambiente DEV  #id11065
+* [x] Conectividad Ambiente DEV  #id11065
 	* Aún hay unos problemas con SuperApp
 	* Luego de los cambios de Jhonatan dicen que siguen
 	* Cori realizó unos cambios y le va decir al cliente que vuelva a probar.
 	* Se implemento un ALB, el cual no era parte de la infraestructura original (MBaaS o SuperApp).
 * Pipelines
-	- [ ]  Ayer que se tuvo reunion con Carlos y Daniel, y hay cambios solicitados de refactorización de código. Iliana estaría trabajando en eso  #id11065
+	- [x] Ayer que se tuvo reunion con Carlos y Daniel, y hay cambios solicitados de refactorización de código. Iliana estaría trabajando en eso  #id11065
 		* Eso nos impactaría la infra otra vez
 		* Son los últimos cambios que pidió seguridad.
 * Desarrollo
-	* [ ] Nelson aún tienen algunos pendientes cosméticos, a nivel de Lambdas  #id11065
+	* [x] Nelson aún tienen algunos pendientes cosméticos, a nivel de Lambdas  #id11065
 	* [x] El tema de las suscripción con Honduras ya se solventaron?  Nelson cree que hicieron click a correos viejos.. #followup ✅ 2024-11-19
 		* Nelson dice que ya todas están aceptadas
 	* [ ] Hay un error de comunicación con GoAnywhere Lina lo esta revisando internamente, puede que sea causa de los cambios en KMS. Se necesitará una sesión #iid11065

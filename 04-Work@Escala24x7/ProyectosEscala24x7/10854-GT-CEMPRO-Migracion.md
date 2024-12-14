@@ -7,7 +7,7 @@ cssclasses:
   - wide-page
 tags:
   - Escala24x7
-modified: '"2024-12-13 16:31", "5tc/G12T+6"'
+modified: '"2024-12-13 16:41", "5tc/G12T+6"'
 type:
   - proyecto
 ---
@@ -16,7 +16,7 @@ type:
 >
 >> [!tip]+ Do Today
 >> ```dataview
->> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due < date(today) AND !completed
+>> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due < date(today) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
 >>```
 >
 >> [!abstract]+ Do Tomorrow
