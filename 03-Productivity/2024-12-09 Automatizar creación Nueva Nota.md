@@ -28,7 +28,7 @@ await tp.file.rename(newName);
 Hay otra forma para que automáticamente le de formato a la nota al momento de su creación pero aún no lo he podido aplicar
 
 #todo/obsidian
-- [ ] Implementar automatización al crear notas nuevas
+- [x] Implementar automatización al crear notas nuevas
   
 
 ---

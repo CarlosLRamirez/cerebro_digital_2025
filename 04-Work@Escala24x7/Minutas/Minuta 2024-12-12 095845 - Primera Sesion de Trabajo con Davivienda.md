@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T09:58:45
-modified: '"2024-12-13 16:34", "5tc/G12T+6"'
+modified: '"2024-12-14 10:56", "6tc/G12T+6"'
 date: 2024-12-12
 type:
   - minuta
@@ -100,8 +100,8 @@ Principales actividades
 
 - [ ] Lineamientos de seguridad #followup
 
-- [ ] Definicion de Historias de Usuario con el analista funcional (Rerfinamiento de Backlog)
-	- [ ] MC pide acceso a JIRA - en cual Jira #followup
+- [ ] Definicion de Historias de Usuario con el analista funcional (Rerfinamiento de Backlog) #followup
+- [ ] MC pide acceso a JIRA - en cual Jira #followup
 	- MC tambien pide los prototipos
 	- Con eso pueden empezar a volcar los HU
 

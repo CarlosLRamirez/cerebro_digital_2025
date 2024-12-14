@@ -21,7 +21,7 @@ tags:
 #todo/comprasdiciembre
 - [x] Pavo
 - [x] Trajes pants niños
-- [ ] Ropa interior
+- [x] Ropa interior
 - [ ] Pachones
 - [ ] Zapatos cole cata
 - [x] Mochila Víctor
