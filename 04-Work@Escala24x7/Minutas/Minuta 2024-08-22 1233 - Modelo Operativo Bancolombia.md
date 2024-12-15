@@ -37,5 +37,5 @@ date: 2024-08-22
 *   
 
 ---
-Template: [[Minuta 2024-12-12 0935 - Minuta de Reunion Proyecto]]
+Template: [[2024-12-15T112346 - Nota Rápida]]
 Author: Carlos Ramírez - 2024

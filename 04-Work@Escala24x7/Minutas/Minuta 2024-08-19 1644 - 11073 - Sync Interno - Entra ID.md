@@ -111,5 +111,5 @@ Si tienes alguna otra duda o necesitas más información, no dudes en preguntar.
 *   
 
 ---
-Template: [[Minuta 2024-12-12 0935 - Minuta de Reunion Proyecto]]
+Template: [[2024-12-15T112346 - Nota Rápida]]
 Author: Carlos Ramírez - 2024
