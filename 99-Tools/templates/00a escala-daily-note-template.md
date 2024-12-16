@@ -8,22 +8,20 @@ aliases:
 tags:
   - Escala24x7
 ---
-<%* await tp.file.move("/04-Work@Escala24x7/Agenda/" + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
+<%* await tp.file.move("/04-Work@Escala24x7/Agenda/" + "Escala-" + tp.date.now("YYYY-MM-DD") + " - " + tp.file.title) -%>`
 
 
-**Entrada de diario:** 
-Hoy es <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MMMM') %>, estamos en la semana <% tp.date.now("WW") %> del año <% tp.date.now("YYYY") %>
+**Apuntes de trabajo en Escala2x47** del  <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MMMM') %>, de la semana <% tp.date.now("WW") %> 
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
-
 
 ## Tareas para hoy
 
 
 ## Apuntes Proyectos
 
-## Minutas del Dia
 
+## Minutas del Dia
  ```dataview
 table date as "Fecha de Reunión", IDProyecto as "ID del Proyecto"
 from "04-Work@Escala24x7/Minutas"
@@ -31,7 +29,6 @@ where contains(type, "minuta")
 where date = date(this.file.frontmatter.date)
 sort date asc
 ```
-
 
 ----
 **Notas relacionadas:**

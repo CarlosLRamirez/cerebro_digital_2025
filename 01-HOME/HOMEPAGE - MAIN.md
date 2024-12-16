@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T18:27:08
-modified: '"2024-12-16 09:10", "1tc/G12T+6"'
+modified: '"2024-12-16 10:23", "1tc/G12T+6"'
 type:
   - Home
   - TOC
@@ -13,26 +13,6 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 ## 🌟 Acceso Rápido
 
 [[HOME-Escala24x7]]
-
-
-- Ya hay un desarrollador angular:
-	- Ya esta haciendo pruebas en local
-	- temas de interniozanilzacion (idioma) y zonaç
-	- Carga de imagenes - base64 de forma dinamica
-[ ] A la espera de prototipos (whiteframes) #followup
-		- Figma o XD
-- y el 1ro de Enero ya hay un backend
-
-- Primer entregable
-	- Single-sign on
-	- pantalla de bienvenida
-	- temas de seguridad y autenticacion
-
-- Primera funcionalidad - despliegue del modulo regional de las bancas en linea
-	- Tenemos que hacer la salida de cada modulo local hacia el regiona
-	- No nos queda claro de quien es la resposabilidad
-	- 🚩 Como se van a integrar las bancas en lineas actuales para integrarse al modulo regional #followup 
-
 
 
 
