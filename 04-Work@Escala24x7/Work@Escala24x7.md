@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-13 15:17", "5tc/G12T+6"'
+modified: '"2024-12-16 11:37", "1tc/G12T+6"'
 cssclasses:
   - wide-page
 type:
@@ -11,9 +11,7 @@ tags:
 ---
 # :EsEscalaBlank: HOME - Escala24x7
 
-[[TOC-Agenda Escala24x7]]
-
-[Indice de Minutas](Indice%20de%20Minutas.md)
+- [[TOC-Agenda Escala24x7]]
 
 ## Tareas
 

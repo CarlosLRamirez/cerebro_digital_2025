@@ -7,16 +7,16 @@ cssclasses:
   - wide-page
 tags:
   - Escala24x7
-modified: '"2024-12-13 16:41", "5tc/G12T+6"'
+modified: '"2024-12-16 11:46", "1tc/G12T+6"'
 type:
   - proyecto
 ---
 
 > [!multi-column]
 >
->> [!tip]+ Do Today
+>> [!tip]+ Do Today or Overdue
 >> ```dataview
->> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due < date(today) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
+>> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due <= date(today) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
 >>```
 >
 >> [!abstract]+ Do Tomorrow
@@ -115,7 +115,5 @@ type:
 	- Analisis de Costos - Jenny
 - [x] Backups SFTP Cempro #followup
 - [x] Etiquetado SFTP #followup
-
-
 
 
