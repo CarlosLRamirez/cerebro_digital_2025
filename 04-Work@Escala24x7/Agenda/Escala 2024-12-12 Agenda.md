@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-16 11:45", "1tc/G12T+6"'
+modified: '"2024-12-16 12:07", "1tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -66,14 +66,15 @@ entre 3 y 4 estuve revisando correos
 		- El cliente esta de acuerdo, que no va resolver por nombre, solo por IP
 		- Los vamos a comentar nuevamente - Cori
 - [ ] Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
+	- Estamos esperando el GO del cliente para pasar a la Laboratorio 
+	- Alberto Madrid debe crear unos usuarios
 
 **Siguientes Pasos**
-- [ ] Estamos esperando el GO del cliente para pasar a la Laboratorio #followup #id11065
+
 - Hacer el branch (Laboratorio) ✅ 
 - Configuración del Pipeline para que tome el ambiente Laboratorio ✅ 
 - DAV debería tener configurados los secrets - Iliana va confirmar ✅ 
 - Solo hay que hacer el Pull Request ✅ 
-- [ ] Alberto Madrir debe crear unos usuarios #followup #id11065
 - [ ] Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
 
 ### 11206 - Ambientes Bajos 

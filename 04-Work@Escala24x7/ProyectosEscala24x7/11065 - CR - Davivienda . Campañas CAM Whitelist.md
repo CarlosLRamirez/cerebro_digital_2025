@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-13 15:11", "5tc/G12T+6"'
+modified: '"2024-12-16 12:12", "1tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -94,9 +94,11 @@ tags:
 
 > [!NOTE]+ Enlaces importantes
 > 
-> - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1f_pl9NjN9ZPFGCo-sBR3EZKUdenrbytD?usp=sharing)
+> - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1iaRCmBPOL5A-4f7GA1GUQtvYlC0cMqFK?usp=drive_link)
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
 > - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACR/boards/733)
+> - [[Work@Escala24x7]]
+
 
 > [!abstract]+ Calendario/Cadencias
 > - Inicio de Sprint:  
@@ -109,15 +111,18 @@ tags:
 
 ## Items abiertos
 
-- [ ] Comunicación desde SuperAPP luego del re-despliegue del ambiente DEV #followup
+
+
+## Items Cerrados
+- [x] Comunicación desde SuperAPP luego del re-despliegue del ambiente DEV #followup #id11065 ✅ 2024-12-16
 	- 20/Nov: Necesitamos tener sesión con Technysis para ver tema de connectiividad, junto con Jhonathan Muñoz, el cree que son rutas del lado de Azure #
-- [ ] Reorganizacion de Codigo a peticion de CybarSeguridad Jose Miguel Vanegas #followup 
+- [x] Reorganizacion de Codigo a peticion de CybarSeguridad Jose Miguel Vanegas #followup #id11065 ✅ 2024-12-16
 	-  19/Nov: Iliana lo esta trabajando, dijo que era cuestion de un dia, dar seguimiento 
-- [ ] Ultimos ajustes de Desarrollo #id11065 #followup
+- [x] Ultimos ajustes de Desarrollo #id11065 #followup ✅ 2024-12-16
 	- 19/Nov: Nelson dice que son solo ajustes cosmeticos, dar seguimiento 
-- [ ] Error de Comunicación con GoAnywhere #followup
+- [x] Error de Comunicación con GoAnywhere #followup ✅ 2024-12-16
 	- 19/Nov: Lina se llevó el tema, dar seguimiento
 
 
+
 --------
-[[2024-12-09T191216 - Pilar de Trabajo (Escala24x7)]]

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:50:33
-modified: '"2024-12-16 11:03", "1tc/G12T+6"'
+modified: '"2024-12-16 12:16", "1tc/G12T+6"'
 date: 2024-12-16
 type:
   - minuta
@@ -17,7 +17,7 @@ IDProyecto:
 
 ### Mobiles Computing
 * Sergio Bonado
-* Juan
+* Juan Galeano (Service Delivery Manager)
 ### Escala24x7
 - Carlos Leonel Ramírez
 -  Frank Caicedo
