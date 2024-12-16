@@ -36,7 +36,7 @@ WHERE !contains(tags, "#followup")
 - [ ] Ver grabaciones del proyecto PER 📅 2024-12-13 #id11236
 - [ ] Ver tema de Inicio de Relacion del proyecto PER 📅 2024-12-13  #id11236
 
-- [ ] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
+- [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
 - [ ] Cargar mis horas el lunes!!! a primera hora #PMO  📅 2024-12-14
 ## Registro de tiempo
 8:00 Organizacion
