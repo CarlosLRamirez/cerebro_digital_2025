@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:16:37
-modified: '"2024-12-16 13:17", "1tc/G12T+6"'
+modified: '"2024-12-16 13:42", "1tc/G12T+6"'
 date: 2024-12-16
 type:
   - daily-note-escala
@@ -35,10 +35,18 @@ WHERE !contains(tags, "#followup")
 - [ ] Temas para hablar con el PM de Davivienda #id11236 #followup
 - Jira de Davivienda
 - Proxima sesiones
-	- Mapa de Dependencias de comunicaciones
+	- Mapa de Dependencias de comunicaciones 
+		- Hoy en la tarde me confirma
+	- Sesiones de Empalme 
+		- A partir de manaña en adelante a las 9am
 - Cadencia sesiones
 - Requerimientos para accesos a Github
+	- Hoy tienen una sesion con el equipo de Whitelist, hoy en la tarde me confirman que necesitan
 - Prototipos UI/UX
+	- Mockups 
+	- Martin
+	- Darle el correo del desarrollador front  end a Davivienda (Schedule)
+	- 
 ### 10854
 - [ ] Sesión de PaO Lift &Shift martes 17 Dic #followup #id10854
 ### 11065 -Whitelist
