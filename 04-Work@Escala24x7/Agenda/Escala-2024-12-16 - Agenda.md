@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:16:37
-modified: '"2024-12-16 12:18", "1tc/G12T+6"'
+modified: '"2024-12-16 13:17", "1tc/G12T+6"'
 date: 2024-12-16
 type:
   - daily-note-escala
@@ -29,22 +29,28 @@ WHERE !contains(tags, "#followup")
 
 ### 11236 PER Daivienda
 
-Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663)
-Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664)
+- [ ] Se abrio Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663) #followup #id11236 
+- [ ] Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664) #followup #id11236
 
-#### Temas para hablar con el PM de Davivienda #id11236
+- [ ] Temas para hablar con el PM de Davivienda #id11236 #followup
 - Jira de Davivienda
 - Proxima sesiones
 	- Mapa de Dependencias de comunicaciones
 - Cadencia sesiones
 - Requerimientos para accesos a Github
 - Prototipos UI/UX
-
-
+### 10854
+- [ ] Sesión de PaO Lift &Shift martes 17 Dic #followup #id10854
 ### 11065 -Whitelist
 
 - Actualice el registro de Items Abiertos
-- [ ] Darle seg
+- [ ] Darle seguimiento al cuadro de items abiertos #id11065 #followup 
+
+### 11206  - Davivienda - Ambientes Bajos
+- Se envió un correo con los proximos pasos para las pruebas de conectividad
+- [ ] Dar seguimiento al correo enviado sobre pruebas de conectividad 📅 2024-12-18 #id11206 
+
+
 
 
 ## Minutas del Dia

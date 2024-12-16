@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T10:31:55
-modified: '"2024-12-13 16:31", "5tc/G12T+6"'
+modified: '"2024-12-16 13:15", "1tc/G12T+6"'
 date: 2024-12-13
 type:
   - minuta
@@ -58,7 +58,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* No se tienen las imagenes en Redhat 9, vamos a tener que refrescar Costa Rica cuando estén listos
 	* Los segmentos de red no van a cambiar, solo cambian las IPs,  solo va cambiar el SO d ela instancia
 	* podemos ganar tiempo haciendo las pruebas de  telecomunicaciones, ya que el segmento es el mismo
-	* [ ] Erwin esta haciendo verificaciones en los grupos de seguridad clonados en ambientes bajos. #followup #id11206
+	* Erwin esta haciendo verificaciones en los grupos de seguridad clonados en ambientes bajos.
 * DR ID 11221:
 	* Nosotros ya desplegamos VPC en la región de Ohio
 	* Para DR no vale la pena replicar imagenes con el SO, hasta que este el nuevo SO

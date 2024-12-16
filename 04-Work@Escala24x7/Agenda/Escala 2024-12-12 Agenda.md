@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-16 12:07", "1tc/G12T+6"'
+modified: '"2024-12-16 13:14", "1tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -84,8 +84,11 @@ entre 3 y 4 estuve revisando correos
 - Los otros países aún no están desplegados, primero queremos hacer las pruebas Integrales.
 
 **Punto de Accion**
-- [ ] Fernando quedo de llevarse para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica #id11206 #followup
-	- Buscar una reunión para ver el tema de la conexión contra ciberseguridad
+- [ ] pruebas de conectividad en ambientes bajos (Costa Rica) #id11206 #followup
+	- Davivienda debe dar el visto bueno a los Security Groups
+	- Revision de ruteo con la infraestructura actualmente desplegada.
+	- David Chaparro sugirió tomar estos cambios como soporte a la aplicación y no abrir un proyecto interno para el mismo.7
+	- Fernando quedo de llevarse el punto para la próxima reunión como iniciar la integracón y pruebas del ambiente de Costa Rica 
 
 ### 11221 - DR 
 - David Chaparro: avances sobre la cuenta Shared-Services
