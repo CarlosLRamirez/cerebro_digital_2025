@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:16:37
-modified: '"2024-12-16 10:35", "1tc/G12T+6"'
+modified: '"2024-12-16 10:43", "1tc/G12T+6"'
 date: 2024-12-16
 type:
   - daily-note-escala
@@ -15,7 +15,7 @@ tags:
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
 
 Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663)
-
+Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664)
 
 
 #### Hoy tuve reunion con MC:
