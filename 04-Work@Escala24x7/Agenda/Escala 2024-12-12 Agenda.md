@@ -52,7 +52,7 @@ entre 3 y 4 estuve revisando correos
 - Según el ultimo informe ya se terminaron las migracions Lift & Shift
 - Solo queda pendiente la ventana para la salida a producción de APP Ruteo
 - [x] Confirmar con Jhonatan y resto del equipo #id10854 ✅ 2024-12-13
-- [ ] Agendar PaO de Lift&Shif? #id10854 📅 2024-12-16 
+- [x] Agendar PaO de Lift&Shif? #id10854 📅 2024-12-16
 - [x] Hubo un issue con la aplicacion de marcajes? #id10854 ✅ 2024-12-13
 - [ ] Ventana de AppRuteo #followup #id10854
 
