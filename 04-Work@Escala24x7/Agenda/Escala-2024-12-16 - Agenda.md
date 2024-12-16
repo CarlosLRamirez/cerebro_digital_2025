@@ -14,16 +14,6 @@ tags:
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
 
-Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663)
-Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664)
-
-#### Temas para hablar con el PM de Davivienda #id11236
-- Jira de Davivienda
-- Proxima sesiones
-	- Mapa de Dependencias de comunicaciones
-- Cadencia sesiones
-- Requerimientos para accesos a Github
-- Prototipos UI/UX
 
 
 ## Gestión de Tareas
@@ -36,6 +26,25 @@ WHERE !contains(tags, "#followup")
 ```
 
 ## Apuntes Proyectos
+
+### 11236 PER Daivienda
+
+Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663)
+Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664)
+
+#### Temas para hablar con el PM de Davivienda #id11236
+- Jira de Davivienda
+- Proxima sesiones
+	- Mapa de Dependencias de comunicaciones
+- Cadencia sesiones
+- Requerimientos para accesos a Github
+- Prototipos UI/UX
+
+
+### 11065 -Whitelist
+
+- Actualice el registro de Items Abiertos
+- [ ] Darle seg
 
 
 ## Minutas del Dia

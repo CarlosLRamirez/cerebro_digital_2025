@@ -61,7 +61,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* La petición es que prueben conexión desde Azure hasta el endpoint
 	* Miguel no nos puede dar una fecha, porque es un proveedor de Technysis
 	* Antes funcionaba a una sola IP, hacia el DNS nunca ha funcionado, se quemo en la tabla de host.
-	* [ ] Jhonathan propone implementar una solución en Route53 para el tema de la resolución DNS de SuperApp - #id11065 #followup pedirle que lo envie por correo; 10.231.225.162 Todo lo que va a *.execute-api.us-east-1.amazonaws.com ---> 10.231.225.126, 10.231.225.150 
+	* [x] Jhonathan propone implementar una solución en Route53 para el tema de la resolución DNS de SuperApp - #id11065 #followup pedirle que lo envie por correo; 10.231.225.162 Todo lo que va a *.execute-api.us-east-1.amazonaws.com ---> 10.231.225.126, 10.231.225.150
 
 ## Puntos de Acción acordados
 - 

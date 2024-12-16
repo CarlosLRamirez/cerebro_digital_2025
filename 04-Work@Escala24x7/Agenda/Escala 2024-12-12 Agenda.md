@@ -65,7 +65,7 @@ entre 3 y 4 estuve revisando correos
 	- El MBaSS no resuelve por DNS, en conclusión ya no va ir por ALB
 		- El cliente esta de acuerdo, que no va resolver por nombre, solo por IP
 		- Los vamos a comentar nuevamente - Cori
-- [ ] Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
+- [x] Despliegue en ambiente de Laboratorio de Whitelist #followup #id11065
 	- Estamos esperando el GO del cliente para pasar a la Laboratorio 
 	- Alberto Madrid debe crear unos usuarios
 
@@ -75,7 +75,7 @@ entre 3 y 4 estuve revisando correos
 - Configuración del Pipeline para que tome el ambiente Laboratorio ✅ 
 - DAV debería tener configurados los secrets - Iliana va confirmar ✅ 
 - Solo hay que hacer el Pull Request ✅ 
-- [ ] Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
+- [x] Nelson esta resoliviendo unos temas de la redacción de los correos #followup #id11065
 
 ### 11206 - Ambientes Bajos 
 - Ya se desplegó CR con el ambiente, ya esta clonado el RDS. Solo falta que nos digan como serían las pruebas.
