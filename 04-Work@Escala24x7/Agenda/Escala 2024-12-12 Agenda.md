@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-16 13:14", "1tc/G12T+6"'
+modified: '"2024-12-16 14:57", "1tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -103,7 +103,7 @@ entre 3 y 4 estuve revisando correos
 - [ ] Seguimiento a imagen de Redhat #followup #id11221
 
 **Punto de accion**
-- [ ] Enviar un correo preguntando por la nueva imagen con RedHat #id11221 📅 2024-12-16 
+- [x] Enviar un correo preguntando por la nueva imagen con RedHat #id11221 📅 2024-12-16
 
 ## Otros temas
 - Performance Review 2024 https://drive.google.com/file/d/1kNEYfFGPQoYBtp02nbMy-JB9xZVnpV_R/view?usp=sharing

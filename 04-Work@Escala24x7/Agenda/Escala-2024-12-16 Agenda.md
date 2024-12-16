@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:16:37
-modified: '"2024-12-16 13:48", "1tc/G12T+6"'
+modified: '"2024-12-16 14:58", "1tc/G12T+6"'
 date: 2024-12-16
 type:
   - daily-note-escala
@@ -32,7 +32,7 @@ WHERE !contains(tags, "#followup")
 - [ ] Se abrio Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663) #followup #id11236 
 - [ ] Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664) #followup #id11236
 
-- [ ] Temas para hablar con el PM de Davivienda #id11236 #followup
+- [x] Temas para hablar con el PM de Davivienda #id11236 #followup ✅ 2024-12-16
 - Jira de Davivienda
 - Proxima sesiones
 	- Mapa de Dependencias de comunicaciones 

@@ -87,7 +87,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 **Open Items**
 - [ ] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
 - [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank 📅 2024-12-14  #id11236
-- [ ] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV 📅 2024-12-14  #id11236
+- [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV 📅 2024-12-14  #id11236
 
 
 ## Minutas del dia
