@@ -2,7 +2,7 @@
 type: Minuta
 IDProyecto: "11065"
 date: 2024-11-19
-modified: '"2024-12-13 12:10", "5tc/G12T+6"'
+modified: '"2024-12-16 11:19", "1tc/G12T+6"'
 ---
 `
 
@@ -61,7 +61,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* [x] Nelson aún tienen algunos pendientes cosméticos, a nivel de Lambdas  #id11065
 	* [x] El tema de las suscripción con Honduras ya se solventaron?  Nelson cree que hicieron click a correos viejos.. #followup ✅ 2024-11-19
 		* Nelson dice que ya todas están aceptadas
-	* [ ] Hay un error de comunicación con GoAnywhere Lina lo esta revisando internamente, puede que sea causa de los cambios en KMS. Se necesitará una sesión #iid11065
+	* [x] Hay un error de comunicación con GoAnywhere Lina lo esta revisando internamente, puede que sea causa de los cambios en KMS. Se necesitará una sesión #iid11065 ✅ 2024-12-16
 		* was unexpectedly interrupted. User: arn:aws:iam::975049947086:user/ForGoAnywhere is not authorized to perform: kms:GenerateDataKey on resource: arn:aws:kms:us-east-1:975049947086:key/bcc944ae-4063-4601-b7ca-9cfc931df8e6 because no identity-based policy allows the kms:GenerateDataKey action (Service: Amazon S3; Status Code: 403; Error Code: AccessDenied; Request ID: 9ESK0RXY2FBGP4BW; S3 Extended Request ID: apAvbncJPf0wuKykzzhyxZIqHtgon2OeFKyVDiktiKeWoBdy7WMUaGNqhMF+vSnvUAC06TZxQTc=; Proxy: proxy
 
 ## Puntos de Acción acordados
