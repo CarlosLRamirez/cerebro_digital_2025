@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-16 11:37", "1tc/G12T+6"'
+modified: '"2024-12-16 13:19", "1tc/G12T+6"'
 cssclasses:
   - wide-page
 type:
@@ -19,6 +19,7 @@ tags:
 TASK
 FROM "04-Work@Escala24x7"
 WHERE !completed
+WHERE !contains(tags, "#followup")
 GROUP by tags
 ```
 

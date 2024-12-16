@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:14:00
-modified: '"2024-12-13 15:15", "5tc/G12T+6"'
+modified: '"2024-12-16 13:29", "1tc/G12T+6"'
 IDProyecto:
   - "11221"
 statusProyecto:
@@ -95,6 +95,13 @@ tags:
 >>```
 
 --- 
+**Resumen**
+- Estamos esperando que Davivienda/Axity completen el despliegue de los elementos de seguridad perimetral
+- No podemos replicar instancias hasta que Davivienda nos de el Go de la nueva imagen de SO actualizada 
+
+
+
+--- 
 
 > [!multi-column]
 > 
@@ -170,5 +177,5 @@ tags:
 > - Cerrar Sprint en JIRA: N/A
 
 ---- 
-# Apuntes
+# Anotaciones
 
