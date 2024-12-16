@@ -31,7 +31,7 @@ WHERE !contains(tags, "#followup")
 ## Tareas para hoy
 - [x] Crear Space con Dav #id11236
 - [x] Hablar con Jenny por PER #id11236 ✅ 2024-12-13
-- [ ] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13 
+- [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
 - [ ] Ver grabaciones del proyecto PER 📅 2024-12-13 #id11236
 - [ ] Ver tema de Inicio de Relacion del proyecto PER 📅 2024-12-13  #id11236
@@ -106,5 +106,5 @@ sort date asc
 
 
 **Enlaces**
-[[HOME-Escala24x7]]
+[[Work@Escala24x7]]
 

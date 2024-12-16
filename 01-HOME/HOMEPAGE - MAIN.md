@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T18:27:08
-modified: '"2024-12-16 10:23", "1tc/G12T+6"'
+modified: '"2024-12-16 11:15", "1tc/G12T+6"'
 type:
   - Home
   - TOC
@@ -11,8 +11,8 @@ tags:
 Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de conocimiento.
 
 ## 🌟 Acceso Rápido
+[[Work@Escala24x7]]
 
-[[HOME-Escala24x7]]
 
 
 
@@ -21,7 +21,7 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 
 - 📝 [[01-Quick Notes]] (Notas rápidas y captura de ideas)
 - 📅 [[02-Productividad]] (Tareas, proyectos y planificación)
-- 💼 [[03-Work (Escala24x7)]] (Notas de mi trabajo principal)
+- 💼 [[Work@Escala24x7]] (Notas de mi trabajo principal)
 - 📚 [[04-Knowledge]] (Zettelkasten y gestión del conocimiento)
 - 🗂️ [[05-Archive]] (Proyectos y notas finalizadas)
 
