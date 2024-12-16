@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-16 12:12", "1tc/G12T+6"'
+modified: '"2024-12-16 12:21", "1tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -97,6 +97,7 @@ tags:
 > - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1iaRCmBPOL5A-4f7GA1GUQtvYlC0cMqFK?usp=drive_link)
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
 > - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACR/boards/733)
+> - [Tablero Lucid](https://lucid.app/lucidspark/841a6a6f-4bde-4cc3-b43b-6ea34a6b5229/edit?viewport_loc=-21139%2C-28755%2C20201%2C10578%2C0_0&invitationId=inv_fee142cb-a741-453f-9163-fe6a90650c7e)
 > - [[Work@Escala24x7]]
 
 
