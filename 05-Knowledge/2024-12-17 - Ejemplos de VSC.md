@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T15:11:49
-modified: '"2024-12-17 15:43", "2tc/G12T+6"'
+modified: '"2024-12-17 15:45", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -39,7 +39,19 @@ status:
 - Ampliamente usado durante la era del dot.com 
 - Su arquitectura centralizada y su gran rendimiento lo hicieron la elección de empresas con bases de código grandes y complejos.
 - Se mantiene como el repositorio principal dentro de Google para manejar su extensa base de código (*codebase*)
-## Mercurial
+
+## Subversion
+
+## Team Foundation Server
+
+## Bazaar
+
+# Mercurial
+
+## Git
+
+## Darcs
+
 
 
 **Referencias**
