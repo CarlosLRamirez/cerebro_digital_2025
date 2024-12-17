@@ -72,7 +72,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Como acceder al módulo regional, sin venir de una banca?? 
 	* Darwin Gabriel Arellano dice que eso NO VA -- El unico ingreso es de las bancas en linea
 	* Aun no esta el desarrollo del canal
-	* El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️
+	* El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️ #risk
 	* Portal táctico?? 🤔
 	* Necesitamos revisar el tema del Sign On con Jenny #followup #id112363
 	* El backoffice (control center) ese si va con usuario y clave
@@ -111,6 +111,10 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 		- La parte de Logout (no hay una HU que lo especifique)
 		- Proposito: tener ida y vuelta de inicio de sesiones, y el nuevo login de CC.
 		- David Bohorques, dice que se debe socializar con Fabian Zambrano (seguridad).
+
+## Conclusiones
+- Si se necesita una nueva pantalla de login para los usuarios internos banco
+
 ## Puntos de Acción acordados
 - [ ] Necesitamos la ultima version de HU  #followup #id11236
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
