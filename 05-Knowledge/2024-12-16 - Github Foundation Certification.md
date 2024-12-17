@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T18:19:43
-modified: '"2024-12-16 18:38", "1tc/G12T+6"'
+modified: '"2024-12-16 19:04", "1tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -32,10 +32,7 @@ Según el sitio oficial, as habilidades que mide son las siguientes:
 
 Considero que como Project Manager a cargo de proyectos de desarrollo es fundamental contar con conocimientos básicos de Git y Github, debido a que es una herramienta fundamental en los procesos modernos de  despliegue de infraestructura y desarrollo de software, para poder gestionar dichos procesos tenemos como PMs tener una idea de los principales pasos desde que se desarrolla el código, se define la arquitectura requerida, hasta que todo se integra y despliega en una infraestructura, ya sea en la nube o en premisas.
 
-
-
-
-
 --- 
  **Notas relacionadas:**
+[[2024-12-16 - Curso - Github Foundations - Microsoft]]
  
