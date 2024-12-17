@@ -1,12 +1,14 @@
 ---
 created: 2024-12-16T18:38:38
-modified: '"2024-12-16 19:06", "1tc/G12T+6"'
+modified: '"2024-12-16 19:20", "1tc/G12T+6"'
 type: 
 aliases: 
-tags: 
+tags:
+  - git
 ---
 
-[[2024-12-16 - Comandos Básicos de Git]]
+[[2024-12-16 - Comandos y flujos básicos de Git]]
+[[2024-12-16 - What is version control?]]
 
 
 

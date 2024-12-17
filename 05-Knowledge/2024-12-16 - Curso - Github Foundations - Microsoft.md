@@ -1,9 +1,11 @@
 ---
 created: 2024-12-16T19:03:43
-modified: '"2024-12-16 19:05", "1tc/G12T+6"'
+modified: '"2024-12-16 19:20", "1tc/G12T+6"'
 type: 
 aliases: 
-tags: 
+tags:
+  - git
+  - github
 ---
 Es el curso "oficial" de Microsoft para prepararse para obtener la certificacion de [[2024-12-16 - Github Foundation Certification]]
 
