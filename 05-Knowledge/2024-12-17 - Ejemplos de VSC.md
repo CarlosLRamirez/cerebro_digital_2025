@@ -1,10 +1,12 @@
 ---
 created: 2024-12-17T15:11:49
-modified: '"2024-12-17 15:28", "2tc/G12T+6"'
+modified: '"2024-12-17 15:43", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
   - git
+status:
+  - in-progress
 ---
 # Ejemplos de Sistemas de Control de Versiones
 
@@ -25,6 +27,18 @@ tags:
 - Fue el primer VCS cross-plataforma.
 - Estaba limitado a archivos de texto.
 - No diseñado para compartir código, servía a un único usuario
+
+## VCS (Concurrent Version System)
+- Desarrollado en 1986
+- Fue el primer VSC centralizado
+- El tracking lo hacía a nivel de archivos , en lugar que hacerlo a travez de la estructura de directorios.
+
+## Perforce
+- VSC Centralizado
+- Surge en 1995.
+- Ampliamente usado durante la era del dot.com 
+- Su arquitectura centralizada y su gran rendimiento lo hicieron la elección de empresas con bases de código grandes y complejos.
+- Se mantiene como el repositorio principal dentro de Google para manejar su extensa base de código (*codebase*)
 ## Mercurial
 
 
