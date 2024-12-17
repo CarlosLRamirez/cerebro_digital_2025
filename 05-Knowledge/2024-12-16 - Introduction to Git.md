@@ -8,7 +8,7 @@ tags:
 ---
 
 [[2024-12-16 - Comandos y flujos básicos de Git]]
-[[2024-12-16 - Sistema de Control de Versiones - Definición]]
+[[2024-12-16 - Sistema de Control de Versiones]]
 
 
 
