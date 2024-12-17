@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T11:14:28
-modified: '"2024-12-17 11:24", "2tc/G12T+6"'
+modified: '"2024-12-17 11:33", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -58,6 +58,9 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - [ ] Assessment de seguridad de estos 39 servidores migrados #followup #id10854
 - [ ] Sesión de FinOps para ver optimizaciones de los servidores (Saving plan) #followup #id10854 
 	- Quedaron unos servidores duplicados, apagados 
+- [ ] Agentes de CloudWatch y System Manager, seguimento con el cliente #followup #id10854 
+	- Se puede priorizar los top servers
+
 
 ## Puntos de Acción acordados
 - 
