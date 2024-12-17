@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T19:19:04
-modified: '"2024-12-17 07:57", "2tc/G12T+6"'
+modified: '"2024-12-17 10:01", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -9,7 +9,12 @@ status:
   - in-progress
 ---
 
-- Un sistema de control de versiones (VCS) en uno o mas programas que nos ayudan a hacer seguimiento a cambios  una colección de archivos, comúnmente llamado repositorio. 
+## Definición
+Un sistema de control de versiones (VCS permite rastrear (hacer tracking) y gestionar los  cambios una colección de archivos, comúnmente llamado repositorio. 
+
+## Ventajas Principales
+- Nos permite llevar el seguimiento o historial de todos los cambios realizados a archivos individuales o de todo el repositorio así como restaurar a versiones anteriores de los archivos.
+- Facilita el 
 - Con un VCS podemos regresar a versiones anteriores de un archivo individual o de toda la colección. 
 - Un VCS tambien nos ayuda a que varias personas puedan estar modificando archivos en un proyecto y no afectarse entre ellas.
 - A un VCS tambien se le llama Software Configuration Management system (SCM), de hecho técnicamente un VCS es parte de un SCM, pero generalmente los terminos se utilizan de forma equivalente. 
