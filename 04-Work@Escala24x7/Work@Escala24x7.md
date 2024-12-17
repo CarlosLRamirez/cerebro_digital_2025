@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-16 19:35", "1tc/G12T+6"'
+modified: '"2024-12-17 11:14", "2tc/G12T+6"'
 cssclasses:
   - wide-page
 type:
@@ -9,7 +9,7 @@ aliases:
 tags:
   - Escala24x7
 ---
-# :EsEscalaBlank: HOME - Escala24x7
+# 👨‍🏭 HOME - Escala24x7
 
 - [[TOC-Agenda Escala24x7]]
 

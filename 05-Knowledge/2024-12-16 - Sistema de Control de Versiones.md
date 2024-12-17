@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T19:19:04
-modified: '"2024-12-17 11:07", "2tc/G12T+6"'
+modified: '"2024-12-17 11:11", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -15,7 +15,7 @@ Un sistema de control de versiones (VCS) es uno o varios programas que permiten 
 Un sistema de control de versiones se utiliza principalmente la gestión de código de software, sin embargo tambien puede ser utilizado en otro tipo de proyectos, como por ejemplo para documentación, libros, tutoriales, etc..
 ## Ventajas Principales
 - Nos permite llevar el seguimiento o historial de todos los cambios realizados a archivos individuales o de todo el repositorio; así como restaurar a versiones anteriores de los archivos.
-- Facilita el trabajo colaborativo, permitiendo que varias personas editen archivos sin que su trabajo se vea afectado entre si
+- Facilita el trabajo colaborativo, permitiendo que varias personas editen archivos sin que su trabajo se vea afectado entre si.
 ## Ejemplos
 - Git es un popular sistema de control de versiones
 
