@@ -1,13 +1,14 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 09:31", "2tc/G12T+6"'
+modified: '"2024-12-17 10:52", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
 aliases: 
 tags:
   - Escala24x7
-IDProyecto: 
+IDProyecto:
+  - "11236"
 ---
 
 `
@@ -64,7 +65,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Con eso el FE puede ir adelantando el trabajo en local.
 * Cambios de Historias de Usuario
 	* Es probable que las HU haya cambiado, ya que ellos han hecho refinamientos 🚩
-* Necesidad de contar con un Login de usuarios que no acceden del SSO, sino de una Banca
+* Necesidad de contar con un Login de usuarios que no acceden del SSO (usuarios del banco)
 	* Igual el Logout, se debe dejar en la pagina de Login
 	* Queremos confirmar si esa necesidad la tenemos?
 	* La HU de SSO esta clara
@@ -72,9 +73,9 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Como acceder al módulo regional, sin venir de una banca?? 
 	* Darwin Gabriel Arellano dice que eso NO VA -- El unico ingreso es de las bancas en linea
 	* Aun no esta el desarrollo del canal
-	* El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️ #risk
+	* [ ] El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️ #risk #id11236 #followup
 	* Portal táctico?? 🤔
-	* Necesitamos revisar el tema del Sign On con Jenny #followup #id112363
+	* Necesitamos revisar el tema del Sign On con Jenny 
 	* El backoffice (control center) ese si va con usuario y clave
 	* Sergio dice que necesita confirmar si eso implica tener otro login??? 
 	* David Santiago se llevara la consulta para aclararlo con Erick y Jenny.
@@ -120,6 +121,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
 - [ ] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
 - [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
+- [ ] Confirmar espacio para revisar diagrama de dependencias de comunicaciones  #followup #id11236
 
 
 ![[Pasted image 20241217085615.png]]
@@ -128,8 +130,25 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Proxima Reunión
 *   18/Dic/2024
 
-- David Romero
-- Vanessa
+## Resumen enviado al cliente
+Buenos días a todos, gracias por su tiempo el dia de hoy:
+
+Comparto los puntos principales discutidos y los puntos de accion:
+
+##Temas Discutidos
+- Necesidad de contar de los prototipos de UI/IX
+- Cambios recientes en las HUs
+- Login para usuarios internos del banco
+- Consultas sobre cliente multidestinos
+- Consultas sobre URLs de banca local
+- Mapa de ruta preliminar
+
+## Puntos de Acción 
+- Compartir  la última versión de HU - Davivienda
+- Agregar una nueva HU o ajustar existente para el login de Control Center (Backoffice) - Davivienda
+- Compartir los prototipos de las pantallas a desarrollar (incluido al módulo administrativo) - Davivienda
+- Agregar una HU que haga referencia a logout - Davivienda
+- Confirmar espacio para revisar diagrama de dependencias de comunicaciones  - Davivienda
 
 
 ---

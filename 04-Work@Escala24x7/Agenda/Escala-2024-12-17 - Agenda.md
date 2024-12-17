@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T10:38:26
-modified: '"2024-12-17 10:38", "2tc/G12T+6"'
+modified: '"2024-12-17 10:54", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - daily-note-escala
@@ -20,6 +20,9 @@ tags:
 
 ## Apuntes Proyectos
 
+### 11236 - Davivienda - PER
+- Se tuvo la primera sesión de empalme, se envió breve resumen
+- [ ] Solicitar hoja de ruta por escrito a MC #followup #id11236 
 
 ## Minutas del Dia
  ```dataview
