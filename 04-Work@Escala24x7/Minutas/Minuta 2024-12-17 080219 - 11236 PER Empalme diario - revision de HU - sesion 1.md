@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 08:39", "2tc/G12T+6"'
+modified: '"2024-12-17 08:52", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -90,8 +90,10 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 			- Esto requiere otra pantalla de login, pero la HU no menciona una pantalla de Login para CC
 			- ![[Pasted image 20241217083226.png]]
 			- Necesitamos una nueva HU para este login, y referenciar al usuario que vino de una banca (cliente) y un usuario del banco
-			- HISTORIA NUEVA 🚩
-			- Tambien necesitamos un UI/UX para el Control Center 🚩, dicen que lo crea Escala24x7
+			- HISTORIA NUEVA, NUEVA PANTALLA  🚩
+				- Erwin dice que no es necesaria una nueva HU
+			- Tambien necesitamos un UI/UX para el Control Center 🚩, dicen que lo crea Escala24x7??
+				- 🧠 entiendo que estan diciendo que ellos no van a hacer el prototipo del modulo administrativo
 - Dudas HU: Cliente multidestinos
 	- El cliente multidestino se debe determinar desde el modulo regional con una replica del usuario
 	- Se debe migrar de la base de datos de technisys a la de PER
@@ -101,9 +103,21 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	- Porque cada uno es un portal diferente
 	- El usuario debe retornar, se hace cierre de la sesión y vuelve al modulo regional.
 	- Debe volver al login que lo origino
+- Hoja de Ruta (Roadmap) preliminar
+	- Nicolas pregunta si tenemos una hoja de ruta?
+	- Sergio dice que tomando las HU del MVP, se iniciaría con:
+		- la 1
+		- la 2 Single Sign-on
+		- la 3 Home 
+		- La parte de Logout (no hay una HU que lo especifique)
+		- Proposito: tener ida y vuelta de inicio de sesiones, y el nuevo login de CC.
+		- David Bohorques, dice que se debe socializar con Fabian Zambrano (seguridad).
 ## Puntos de Acción acordados
-- [ ] Solicitar ultima version de HU  #followup #id11236
+- [ ] Necesitamos la ultima version de HU  #followup #id11236
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
+- [ ] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
+- [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
+
 
 ## Proxima Reunión
 *   
