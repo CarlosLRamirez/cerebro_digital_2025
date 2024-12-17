@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T19:19:04
-modified: '"2024-12-17 13:27", "2tc/G12T+6"'
+modified: '"2024-12-17 15:12", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -22,17 +22,15 @@ Un sistema de control de versiones se utiliza principalmente la gestión de cód
 - Nos permite crear "ramas (*branches*)" del repositorio para poder hacer cambios experimentales y luego "fusionarlos (*merge*)" a la rama principal.
 - Nos permite crear etiquetas (*tags*) para identificar versiones del repositorio.
 
-## Ejemplos
-- Git es un popular sistema de control de versiones creado por Linus Torvalds
+[[2024-12-17 - Ejemplos de VSC]]
 
-## Relación entre un VCS y un SCM
-- El control de versiones es solo una de las practicas que conforman un sistema de gestión de configuración de software (SCM). sin embargo los terminos VSC y CSM se utilizan de manera intercambiable.
-
---- 
 ## Anexos
  
  **Notas relacionadas:**
 [[2024-12-16 - Introduction to Git]]
+[[2024-12-17 - Relación entre un VCS y un SCM]]
+[[2024-12-17 - Sistema de Control de Versiones Distribuido]]
+
 
 
 **Referencias**
