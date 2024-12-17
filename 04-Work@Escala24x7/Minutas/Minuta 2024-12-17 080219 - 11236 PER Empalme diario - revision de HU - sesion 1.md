@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 08:57", "2tc/G12T+6"'
+modified: '"2024-12-17 09:20", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -64,7 +64,6 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Con eso el FE puede ir adelantando el trabajo en local.
 * Cambios de Historias de Usuario
 	* Es probable que las HU haya cambiado, ya que ellos han hecho refinamientos 🚩
-	
 * Necesidad de contar con un Login de usuarios que no acceden del SSO, sino de una Banca
 	* Igual el Logout, se debe dejar en la pagina de Login
 	* Queremos confirmar si esa necesidad la tenemos?
@@ -123,7 +122,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 
 ## Proxima Reunión
-*   
+*   18/Dic/2024
 
 ---
 Template: [[06 Minuta de Reunion Template]]
