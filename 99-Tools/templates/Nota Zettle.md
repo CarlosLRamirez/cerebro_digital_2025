@@ -6,8 +6,6 @@ pilar:
 tags:
   - zettelkasten
 ---
-<%* await tp.file.move("/" + tp.date.now("YYYYMMDD HHmm") + " - " + tp.file.title) -%>`
-
 
 
 ---
