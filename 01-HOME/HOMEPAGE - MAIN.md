@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T18:27:08
-modified: '"2024-12-16 18:01", "1tc/G12T+6"'
+modified: '"2024-12-17 10:58", "2tc/G12T+6"'
 type:
   - Home
   - TOC
@@ -13,8 +13,12 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 ## 🌟 Acceso Rápido
 [[Work@Escala24x7]]
 
-
-
+```dataview
+TABLE file.mtime AS "Last Modified"
+FROM "" 
+SORT file.mtime DESC
+LIMIT 10
+```
 
 :My70f9e70f55172f6a:
 
