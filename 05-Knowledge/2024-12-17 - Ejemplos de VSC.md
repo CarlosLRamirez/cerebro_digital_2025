@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T15:11:49
-modified: 2024-12-17T15:11:49
+modified: '"2024-12-17 15:28", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -9,5 +9,24 @@ tags:
 # Ejemplos de Sistemas de Control de Versiones
 
 ## Git
-- Es un popular sistema de control de versiones creado por Linus Torvalds
-- Sistema de Control
+- Es el  sistema de control de versiones mas utilizado
+- Fue creado en 2025 por Linus Torvalds, especificamente para los desarrolladores de Linux
+- Es un sistema de Control de Versiones Distribuido (DVSC)
+- Es gratis y open-source.
+
+## SCCS (Source Code Control System)
+- El primer VSC local
+- Creado en 1972 por Bell Labs, quienes desarrollador UNIX.
+- Unicamente estaba disponible para UNIX y estaba diseñado para operar únicamente con archivos de Código Fuente
+- No diseñado para compartir código, servía a un único usuario
+
+## RCS (Revision Control System)
+- VCS local
+- Fue el primer VCS cross-plataforma.
+- Estaba limitado a archivos de texto.
+- No diseñado para compartir código, servía a un único usuario
+## Mercurial
+
+
+**Referencias**
+https://medium.com/@pm74367/types-of-vcs-version-control-system-f7af5594bd04
