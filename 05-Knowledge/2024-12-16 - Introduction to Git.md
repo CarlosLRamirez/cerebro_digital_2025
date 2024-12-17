@@ -8,7 +8,7 @@ tags:
 ---
 
 [[2024-12-16 - Comandos y flujos básicos de Git]]
-[[2024-12-16 - What is version control]]
+[[2024-12-16 - What is Version Control]]
 
 
 

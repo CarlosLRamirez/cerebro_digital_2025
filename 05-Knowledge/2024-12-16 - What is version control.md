@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T19:19:04
-modified: '"2024-12-16 21:16", "1tc/G12T+6"'
+modified: '"2024-12-17 07:52", "2tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -15,5 +15,11 @@ status:
 - Git es un ejemplo de VCS.
 
 --- 
+## Anexos
+ 
  **Notas relacionadas:**
+[[2024-12-16 - Introduction to Git]]
 
+
+**Referencias**
+https://learn.microsoft.com/en-us/training/modules/intro-to-git/1-what-is-vc
