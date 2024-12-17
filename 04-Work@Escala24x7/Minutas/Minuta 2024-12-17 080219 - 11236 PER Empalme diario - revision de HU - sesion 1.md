@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 09:20", "2tc/G12T+6"'
+modified: '"2024-12-17 09:31", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -123,6 +123,10 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 ## Proxima Reunión
 *   18/Dic/2024
+
+- David Romero
+- Vanessa
+
 
 ---
 Template: [[06 Minuta de Reunion Template]]
