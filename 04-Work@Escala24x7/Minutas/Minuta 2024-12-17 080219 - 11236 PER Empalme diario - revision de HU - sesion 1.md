@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 08:52", "2tc/G12T+6"'
+modified: '"2024-12-17 08:57", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -117,6 +117,9 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
 - [ ] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
 - [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
+
+
+![[Pasted image 20241217085615.png]]
 
 
 ## Proxima Reunión
