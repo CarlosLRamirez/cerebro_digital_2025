@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-17 08:21", "2tc/G12T+6"'
+modified: '"2024-12-17 08:39", "2tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -80,6 +80,18 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Sergio dice que necesita confirmar si eso implica tener otro login??? 
 	* David Santiago se llevara la consulta para aclararlo con Erick y Jenny.
 	- ![[Pasted image 20241217081714.png]]
+	- Aclaración de Jenny:
+		- hay 2 escenarios: usuarios BEL y usuarios Banco (backoffice - Control Center)
+		- Necesitamos a David Bohorquez para aclararlo
+		- La duda es que si necesitamos proveer un login para backoffice o es otro SSO?? ❓
+		- La HU:8 habla de Control Center - se debe proveer usuario y clave
+			- los usuarios banco seria con EntraID (Active Directory), genera token
+			- Para los usuarios de CECA, solo seria con el web service, no genera token.
+			- Esto requiere otra pantalla de login, pero la HU no menciona una pantalla de Login para CC
+			- ![[Pasted image 20241217083226.png]]
+			- Necesitamos una nueva HU para este login, y referenciar al usuario que vino de una banca (cliente) y un usuario del banco
+			- HISTORIA NUEVA 🚩
+			- Tambien necesitamos un UI/UX para el Control Center 🚩, dicen que lo crea Escala24x7
 - Dudas HU: Cliente multidestinos
 	- El cliente multidestino se debe determinar desde el modulo regional con una replica del usuario
 	- Se debe migrar de la base de datos de technisys a la de PER
@@ -88,8 +100,10 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	- Es una URL unica y luego re-dirige a los pases: R/ es una URL distinta para cada pais
 	- Porque cada uno es un portal diferente
 	- El usuario debe retornar, se hace cierre de la sesión y vuelve al modulo regional.
+	- Debe volver al login que lo origino
 ## Puntos de Acción acordados
 - [ ] Solicitar ultima version de HU  #followup #id11236
+- [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
 
 ## Proxima Reunión
 *   
