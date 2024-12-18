@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T15:11:49
-modified: '"2024-12-18 12:34", "3tc/G12T+6"'
+modified: '"2024-12-18 12:52", "3tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -42,18 +42,11 @@ status:
 
 ## VSC Distribuidos
 
-### Git
-- Es el  sistema de control de versiones mas utilizado
-- Fue creado en 2025 por Linus Torvalds, especificamente para los desarrolladores de Linux
-- Es un sistema de[[Control de Versiones Distribuido]] (DVSC)
-- Es gratis y open-source.
-
-### Team Foundation Server
-
-### Bazaar
-
-### Mercurial
-### Darcs
+- [[2024-12-18 - Git|Git]]
+- Team Foundation Server
+- Bazaar
+- Mercurial
+- Darcs
 
 
 
