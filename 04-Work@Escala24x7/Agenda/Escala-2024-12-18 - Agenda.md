@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T07:58:39
-modified: '"2024-12-18 08:01", "3tc/G12T+6"'
+modified: '"2024-12-18 08:35", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - daily-note-escala
@@ -17,6 +17,7 @@ tags:
 
 ## Tareas para hoy
 
+- [ ] Enviar minuta PER #id11236 📅 2024-12-18 
 
 ## Apuntes Proyectos
 
@@ -25,6 +26,8 @@ tags:
 - 7:00 sesion con Arquitectura - PER
 - 7:30 organizar, cargar tiempo
 - 8:00 sesion PER empalme
+- 8:34 desayunar
+- 
 
 ## Minutas del Dia
  ```dataview

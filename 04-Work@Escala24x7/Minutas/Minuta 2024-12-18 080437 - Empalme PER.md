@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T08:04:37
-modified: '"2024-12-18 08:20", "3tc/G12T+6"'
+modified: '"2024-12-18 08:32", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -69,21 +69,33 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* [ ] Definición de Jenny de autenticación y servicios que están expuestos  #id11236 #followup
 		* Tenemos que involucrar a Fabian Zambrano
 * Gestión de accesos a DevOps
+- Mañana nos sentamos a a revisar las HU de MVP y el Diagrama de Arquitectura
 
-Resumen
+
+**Resumen**
 - DevOps y eso
 - Definir primer entregable hito
 - Formalización de Jenny
 - Pantallas
 
 - Usuarios de DevOps
-- 
 
-## Puntos de Acción acordados
-- 
+## Action points de ayer
 
-## Proxima Reunión
-*   
+HU8; Modulo de Administracion Banco
+- Cambio de HU por el login de CC: Dicen que la HU esta completa, mas bien se debe hacer la modificación en el diagrama de arquitectura.
+	- Documentarlo como un cambio de alcance unicamente igualmente
+	- Nicolas dice que lo van a revisar, y podrian generar el ajuste
+	- Ellos crean las pantallas
+
+
+## Action Points
+- [ ] Enviar los usuarios para acceso a Github #followup #id11236
+## Tareas para mi
+
+- [ ] Terminar mi cuadro de open items!! ⏫  📅 2024-12-18  #id11236
+- [ ] Definir sesiones de sync con Sergio 📅 2024-12-18  #id11236 
+
 
 ---
 Template: [[06 Minuta de Reunion Template]]
