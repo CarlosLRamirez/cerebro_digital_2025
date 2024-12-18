@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-13 16:42", "5tc/G12T+6"'
+modified: '"2024-12-18 07:41", "3tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -96,7 +96,8 @@ tags:
 > 
 > - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1QfM_Mt7q79Y5xz7BotpSMqktTmxFpnLe?usp=drive_link)
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
-> - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACR/boards/733)
+> - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACO/boards/1551/backlog)
+> - [Diagrama de Arquitectura](https://lucid.app/lucidchart/0a23965f-6b60-493f-8d81-6a960ccde2bc/edit?viewport_loc=-4068%2C-2537%2C8911%2C6025%2C8PoB4jq7HZ-1&invitationId=inv_b1bff465-c58a-4563-ae29-e32ddb23ae4c)
 
 > [!abstract]+ Calendario/Cadencias
 > - Inicio de Sprint:  
