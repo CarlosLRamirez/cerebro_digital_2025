@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T13:01:14
-modified: '"2024-12-18 13:05", "3tc/G12T+6"'
+modified: '"2024-12-18 13:13", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -27,6 +27,7 @@ Se grabó la sesión
 - Carlos Leonel Ramírez
 - Jesus Contreras
 - Ricardo Darr
+- Carolina Madera
 ## Agenda
 * Presentación de Orbis
 ## Temas Discutidos
@@ -39,6 +40,8 @@ Se grabó la sesión
 *   
 
 
+
 ---
-Template: [[06 Minuta de Reunion Template]]
 Author: Carlos Ramírez - 2024
+[[EMX - Credicorp Bank -Panama]]
+
