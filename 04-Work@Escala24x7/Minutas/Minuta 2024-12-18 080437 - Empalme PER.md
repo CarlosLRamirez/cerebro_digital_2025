@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T08:04:37
-modified: 2024-12-18T08:04:37+
+modified: '"2024-12-18 08:20", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -54,9 +54,30 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * 
 ## Temas Discutidos
 * Ya nos enviaron los nuevos HU
-* Los diagrams de flujo los esta tabajando arquitectura, y se espera tenerlos el 3 de Enero
+* Los diagrams de flujo los esta trabajando arquitectura DAV, y se espera tenerlos el 3 de Enero
 	* El diagrama lógico de la funcionalidad
-* 
+	* Necesitaríamos priorizar los flujos de autenticación (single-sign on y cierre de sesión)
+	* El siguiente seria la integración de los usuarios de las bancas.
+* Pantallas
+	* Ayer se hizo la solicitud  a fábrica (Daniela) , normalmente se toman una semana )
+* Estimacion
+	* Vamos a revisar las HU, es especial los de login - Confirmar lectura: mañana podemos hacer un check
+	* Necesitamos los prototipos (schedule)
+* Que necesitamos para empezar a construir campo a campo de los servicios?
+	* Lo primero que necesitamos es el token
+	* Sergio dice que pueden avanzar (sin necesidad de infraestructura) es pantallas
+	* [ ] Definición de Jenny de autenticación y servicios que están expuestos  #id11236 #followup
+		* Tenemos que involucrar a Fabian Zambrano
+* Gestión de accesos a DevOps
+
+Resumen
+- DevOps y eso
+- Definir primer entregable hito
+- Formalización de Jenny
+- Pantallas
+
+- Usuarios de DevOps
+- 
 
 ## Puntos de Acción acordados
 - 
