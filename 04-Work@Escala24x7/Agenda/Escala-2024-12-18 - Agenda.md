@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T07:58:39
-modified: '"2024-12-18 09:20", "3tc/G12T+6"'
+modified: '"2024-12-18 09:33", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - daily-note-escala
@@ -38,7 +38,7 @@ where date = date(this.file.frontmatter.date)
 sort date asc
 ```
 
-- [ ] Pedro tiene pendiente que JuanKa le coroborre un monto de una oportuidad #id10854 📅 2024-12-18 
+- [x] Pedro tiene pendiente que JuanKa le coroborre un monto de una oportuidad #id10854 📅 2024-12-18 ✅ 2024-12-18
 
 
 ----

@@ -26,7 +26,7 @@ LIMIT 10
 - 📝 [[01-Quick Notes]] (Notas rápidas y captura de ideas)
 - 📅 [[02-Productividad]] (Tareas, proyectos y planificación)
 - 💼 [[Work@Escala24x7]] (Notas de mi trabajo principal)
-- 📚 [[04-Knowledge]] (Zettelkasten y gestión del conocimiento)
+- 📚 [[Gestión de Conocimiento - Pagina Principal]] (Zettelkasten y gestión del conocimiento)
 - 🗂️ [[05-Archive]] (Proyectos y notas finalizadas)
 
 
