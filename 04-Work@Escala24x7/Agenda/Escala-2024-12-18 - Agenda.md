@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T07:58:39
-modified: '"2024-12-18 09:33", "3tc/G12T+6"'
+modified: '"2024-12-18 15:34", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - daily-note-escala
@@ -13,11 +13,13 @@ tags:
 
 **Apuntes de trabajo en Escala2x47** del  miércoles 18 de diciembre, de la semana 51 
 
-> Aquí escribe todo lo que necesites relacionado a Escala24x7
+- Completado el entrenamiento de seguridad:  **[[2024-12-18 - Securing Client Personal Data in the Workplace]] ‎** 
+
+
+
 
 ## Tareas para hoy
 
-- [ ] Enviar minuta PER #id11236 📅 2024-12-18 
 
 ## Apuntes Proyectos
 
@@ -28,6 +30,7 @@ tags:
 - 8:00 sesion PER empalme
 - 8:34 desayunar
 - 9:00 sesion cempro - modernizacion. sigo viendo temas de cempro 
+
 
 ## Minutas del Dia
  ```dataview
