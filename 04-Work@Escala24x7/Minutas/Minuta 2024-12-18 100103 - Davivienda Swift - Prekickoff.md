@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T10:01:03
-modified: '"2024-12-18 10:49", "3tc/G12T+6"'
+modified: '"2024-12-18 10:52", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -77,7 +77,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * % de allocation
 	* solo es referencia
 - HUs
-	- importante!!!
+	- importante!!! ⚠ 🚩 
 * Davivienda Costa Rica
 	* Va dentro de la organización de CAM
 * No se expone publicamente
