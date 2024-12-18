@@ -11,6 +11,7 @@ status:
 ---
 
 ## Concept
+Es el `
 
 El Working tree se refiere a todos los directorios anidados y archivos que conforman el proyecto en el que se esta trabajando
 
