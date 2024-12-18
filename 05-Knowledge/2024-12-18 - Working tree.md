@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T13:13:57
-modified: '"2024-12-18 13:21", "3tc/G12T+6"'
+modified: '"2024-12-18 13:24", "3tc/G12T+6"'
 type:
   - Zettelkasten
 aliases: 
@@ -9,6 +9,9 @@ tags:
 status:
   - in-progress
 ---
+
+## Concept
+
 El Working tree se refiere a todos los directorios anidados y archivos que conforman el proyecto en el que se esta trabajando
 
 --- 

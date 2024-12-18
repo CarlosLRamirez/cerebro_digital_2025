@@ -7,7 +7,7 @@ tags:
   - git
 ---
 Lista de términos frecuentemente utilizados cuando trabajamos con Git
-- [[2024-12-18 - Working tree|Working Tree]]
+- [[2024-12-18 - Working Tree|Working Tree]]
 - [[2024-12-18 - Repository (repo)|Repository (repo)]]
 - [[2024-12-18 - Hash|Hash]]
 - [[2024-12-18 - Object|Object]]
