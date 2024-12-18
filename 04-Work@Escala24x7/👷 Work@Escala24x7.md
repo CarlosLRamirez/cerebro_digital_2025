@@ -1,8 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-17 11:14", "2tc/G12T+6"'
-cssclasses:
-  - wide-page
+modified: '"2024-12-18 09:48", "3tc/G12T+6"'
 type:
   - Home
 aliases: 
@@ -50,3 +48,8 @@ sort IDProyecto asc
 
 -----
 [[2024-12-13 - Workflow - Gestion de Proyectos y Tareas Escala24x7]]
+
+
+
+---
+[[🏠 HOMEPAGE - MAIN]]

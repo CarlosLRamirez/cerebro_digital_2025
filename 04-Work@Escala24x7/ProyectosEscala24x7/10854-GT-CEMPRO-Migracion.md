@@ -97,7 +97,7 @@ type:
 > - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1f_pl9NjN9ZPFGCo-sBR3EZKUdenrbytD?usp=sharing)
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
 > - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACR/boards/733)
-> - [[Work@Escala24x7]]
+> - [[👷 Work@Escala24x7]]
 
 > [!abstract]+ Calendario/Cadencias
 > - Inicio de Sprint:  

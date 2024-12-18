@@ -106,5 +106,5 @@ sort date asc
 
 
 **Enlaces**
-[[Work@Escala24x7]]
+[[👷 Work@Escala24x7]]
 

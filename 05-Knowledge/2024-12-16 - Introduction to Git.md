@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T18:38:38
-modified: '"2024-12-16 19:20", "1tc/G12T+6"'
+modified: '"2024-12-18 09:50", "3tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -14,4 +14,5 @@ tags:
 
 --- 
  **Notas relacionadas:**
+ [[2024-12-18 - Git]]
 [[2024-12-16 - Curso - Github Foundations - Microsoft]] 
