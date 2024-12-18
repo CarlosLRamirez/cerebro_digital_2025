@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T10:01:03
-modified: '"2024-12-18 10:21", "3tc/G12T+6"'
+modified: '"2024-12-18 10:35", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -63,27 +63,28 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 		- Comext
 * Roles:
 	* Se intentó copiar los roles de MC
-	* Analista. Tecnico
-	* Líder Técnico:
-	* Infraestructura??
-	* Front End??
-	* UI/IUX ??
-	* QA??
+	* Analista Tecnico
+	* Líder Técnico
+	* Infraestructura: 
+	* Front End: Ruth Ardon ??
+	* UI/IUX
+	* QA
 * Horas
 	* 1850 horas
 * % de allocation
 	* 
+- HUs
 * Davivienda Costa Rica
 	* Va dentro de la organización de CAM
 * No se expone publicamente
 	* Conectividad parecida a NetRetail
-	* Se consume desde on-premise
-* Autenticacion
+	* Se consume desde on-premise (usuarios por VPN)
+* Autenticación
+	* La aplicación debe tener un modulo para autenticar los usuario 💡❓
 * CI/CD
 	* Terraform
-	* Azure DevOps (No Github) -- lo evaluamos si no lo trabajamos con lineamentos regional o servicios AWS Ci
+	* Azure DevOps (No Github) -- lo evaluamos si no lo trabajamos con lineamentos regional 💡 ❓ o servicios AWS CodeX
 	* Pedir lineamientos, si no nosotros ponemos la referencia
-	- 
 
 ## Puntos de Acción acordados
 - 
