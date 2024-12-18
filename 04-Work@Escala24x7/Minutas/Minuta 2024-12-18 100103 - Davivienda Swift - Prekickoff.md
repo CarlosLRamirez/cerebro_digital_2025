@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T10:01:03
-modified: '"2024-12-18 10:04", "3tc/G12T+6"'
+modified: '"2024-12-18 10:21", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -53,13 +53,37 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 ## Agenda
 * 
 ## Temas Discutidos
+- Resumen del Proyecto
+	- mensaje a travez de GoAnywhere para su posterior transferencia a la plataofrma final
+	- DEspliegue de la infraestructura: Desarrolo Laboratorio y Produccion
+	- Desarrollo de componentes de Back y Frontend
+	- Funcionalidaades
+		- Canje
+		- Tesoreria
+		- Comext
 * Roles:
 	* Se intentó copiar los roles de MC
-	* Lider Técnico
+	* Analista. Tecnico
+	* Líder Técnico:
+	* Infraestructura??
+	* Front End??
+	* UI/IUX ??
+	* QA??
+* Horas
+	* 1850 horas
+* % de allocation
 	* 
 * Davivienda Costa Rica
 	* Va dentro de la organización de CAM
-* 
+* No se expone publicamente
+	* Conectividad parecida a NetRetail
+	* Se consume desde on-premise
+* Autenticacion
+* CI/CD
+	* Terraform
+	* Azure DevOps (No Github) -- lo evaluamos si no lo trabajamos con lineamentos regional o servicios AWS Ci
+	* Pedir lineamientos, si no nosotros ponemos la referencia
+	- 
 
 ## Puntos de Acción acordados
 - 
