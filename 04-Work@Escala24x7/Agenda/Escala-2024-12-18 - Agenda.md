@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T07:58:39
-modified: '"2024-12-18 09:02", "3tc/G12T+6"'
+modified: '"2024-12-18 09:20", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - daily-note-escala
@@ -27,7 +27,7 @@ tags:
 - 7:30 organizar, cargar tiempo
 - 8:00 sesion PER empalme
 - 8:34 desayunar
-- 9:00 sesion cempro - modernizacion
+- 9:00 sesion cempro - modernizacion. sigo viendo temas de cempro 
 
 ## Minutas del Dia
  ```dataview
@@ -37,6 +37,9 @@ where contains(type, "minuta")
 where date = date(this.file.frontmatter.date)
 sort date asc
 ```
+
+- [ ] Pedro tiene pendiente que JuanKa le coroborre un monto de una oportuidad #id10854 📅 2024-12-18 
+
 
 ----
 **Notas relacionadas:**
