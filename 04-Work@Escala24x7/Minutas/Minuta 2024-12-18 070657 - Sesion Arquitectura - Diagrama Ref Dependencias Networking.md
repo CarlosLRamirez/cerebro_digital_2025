@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T07:06:57
-modified: '"2024-12-18 07:19", "3tc/G12T+6"'
+modified: '"2024-12-18 07:26", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -58,7 +58,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * La conexión con Colombia en PROD es por DX, pero en otros ambientes es por VPN
 * Conexión directa entre nubes por tema de latencias (DataPower)
 * DX de CAM???? (tanto para Virgnia como Ohio)
-* 
+* Tenemos VPN contra los 4 paises
 
 ## Puntos de Acción acordados
 - 
