@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T10:01:03
-modified: '"2024-12-18 10:35", "3tc/G12T+6"'
+modified: '"2024-12-18 10:49", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -63,17 +63,21 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 		- Comext
 * Roles:
 	* Se intentó copiar los roles de MC
-	* Analista Tecnico
-	* Líder Técnico
-	* Infraestructura: 
-	* Front End: Ruth Ardon ??
-	* UI/IUX
-	* QA
+	* Analista Tecnico: Levantar requerimientos (no identificado)
+	* Líder Técnico: No identificado
+	* Backend: Osmar Romeo Ramirez
+	* Infraestructura: Francisco Brito
+	* Front End: Ruth Ardon 
+	* UI/IUX: Jose Ayala
+	* QA: Nosotros probamos  (no identificado)
 * Horas
+	* 3 meses
 	* 1850 horas
+	* cuadro de estimación
 * % de allocation
-	* 
+	* solo es referencia
 - HUs
+	- importante!!!
 * Davivienda Costa Rica
 	* Va dentro de la organización de CAM
 * No se expone publicamente
@@ -85,9 +89,13 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Terraform
 	* Azure DevOps (No Github) -- lo evaluamos si no lo trabajamos con lineamentos regional 💡 ❓ o servicios AWS CodeX
 	* Pedir lineamientos, si no nosotros ponemos la referencia
+- Kickoff con Kimberly
+- Tagging??
+
 
 ## Puntos de Acción acordados
-- 
+- [ ]Documento tecnico - Scope Swift - V3
+
 
 ## Proxima Reunión
 *   
