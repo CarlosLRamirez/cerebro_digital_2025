@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T19:19:04
-modified: '"2024-12-17 15:29", "2tc/G12T+6"'
+modified: '"2024-12-18 09:57", "3tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -32,6 +32,7 @@ Un sistema de control de versiones se utiliza principalmente la gestión de cód
 [[2024-12-17 - Sistemas de Control de Versiones Centralizados]]
 [[2024-12-17 - Ejemplos de VSC]]
 [[2024-12-17 - Relación entre un VCS y un SCM]]
+[[2024-12-18 - Git]]
 
 
 **Referencias**
