@@ -1,13 +1,14 @@
 ---
 created: 2024-12-18T10:01:03
-modified: '"2024-12-18 10:52", "3tc/G12T+6"'
+modified: '"2024-12-18 12:04", "3tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
 aliases: 
 tags:
   - Escala24x7
-IDProyecto: 
+IDProyecto:
+  - 11245-swift
 ---
 ### Seguimiento
 
@@ -94,7 +95,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 
 ## Puntos de Acción acordados
-- [ ]Documento tecnico - Scope Swift - V3
+- [ ] Leer y compartir documento tecnico - Scope Swift - V3  📅 2024-12-18 #id11245-swift
 
 
 ## Proxima Reunión
