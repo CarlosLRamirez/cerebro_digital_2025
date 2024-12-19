@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T07:34:23
-modified: '"2024-12-19 09:21", "4tc/G12T+6"'
+modified: '"2024-12-19 10:56", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - daily-note-escala
@@ -37,7 +37,8 @@ WHERE !contains(tags, "#followup")
 9:00 desayunar
 9:10 ver agenda, gestion sobre PER, EMX-Credicorp, 
 9:30 Sesion Multidiciplinaria EMX-Rober Stantos
-
+10:00 Trabajar en Dahsbaord para Rober Santos en paralelo con el TownHall
+10:30Town Hall Escala
 
 
 
