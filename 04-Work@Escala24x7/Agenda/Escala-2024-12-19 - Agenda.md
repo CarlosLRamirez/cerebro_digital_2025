@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T07:34:23
-modified: '"2024-12-19 10:56", "4tc/G12T+6"'
+modified: '"2024-12-19 11:38", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - daily-note-escala
@@ -39,7 +39,7 @@ WHERE !contains(tags, "#followup")
 9:30 Sesion Multidiciplinaria EMX-Rober Stantos
 10:00 Trabajar en Dahsbaord para Rober Santos en paralelo con el TownHall
 10:30Town Hall Escala
-
+11:36 terminamos, pero estoy haciendo gestion de PER (10min)
 
 
 ## Apuntes Proyectos
