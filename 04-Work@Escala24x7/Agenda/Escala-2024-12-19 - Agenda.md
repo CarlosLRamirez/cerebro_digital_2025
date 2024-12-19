@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T07:34:23
-modified: '"2024-12-19 11:38", "4tc/G12T+6"'
+modified: '"2024-12-19 12:17", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - daily-note-escala
@@ -40,6 +40,8 @@ WHERE !contains(tags, "#followup")
 10:00 Trabajar en Dahsbaord para Rober Santos en paralelo con el TownHall
 10:30Town Hall Escala
 11:36 terminamos, pero estoy haciendo gestion de PER (10min)
+12:15 inicio gestion de PER: organizacion artefactos
+
 
 
 ## Apuntes Proyectos

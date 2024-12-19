@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T09:39:49
-modified: '"2024-12-19 10:53", "4tc/G12T+6"'
+modified: '"2024-12-19 12:14", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - minuta
@@ -57,9 +57,8 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 ## Puntos de Acción acordados
 - [ ] Robert Santos menciona que no tiene acceso a los tickets, sugiere la creación de un tablero o tener algún instrumento #followup #PMO 
-	- 19/Dic: Se creo un [dashboard](https://escala24x7.atlassian.net/jira/dashboards/10237) preliminar y se compartió en el canal de EMX-RobertSantos 
-- [ ] 
-- [ ] 
+	- 19/Dic: Se creo un [dashboard](https://escala24x7.atlassian.net/jira/dashboards/10237) preliminar y se compartió en el canal de EMX-RobertSantos
+	- 19/Dic: Socializarlo en la proxima sesion de CPSM
 
 ## Proxima Reunión
 *   

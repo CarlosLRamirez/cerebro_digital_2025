@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T08:27:32
-modified: '"2024-12-14 10:56", "6tc/G12T+6"'
+modified: '"2024-12-19 12:14", "4tc/G12T+6"'
 date: 2024-12-13
 type:
   - daily-note-escala
@@ -33,7 +33,7 @@ WHERE !contains(tags, "#followup")
 - [x] Hablar con Jenny por PER #id11236 ✅ 2024-12-13
 - [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
-- [ ] Ver grabaciones del proyecto PER 📅 2024-12-13 #id11236
+- [ ] Organizar grabaciones del proyecto PER 📅 2024-12-13 #id11236
 - [ ] Ver tema de Inicio de Relacion del proyecto PER 📅 2024-12-13  #id11236
 
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
