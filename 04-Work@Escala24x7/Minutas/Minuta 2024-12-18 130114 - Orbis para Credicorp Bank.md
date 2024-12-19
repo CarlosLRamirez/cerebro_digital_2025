@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T13:01:14
-modified: '"2024-12-18 14:03", "3tc/G12T+6"'
+modified: '"2024-12-19 09:28", "4tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -36,6 +36,7 @@ Se grabó la sesión
 ## Puntos de Acción acordados
 - [ ] Gestion de accesos de para Orbis, para el equipo de Credicorp (dar seguimiento) 📅 2024-12-19  #emx-credicorp-pa
 	- Preguntarle a Ricardo sobre estos usuarios, dice Humberto que ya los deberiamos tener.
+	- 19/Dic: Dice Ricardo que el no los tiene, se los voy a pedir a Humberto
 - [ ] Compartir presentación de Orbis 📅 2024-12-18  #emx-credicorp-pa
 
 ## Proxima Reunión
