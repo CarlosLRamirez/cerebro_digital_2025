@@ -34,4 +34,4 @@ Es el área en donde están todos los archivos y estructura de carpetas que form
  **Notas relacionadas:**
  [[Staging Area]]
  [[Local Repository]]
- [[2024-12-18 - Commit]]
+ [[2024-12-18 - Git Commits]]
