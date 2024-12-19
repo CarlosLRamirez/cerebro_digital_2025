@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T12:41:51
-modified: '"2024-12-19 12:53", "4tc/G12T+6"'
+modified: '"2024-12-19 13:06", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - minuta
@@ -62,13 +62,23 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * Asignaciones
 	* Las asignaciones se hacen en equipo, se revisa el dashboard de quicksight
 	* Esta pendiente el de grupo Ramos, (equipo Nelson y yo como CPSM), aún no ha arrancado, esta para el 9 de enero. Ya llegó el correo de Notificación. 
-		* Estamos tratando de organizar todo, dentro de EMX. Yo seria el candidato 1.
-		* 
+		* Estamos tratando de organizar todo, dentro de EMX. Yo seria el candidato 1, lo llevará Raúl Aquino.
+		* Primero es Control Tower, luego tiene algo de Kubernetes, luego consultoria
+		* Lo están haciendo bajo un MAP (bolsa de Santa Claus)
+			* CPSM: Raul Aquino, con mi apoyo
+			* Infraestructura: Edgar Lange
+			* Seguridad: Jose Mellado
+		* Estrategia de despliegue?
+			* Azure DevOps?-
+			* Terraform?
 ## Puntos de Acción acordados
 - 
 
 ## Proxima Reunión
-*   
+
+
+## Tareas
+- [ ] Revisar mi acceso al dashboard de Quicksight 📅 2024-12-19  #PMO
 
 ---
 Template: [[06 Minuta de Reunion Template]]
