@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T12:53:05
-modified: '"2024-12-18 13:18", "3tc/G12T+6"'
+modified: '"2024-12-18 18:37", "3tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -9,7 +9,9 @@ tags:
 Lista de términos frecuentemente utilizados cuando trabajamos con Git
 - [[2024-12-18 - Working Tree|Working Tree]]
 - [[2024-12-18 - Repository (repo)|Repository (repo)]]
-- [[2024-12-18 - Hash|Hash]]
+- [[2024-12-18 - 2024-12-18 - Uso de Hashes en Git|Hashes en Git]]
+- Arbol
+- Blob
 - [[2024-12-18 - Object|Object]]
 - [[2024-12-18 - Commit|Commit]]
 - [[2024-12-18 - Branch|Branch]]
