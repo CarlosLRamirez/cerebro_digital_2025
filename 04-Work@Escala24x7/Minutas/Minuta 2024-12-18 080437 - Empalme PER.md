@@ -1,6 +1,6 @@
 ---
 created: 2024-12-18T08:04:37
-modified: '"2024-12-18 08:32", "3tc/G12T+6"'
+modified: '"2024-12-19 09:19", "4tc/G12T+6"'
 date: 2024-12-18
 type:
   - minuta
@@ -94,7 +94,7 @@ HU8; Modulo de Administracion Banco
 ## Tareas para mi
 
 - [ ] Terminar mi cuadro de open items!! ⏫  📅 2024-12-18  #id11236
-- [ ] Definir sesiones de sync con Sergio 📅 2024-12-18  #id11236 
+- [ ] Definir sesiones de sync con Sergio Bonanno MC  📅 2024-12-18  #id11236 #inprogress
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T07:34:23
-modified: '"2024-12-19 08:14", "4tc/G12T+6"'
+modified: '"2024-12-19 09:21", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - daily-note-escala
@@ -8,18 +8,34 @@ aliases:
 tags:
   - Escala24x7
 ---
-7:10 Sesión Arquitectura PER
-7:40: things
-8:00 sync ejecutivo Cempro
-8:10 Sesion Empalme PER
-
-
-
+## Apuntes
 **Apuntes de trabajo en Escala2x47** del  jueves 19 de diciembre, de la semana 51 
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
 
-## Tareas para hoy
+
+
+
+## Tareas para hoy o vencidas
+
+```dataview
+TASK
+FROM "04-Work@Escala24x7"
+WHERE !completed
+WHERE due <= date(today)
+WHERE !contains(tags, "#followup")
+```
+
+
+
+## Registro de tiempo
+7:10 Sesión Arquitectura PER
+7:40: things
+8:00 sync ejecutivo Cempro
+8:10 Sesion Empalme PER
+9:00 desayunar
+9:10 ver agenda, gestion sobre PER, EMX-Credicorp, 
+
 
 
 ## Apuntes Proyectos

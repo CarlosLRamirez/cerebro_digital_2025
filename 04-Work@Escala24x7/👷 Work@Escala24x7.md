@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-18 09:48", "3tc/G12T+6"'
+modified: '"2024-12-19 09:14", "4tc/G12T+6"'
 type:
   - Home
 aliases: 
@@ -28,6 +28,8 @@ GROUP by tags
 
 
 
+
+## Seguimiento
 ## Proyectos Escala24x7
 solo activos
 ```dataview
