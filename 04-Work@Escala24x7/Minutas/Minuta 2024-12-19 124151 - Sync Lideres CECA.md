@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T12:41:51
-modified: '"2024-12-19 13:06", "4tc/G12T+6"'
+modified: '"2024-12-19 13:17", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - minuta
@@ -79,6 +79,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 ## Tareas
 - [ ] Revisar mi acceso al dashboard de Quicksight 📅 2024-12-19  #PMO
+- [ ] Seguimiento asignacion de FE y UI/IX para proyecto Swift 📅 2024-12-20  #id11245-swift
 
 ---
 Template: [[06 Minuta de Reunion Template]]
