@@ -13,8 +13,9 @@ tags:
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
 
+### EMX - Robert Santos
 
-
+- Cree un dashboard de tickets open  y lo comparti con Rober Santos para algunos clientes (https://escala24x7.atlassian.net/jira/dashboards/10237)
 
 ## Tareas para hoy o vencidas
 
@@ -35,6 +36,8 @@ WHERE !contains(tags, "#followup")
 8:10 Sesion Empalme PER
 9:00 desayunar
 9:10 ver agenda, gestion sobre PER, EMX-Credicorp, 
+9:30 Sesion Multidiciplinaria EMX-Rober Stantos
+
 
 
 
