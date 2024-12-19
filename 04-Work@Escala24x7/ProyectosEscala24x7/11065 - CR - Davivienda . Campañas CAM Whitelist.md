@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-16 12:21", "1tc/G12T+6"'
+modified: '"2024-12-19 13:33", "4tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -111,6 +111,8 @@ tags:
 # Apuntes
 
 ## Items abiertos
+
+https://docs.google.com/spreadsheets/d/1PfjGHykV6l9DNL11K-NruCR8RIJ2Vwhx87sBqFieQlo/edit?usp=sharing
 
 
 
