@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19T07:34:23
-modified: '"2024-12-19 07:36", "4tc/G12T+6"'
+modified: '"2024-12-19 07:39", "4tc/G12T+6"'
 date: 2024-12-19
 type:
   - daily-note-escala
@@ -9,7 +9,7 @@ tags:
   - Escala24x7
 ---
 7:10 Sesión Arquitectura PER
-7:40 
+7:40:
 
 
 **Apuntes de trabajo en Escala2x47** del  jueves 19 de diciembre, de la semana 51 
