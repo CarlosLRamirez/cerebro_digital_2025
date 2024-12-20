@@ -117,9 +117,9 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - Si se necesita una nueva pantalla de login para los usuarios internos banco
 
 ## Puntos de Acción acordados
-- [ ] Necesitamos la ultima version de HU  #followup #id11236
+- [x] Necesitamos la ultima version de HU  #followup #id11236
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
-- [ ] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
+- [x] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
 - [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
 - [x] Confirmar espacio para revisar diagrama de dependencias de comunicaciones  #followup #id11236
 
