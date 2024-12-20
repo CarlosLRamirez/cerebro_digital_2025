@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T15:13:00
-modified: '"2024-12-19 09:14", "4tc/G12T+6"'
+modified: '"2024-12-20 10:54", "5tc/G12T+6"'
 type:
   - Home
 aliases: 
@@ -10,6 +10,8 @@ tags:
 # 👨‍🏭 HOME - Escala24x7
 
 - [[TOC-Agenda Escala24x7]]
+- [[2024-12-20 - Task Manager Escala24x7]]
+
 
 ## Tareas
 

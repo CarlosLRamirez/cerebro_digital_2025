@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-19 12:27", "4tc/G12T+6"'
+modified: '"2024-12-20 10:57", "5tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -16,7 +16,7 @@ tags:
 >
 >> [!tip]+ Do Today
 >> ```dataview
->> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due < date(today) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
+>> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due <= date(today) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
 >>```
 >
 >> [!abstract]+ Do Tomorrow

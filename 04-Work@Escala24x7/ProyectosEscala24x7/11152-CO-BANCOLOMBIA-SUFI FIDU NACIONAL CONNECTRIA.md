@@ -176,12 +176,12 @@ tags:
 12/Nov
 
 Temas a dar seguimento con Connectria:
-- [ ] Comandos de la VTL para adicionar al menú  #followup
-- [ ] Reunion para tema de Landing Zone #followup 
+- [x] Comandos de la VTL para adicionar al menú #followup ✅ 2024-12-20
+- [x] Reunion para tema de Landing Zone #followup ✅ 2024-12-20
 - [x] Estado de la replica de Mimix SUFIPRO #followup
-- [ ] Reunion para asimetría con Josh Patterson #followup 
-- [ ] Estado del monitoreo de las maquinas #followup 
-- [ ] Reunion con Bancolombia sobre el cifrado en Direct Connect #followup 
+- [x] Reunion para asimetría con Josh Patterson #followup ✅ 2024-12-20
+- [x] Estado del monitoreo de las maquinas #followup ✅ 2024-12-20
+- [x] Reunion con Bancolombia sobre el cifrado en Direct Connect #followup ✅ 2024-12-20
 - [x] Datos de ID de las tres personas de Connectria (Daniel Valverde) #followup
 
 Puntos de Acción interno:

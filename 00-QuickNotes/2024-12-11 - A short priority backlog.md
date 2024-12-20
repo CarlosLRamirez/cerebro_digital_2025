@@ -14,8 +14,8 @@ tags:
 * [ ] arreglar olla 📅 2024-12-28
 * [ ] Enmarcar títulos 📅 2025-01-04
 * [x] ordenar mi estudio
-* [ ] pagar impuesto circulación 📅 2024-11-29
-* [ ] pagar al contador 📅 2024-11-29
+* [ ] pagar impuesto circulación 📅 2025-01-04
+* [ ] pagar al contador 📅 2024-12-28
 * [ ] ordernar los papeles en el archivo - sacar los talonarios de facturas
 
 #todo/comprasdiciembre

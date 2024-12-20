@@ -56,7 +56,7 @@ WHERE !contains(tags, "#followup")
 
 ### 11206  - Davivienda - Ambientes Bajos
 - Se envió un correo con los proximos pasos para las pruebas de conectividad
-- [ ] Dar seguimiento al correo enviado sobre pruebas de conectividad 📅 2024-12-18 #id11206 
+- [ ] Dar seguimiento al correo enviado sobre pruebas de conectividad #id11206 📅 2024-12-23
 
 
 

@@ -93,8 +93,8 @@ HU8; Modulo de Administracion Banco
 - [ ] Enviar los usuarios para acceso a Github #followup #id11236
 ## Tareas para mi
 
-- [ ] Terminar mi cuadro de open items!! ⏫  📅 2024-12-18  #id11236
-- [ ] Definir sesiones de sync con Sergio Bonanno MC  📅 2024-12-18  #id11236 #inprogress
+- [ ] Terminar mi cuadro de open items!! #id11236 ⏫ 📅 2024-12-20
+- [ ] Definir sesiones de sync con Sergio Bonanno MC #id11236 #inprogress 📅 2024-12-23
 
 
 ---

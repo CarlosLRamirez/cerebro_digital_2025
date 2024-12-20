@@ -95,7 +95,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 
 ## Puntos de Acción acordados
-- [ ] Leer y compartir documento tecnico - Scope Swift - V3  📅 2024-12-18 #id11245-swift
+- [ ] Leer y compartir documento tecnico - Scope Swift - V3 #id11245-swift 📅 2024-12-23
 
 
 ## Proxima Reunión

@@ -33,11 +33,11 @@ WHERE !contains(tags, "#followup")
 - [x] Hablar con Jenny por PER #id11236 ✅ 2024-12-13
 - [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
-- [ ] Organizar grabaciones del proyecto PER 📅 2024-12-13 #id11236
-- [ ] Ver tema de Inicio de Relacion del proyecto PER 📅 2024-12-13  #id11236
+- [ ] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
+- [ ] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
 
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
-- [ ] Cargar mis horas el lunes!!! a primera hora #PMO  📅 2024-12-14
+- [ ] Cargar mis horas el lunes!!! a primera hora #PMO 📅 2024-12-20
 ## Registro de tiempo
 8:00 Organizacion
 8:30 Buscar documentos PER - Organizar carpeta Proyecto
@@ -54,8 +54,8 @@ Cosas que tengo que platicar con Jenny sobre PER:
 - Documento tecnico
 	- Cual es el definitivo? - los que dicen FINAl, hay uno para PER y otro para Camara
 	- Hay otro documento a tener en cuenta?
-		- [ ] Jenny me paso un slide con las funcionaldades, moverla y pasarlo a la carpeta de Jenny #id11236  📅 2024-12-13 
-	- [ ] Buscar enlaces enlace a la Arquitectura en LucidChart, estan en el documento #id11236 📅 2024-12-13 
+		- [ ] Jenny me paso un slide con las funcionaldades, moverla y pasarlo a la carpeta de Jenny #id11236 📅 2024-12-20
+	- [ ] Buscar enlaces enlace a la Arquitectura en LucidChart, estan en el documento #id11236 📅 2024-12-20
 - Tema de mapa de dependencias y conexiones
 	- Cual era el documento que estabas viendo ayer
 	- que necesita? 
@@ -86,7 +86,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 
 **Open Items**
 - [ ] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
-- [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank 📅 2024-12-14  #id11236
+- [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank #id11236 📅 2024-12-20
 - [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV 📅 2024-12-14  #id11236
 
 
