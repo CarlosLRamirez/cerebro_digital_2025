@@ -7,10 +7,11 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-20 10:57", "5tc/G12T+6"'
+modified: '"2024-12-20 11:02", "5tc/G12T+6"'
 tags:
   - Escala24x7
 ---
+## Tareas y Puntos de segimiento
 
 > [!multi-column]
 >
@@ -92,14 +93,16 @@ tags:
 > where IDProyecto = this.IDProyecto
 > ```
 
-> [!NOTE]+ Enlaces importantes
-> 
-> 
-- [Tablero Lucid](https://lucid.app/lucidspark/0c13aaf9-7c3c-44fb-ad3e-3c3bdd52c41a/edit?viewport_loc=-14768%2C-13287%2C30727%2C16089%2C0_0&invitationId=inv_d39e6337-0f68-42f9-9c4d-5a4dcc68e060)
-- [Carpeta del Proyecto](https://drive.google.com/drive/folders/1QfM_Mt7q79Y5xz7BotpSMqktTmxFpnLe?usp=drive_link)
+## Enlaces 
+
+> [!NOTE]+ Enlaces importantes> 
+> - [Tablero Lucid](https://lucid.app/lucidspark/0c13aaf9-7c3c-44fb-ad3e-3c3bdd52c41a/edit?viewport_loc=-14768%2C-13287%2C30727%2C16089%2C0_0&invitationId=inv_d39e6337-0f68-42f9-9c4d-5a4dcc68e060)
+>  - [Carpeta del Proyecto](https://drive.google.com/drive/folders/1QfM_Mt7q79Y5xz7BotpSMqktTmxFpnLe?usp=drive_link)
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
 > - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACO/boards/1551/backlog)
 > - [Diagrama de Arquitectura](https://lucid.app/lucidchart/0a23965f-6b60-493f-8d81-6a960ccde2bc/edit?viewport_loc=-4068%2C-2537%2C8911%2C6025%2C8PoB4jq7HZ-1&invitationId=inv_b1bff465-c58a-4563-ae29-e32ddb23ae4c)
+
+## Información General
 
 > [!abstract]+ Calendario/Cadencias
 > - Inicio de Sprint:  
@@ -108,6 +111,6 @@ tags:
 > - Cerrar Sprint en JIRA: N/A
 
 ---- 
-# Apuntes
+## Otros Apuntes
 
 
