@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T13:14:10
-modified: '"2024-12-20 13:36", "5tc/G12T+6"'
+modified: '"2024-12-20 13:44", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - minuta
@@ -66,7 +66,8 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 		* por la creación de un 4to ambiente
 		* Extension hasta febrero
 		* Github Actions
-		* 
+* Canal escalamiento CECA
+	* 
 
 ## Puntos de Acción acordados
 - [ ] Seguimiento pendientes SDL (Novys) #followup #pmo #cpsm-ceca
