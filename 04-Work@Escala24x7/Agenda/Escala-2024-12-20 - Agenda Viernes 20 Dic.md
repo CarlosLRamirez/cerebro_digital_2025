@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 08:33", "5tc/G12T+6"'
+modified: '"2024-12-20 08:56", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -36,6 +36,10 @@ where contains(type, "minuta")
 where date = date(this.file.frontmatter.date)
 sort date asc
 ```
+
+7:45 Organizar, revisar tareas, escribir en diario
+8:00 empalme PER
+8:55 Revisar si hay novedades en Slack
 
 ----
 **Notas relacionadas:**

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T08:02:05
-modified: '"2024-12-20 08:37", "5tc/G12T+6"'
+modified: '"2024-12-20 08:55", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - minuta
@@ -51,15 +51,23 @@ TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup
 * [ ] Es necesario validar si BEL generó el token #followup #id11236
 	- Esto no esta en el alcance del proveedor del BEL
 	- ![[Pasted image 20241220083029.png]]
-	- David Romero hará la validación con Seguridad de la información
+	- David Romero hará la validación con Seguridad de la información (riesgo)
+	- En cada filial hay un equipo de riesgo
 - La responsabilidad de la sincronización de usuarios (empresas) multilatina esta compartida entre PER y Control Center
 	- ![[Pasted image 20241220083649.png]]
 - Integración (enrolamiento) de soft-token regional
-	- Esta como activació n 
-
+	- Esta como activación de semilla
+	- Tenemos que ver el detalle de esa integración
+- [ ] Reunión con el tercero para cerrar el alcance de single sign-on #id11236 #followup
 
 ## Puntos de Acción acordados
-- 
+- [ ] David Romero pasará el diagrama de referencia de la arquitectura completa de PER #followup #id11236
+- [ ] A la espera de los WSDL #followup #id11236
+- [ ] Definir cronograma de actividades entre PMs #followup #id11236 
+
+
+
+
 
 ## Proxima Reunión
 *   
