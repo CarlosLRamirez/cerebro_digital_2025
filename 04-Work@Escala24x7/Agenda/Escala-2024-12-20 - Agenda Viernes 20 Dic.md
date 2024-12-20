@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 07:41", "5tc/G12T+6"'
+modified: '"2024-12-20 08:01", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -16,6 +16,7 @@ tags:
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
 
 ## Tareas para hoy
+-
 
 
 ## Apuntes Proyectos

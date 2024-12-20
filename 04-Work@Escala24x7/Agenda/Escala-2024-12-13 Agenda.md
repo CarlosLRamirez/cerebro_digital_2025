@@ -1,6 +1,6 @@
 ---
 created: 2024-12-13T08:27:32
-modified: '"2024-12-19 12:14", "4tc/G12T+6"'
+modified: '"2024-12-20 08:10", "5tc/G12T+6"'
 date: 2024-12-13
 type:
   - daily-note-escala
@@ -61,7 +61,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 	- que necesita? 
 		- Necesitamos sentarnos con el banco para estas sesiones:
 			- [ ] Sesion de depenencias de PER: Esquemas de conectividad de red (comunicacion) #followup #id11236
-				- Jenny, Frankling, equipo Escala, Daivienda (Lideres de pais), arquitecto MC
+			- Jenny, Frankling, equipo Escala, Daivienda (Lideres de pais), arquitecto MC
 					- Objetivo: Diagrama de dependencia sde networking (conectividad)
 					- Levantar diagraa de conectividad con paises y platafrormas que rquieresn interactuar con plataforma d ePER y Camara de Comperancion
 					- Recomendacion: adicionar responables de cada paises para revisar estas dependencias en detalle.
@@ -69,11 +69,11 @@ Cosas que tengo que platicar con Jenny sobre PER:
 			- [ ] Sesion para Despendencia de PER Seguridad - Conectividad a capacidades de negocio #followup #id11236
 	- [ ] Acceso de DevOps para equipo Escala y Mobile #followup #id11236
 		- Lo mas fácil es que lo administremos nosotros y le demos acceso a MC
-	- [ ] Diagrama de dependencias deben estar bajo nuestra administración #followup  #id11236
+	- [x] Diagrama de dependencias deben estar bajo nuestra administración #followup  #id11236
 - Historias de Usuario
 	- Donde las encuentro? en la carpeta
 	- Ya las tiene MC? si
-- [ ] Acceso a Jira por MC #followup #id11236
+- [x] Acceso a Jira por MC #followup #id11236
 - [ ] Inicio de relacion con MC #followup #id11236
 	- Firma de SoW
 	- Contrato?
