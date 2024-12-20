@@ -60,21 +60,21 @@ Cosas que tengo que platicar con Jenny sobre PER:
 	- Cual era el documento que estabas viendo ayer
 	- que necesita? 
 		- Necesitamos sentarnos con el banco para estas sesiones:
-			- [ ] Sesion de depenencias de PER: Esquemas de conectividad de red (comunicacion) #followup #id11236
+			- [x] Sesion de depenencias de PER: Esquemas de conectividad de red (comunicacion) #followup #id11236
 			- Jenny, Frankling, equipo Escala, Daivienda (Lideres de pais), arquitecto MC
 					- Objetivo: Diagrama de dependencia sde networking (conectividad)
 					- Levantar diagraa de conectividad con paises y platafrormas que rquieresn interactuar con plataforma d ePER y Camara de Comperancion
 					- Recomendacion: adicionar responables de cada paises para revisar estas dependencias en detalle.
 			- [ ] Sesion para dependencias/esquema de SSO #followup #id11236
 			- [ ] Sesion para Despendencia de PER Seguridad - Conectividad a capacidades de negocio #followup #id11236
-	- [ ] Acceso de DevOps para equipo Escala y Mobile #followup #id11236
+	- [x] Acceso de DevOps para equipo Escala y Mobile #followup #id11236
 		- Lo mas fácil es que lo administremos nosotros y le demos acceso a MC
 	- [x] Diagrama de dependencias deben estar bajo nuestra administración #followup  #id11236
 - Historias de Usuario
 	- Donde las encuentro? en la carpeta
 	- Ya las tiene MC? si
 - [x] Acceso a Jira por MC #followup #id11236
-- [ ] Inicio de relacion con MC #followup #id11236
+- [x] Inicio de relacion con MC #followup #id11236
 	- Firma de SoW
 	- Contrato?
 
@@ -85,7 +85,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 	- hacer una sesion
 
 **Open Items**
-- [ ] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
+- [x] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
 - [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank #id11236 📅 2024-12-20
 - [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV #id11236 📅 2024-12-14
 

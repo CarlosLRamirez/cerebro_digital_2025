@@ -121,7 +121,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
 - [ ] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
 - [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
-- [ ] Confirmar espacio para revisar diagrama de dependencias de comunicaciones  #followup #id11236
+- [x] Confirmar espacio para revisar diagrama de dependencias de comunicaciones  #followup #id11236
 
 
 ![[Pasted image 20241217085615.png]]

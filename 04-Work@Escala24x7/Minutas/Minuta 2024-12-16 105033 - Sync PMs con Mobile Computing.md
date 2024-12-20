@@ -52,7 +52,7 @@ Temas que hablar con MC
 	- Sesion para mapeo de dependencias de red
 	- Sesion para diagrama/esquema de dependencias - Single Sign-on
 - Prototipos
-	- [ ] A la espera de prototipos (whiteframes) #followup #id11236
+	- [x] A la espera de prototipos (whiteframes) #followup #id11236
 		- Pueden ser en Figma o XD o otra herramienta
 - MC cree que el Primer entregable sera el Single Sign-on
 	- Single-sign on

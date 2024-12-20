@@ -90,7 +90,7 @@ HU8; Modulo de Administracion Banco
 
 
 ## Action Points
-- [ ] Enviar los usuarios para acceso a Github #followup #id11236
+- [x] Enviar los usuarios para acceso a Github #followup #id11236
 ## Tareas para mi
 
 - [ ] Terminar mi cuadro de open items!! #id11236 ⏫ 📅 2024-12-20
