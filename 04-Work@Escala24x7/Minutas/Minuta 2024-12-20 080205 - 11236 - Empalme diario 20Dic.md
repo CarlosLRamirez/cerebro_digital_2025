@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T08:02:05
-modified: '"2024-12-20 08:09", "5tc/G12T+6"'
+modified: '"2024-12-20 08:25", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - minuta
@@ -27,15 +27,28 @@ TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup
 ## Asistentes
 
 ### Cliente
-* 
+* David Romero
+* Santiago Bohorquez
+* Darwin Arellano
+* Nicolas Leon Perez
+* Wendy D Manrique
+
+## MC
+- Juan Galeano
+- Sergio Bonanno
+- Martin Vasconcelos
+- Nahuel Moyano
 ### Escala24x7
 - Carlos Leonel Ramírez
--  
+- Jenny Rodriguez 
 
 ## Agenda
 * Objetivo: Chequeo rapido de la arquitectura completa de PER, flujo completo
 ## Temas Discutidos
-*  
+*  EL Datapower utiliza TLS (certificados)
+* Martin Vasconselos envio ayer un diagrama con el flujo de la autenticación
+* [ ] Dependencias de Technisys #followup #id11236
+* [ ] 
 
 ## Puntos de Acción acordados
 - 
