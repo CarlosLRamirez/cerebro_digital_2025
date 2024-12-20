@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-20 13:18", "5tc/G12T+6"'
+modified: '"2024-12-20 16:04", "5tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -87,11 +87,11 @@ tags:
 >>```
 
 > [!Example]+ Minutas
-> ```dataview
-> LIST
-> where type = "Minuta"
-> where IDProyecto = this.IDProyecto
-> ```
+>```dataview
+>LIST
+>where  contains(type, "minuta" )
+>where IDProyecto = this.IDProyecto
+>```
 
 ## Enlaces 
 
@@ -114,3 +114,8 @@ tags:
 ## Otros Apuntes
 
 
+```dataview
+LIST
+where  contains(type, "minuta" )
+where IDProyecto = this.IDProyecto
+```

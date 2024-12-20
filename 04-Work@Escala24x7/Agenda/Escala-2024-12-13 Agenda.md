@@ -34,8 +34,8 @@ WHERE !contains(tags, "#followup")
 - [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13 ✅ 2024-12-18
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
 - [x] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
-- [ ] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
-
+- [x] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
+	
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
 - [ ] Cargar mis horas el lunes!!! a primera hora #PMO 📅 2024-12-20
 ## Registro de tiempo
@@ -65,7 +65,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 					- Objetivo: Diagrama de dependencia sde networking (conectividad)
 					- Levantar diagraa de conectividad con paises y platafrormas que rquieresn interactuar con plataforma d ePER y Camara de Comperancion
 					- Recomendacion: adicionar responables de cada paises para revisar estas dependencias en detalle.
-			- [ ] Sesion para dependencias/esquema de SSO #followup #id11236
+			- [x] Sesion para dependencias/esquema de SSO #followup #id11236
 			- [ ] Sesion para Despendencia de PER Seguridad - Conectividad a capacidades de negocio #followup #id11236
 	- [x] Acceso de DevOps para equipo Escala y Mobile #followup #id11236
 		- Lo mas fácil es que lo administremos nosotros y le demos acceso a MC
@@ -86,7 +86,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 
 **Open Items**
 - [x] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
-- [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank #id11236 📅 2024-12-20
+- [x] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank #id11236 📅 2024-12-20
 - [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV #id11236 📅 2024-12-14
 
 

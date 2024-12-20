@@ -1,9 +1,10 @@
 ---
 created: 2024-12-20T08:02:05
-modified: '"2024-12-20 08:55", "5tc/G12T+6"'
+modified: '"2024-12-20 16:01", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - minuta
+  - Minuta
 aliases: 
 tags:
   - Escala24x7
