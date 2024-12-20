@@ -12,7 +12,7 @@ En este video se hace un Recap de los comandos básicos de Git.
 ![Introduction to Git Recap | Learn with Dr G](https://www.youtube.com/watch?v=9uGS1ak_FGg)
 
 #todo/learning/git
-- [ ] Seguir el ejemplo que se hacen en este video y documentar
+- [ ] Seguir el ejemplo que se hacen en este video y documentar 📅 2024-12-28
 --- 
  **Notas relacionadas:**
 [[2024-12-18 - Git]]

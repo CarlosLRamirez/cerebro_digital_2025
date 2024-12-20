@@ -1,12 +1,22 @@
 ---
 created: 2024-12-20T09:21:06
-modified: '"2024-12-20 09:38", "5tc/G12T+6"'
+modified: '"2024-12-20 09:50", "5tc/G12T+6"'
 type: 
 aliases: 
 tags: 
 ---
 
 ## Tareas Personales
+
+### Due Today
+
+### Due Tomorrow
+
+### Due this Week
+
+### Due this Month
+
+### For next Month
 ### Backlog Personal
 Este es el backlog (tareas que no se les ha asignado fecha) y que no están relacionados a mi trabajo principal.
 
@@ -18,6 +28,9 @@ not done
 no tag
 no due date
 ```
+
+---
+#### **Ejemplo con Dataview:**
 
 ```dataview
 TASK 
