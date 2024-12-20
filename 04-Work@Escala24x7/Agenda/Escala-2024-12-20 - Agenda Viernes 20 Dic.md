@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 13:12", "5tc/G12T+6"'
+modified: '"2024-12-20 13:13", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala

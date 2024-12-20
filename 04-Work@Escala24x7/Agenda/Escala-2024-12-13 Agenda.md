@@ -81,7 +81,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 - [ ] Ver con MAFE el tema de horas, para ver como lo dejo Maria Fernanda #followup #id11236
 	- hay 1040 horas gestion y apoyo a MC
 	- Toca validarlo con MAFE
-- [ ] Tenemos que construir una RACI #followup #id11236
+- [x] Tenemos que construir una RACI #followup #id11236
 	- hacer una sesion
 
 **Open Items**

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-16T10:50:33
-modified: '"2024-12-16 12:16", "1tc/G12T+6"'
+modified: '"2024-12-20 13:24", "5tc/G12T+6"'
 date: 2024-12-16
 type:
   - minuta
@@ -67,7 +67,7 @@ Temas que hablar con MC
 ## Puntos de acción
 - [ ] Crear tableros Lucid y compartirlo a MC (correos de Grid) #id11236 📅 2024-12-27
 - [x] Agendar las sesiones de dependiencias #id11236 📅 2024-12-16 ✅ 2024-12-20
-- [ ] Agendar las sesiones de Matriz Raci #id11236 📅 2024-12-23
+- Agendar las sesiones de Matriz Raci #id11236
 - [x] Dar seguimiento a los temas de accesos de Jira y OpenVPN a MC #id11236 📅 2024-12-16 ✅ 2024-12-20
 - [ ] Solicitar el acceso a Github para el equipo de Escala #id11236 📅 2024-12-16
 - [ ] Hacer/Refinar el cuadro de open/items (RAID Log) del proyecto #id11236 📅 2024-12-20

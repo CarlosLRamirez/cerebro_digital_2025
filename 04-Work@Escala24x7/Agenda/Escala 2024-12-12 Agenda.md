@@ -1,6 +1,6 @@
 ---
 created: 2024-12-12T08:05:07
-modified: '"2024-12-20 12:38", "5tc/G12T+6"'
+modified: '"2024-12-20 13:24", "5tc/G12T+6"'
 date: 2024-12-12
 type:
   - Minuta
@@ -44,8 +44,7 @@ entre 3 y 4 estuve revisando correos
 - Matriz RACI Escala/MC #followup #id11236 
 	- https://docs.google.com/spreadsheets/d/1O1jAzv0Ce6NdZIB3_utt-5omStVyI5EjQIc8057rC4I/edit?gid=0#gid=0 -- Esta vacia 😀
 	- hay que marcar bien quienes son los responsables, por ejemplo, de seguridad perimetra (Davi CO), publicacion de las apps (Davi CO), devops (Davi CO), etc
-- [ ] Completar la Matriz RACI - Gestionar #id11236 📅 2024-12-23 #inprogress
-	- 12/19 Cuadrar la sesión en la sync con Sergio del lunes
+- Completar la Matriz RACI - Gestionar #id11236 📅 2024-12-23 #inprogress
 - Presentacion de Kickoff: https://docs.google.com/presentation/d/1ijw8Jg_yd7rZFv_BgKHDpiiHjZ4jCnFENQIkNs4WXT0/edit#slide=id.p1
 - Plantilla Backlog:  https://docs.google.com/spreadsheets/d/1xAVlg8fVIGKjSWj7J1id53kNlgxX7QrULvLEpqYaRQ4/edit?gid=1120027636#gid=1120027636 -- Esta vacia 😀
 
