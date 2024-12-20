@@ -31,9 +31,9 @@ WHERE !contains(tags, "#followup")
 ## Tareas para hoy
 - [x] Crear Space con Dav #id11236
 - [x] Hablar con Jenny por PER #id11236 ✅ 2024-12-13
-- [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13
+- [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13 ✅ 2024-12-18
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
-- [ ] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
+- [x] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
 - [ ] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
 
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
@@ -87,7 +87,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 **Open Items**
 - [ ] Firma de documentos (a). MSA (Master Services Agreement)  , (b). NDA (Non-Disclosure Agreement) #followup #id11236
 - [ ] Crear artefacto de open items para seguimiento, o utilizar el que hizo Frank #id11236 📅 2024-12-20
-- [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV 📅 2024-12-14  #id11236
+- [x] El lunes hacer un listado de cosas que tengo que hablar con el PM de mobiles y el PM de DAV #id11236 📅 2024-12-14
 
 
 ## Minutas del dia

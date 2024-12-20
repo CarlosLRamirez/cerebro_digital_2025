@@ -29,8 +29,8 @@ WHERE !contains(tags, "#followup")
 
 ### 11236 PER Daivienda
 
-- [x] Se abrio Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663) #followup #id11236
-- [x] Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664) #followup #id11236
+- [x] Se abrio Ticket para acceso a Jira MC: [SOI-2663](https://escala24x7.atlassian.net/browse/SOI-2663) #followup #id11236 ✅ 2024-12-19
+- [x] Ticket para acceso a OpenVPN para MC: [SOI-2664](https://escala24x7.atlassian.net/browse/SOI-2664) #followup #id11236 ✅ 2024-12-19
 	
 - [x] Temas para hablar con el PM de Davivienda #id11236 #followup ✅ 2024-12-16
 - Jira de Davivienda

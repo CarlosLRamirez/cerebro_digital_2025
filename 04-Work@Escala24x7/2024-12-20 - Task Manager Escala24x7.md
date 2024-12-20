@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T10:52:43
-modified: '"2024-12-20 12:57", "5tc/G12T+6"'
+modified: '"2024-12-20 13:00", "5tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -46,9 +46,8 @@ due after this month
 ## Recently done
 
 ```tasks
-done
-sort by done
-tag includes #id11236
+done today
+sort by done ascending
 ```
 
 ## Puntos para Follow up Escala

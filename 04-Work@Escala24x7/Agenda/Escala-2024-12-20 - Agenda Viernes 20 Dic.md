@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 09:20", "5tc/G12T+6"'
+modified: '"2024-12-20 13:12", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -21,15 +21,17 @@ tags:
 
 
 
+## Tareas para hoy
+
+
+- [ ] Completar HOY mi cuadro de Open Items del proyecto de PER 📅 2024-12-20 🔺  #id11236
+- [ ] Enviar HOY informes de status de proyectos 📅 2024-12-20 🔺 #id11236 #id11065 #id11206 #id11221 
+- [ ] Gestionar la generación de la matriz RACI con Mobile Computing y Escala 📅 2024-12-20  ⏫  #id11236 
+- [ ] Gestionar la generación del backlog de tareas de Escala24x7 para el proyecto PER 📅 2024-12-23  ⏫  #id11236
 - [ ] HU pendientes #followup #id11236  ⏫ 
 	- con [@Nahuel Moyano](https://escala24x7.slack.com/team/U0859E3UK41) estuvimos revisando las HU que nos enviaron y las comparamos con el alcance del MPV.Si bien aún falta avanzar con el refinamiento, les comparto el resultado del análisis preliminar 
 	- ![[Pasted image 20241220082639.png]]
 
-
-
-## Tareas para hoy
-- [ ] Completar HOY mi cuadro de Open Items del proyecto de PER 📅 2024-12-20 🔺  #id11236
-- [ ] Enviar HOY informes de status de proyectos 📅 2024-12-20 🔺 #id11236 #id11065 #id11206 #id11221 
 
 ## Apuntes Proyectos
 
