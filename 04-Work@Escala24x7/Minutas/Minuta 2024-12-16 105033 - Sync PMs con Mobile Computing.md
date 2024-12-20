@@ -69,7 +69,7 @@ Temas que hablar con MC
 - [x] Agendar las sesiones de dependiencias #id11236 📅 2024-12-16 ✅ 2024-12-20
 - Agendar las sesiones de Matriz Raci #id11236
 - [x] Dar seguimiento a los temas de accesos de Jira y OpenVPN a MC #id11236 📅 2024-12-16 ✅ 2024-12-20
-- [ ] Solicitar el acceso a Github para el equipo de Escala #id11236 📅 2024-12-16
+- [ ] Solicitar el acceso a Github para el equipo de Escala #id11236 📅 2024-12-20
 - [ ] Hacer/Refinar el cuadro de open/items (RAID Log) del proyecto #id11236 📅 2024-12-20
 
 
