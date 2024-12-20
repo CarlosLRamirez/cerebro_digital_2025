@@ -40,7 +40,7 @@ entre 3 y 4 estuve revisando correos
 - A las 9 programé una sync previa con Frank
 - Cuadro Resumen al dia de hoy: https://docs.google.com/spreadsheets/d/1d_elL-W5sRhfpDWoLm_8fQopYCPJsZcJYY1ySIFu_Kg/edit?gid=0#gid=0
 - El Kickoff con el cliente fue el martes 10/Dic - Buscar la grabacion
-- [x] Ver grabaciones de Kickoff y Prekickoff #id11236 📅 2024-12-20
+- [ ] Ver grabaciones de Kickoff y Prekickoff #id11236 📅 2024-12-20
 - Matriz RACI Escala/MC #followup #id11236 
 	- https://docs.google.com/spreadsheets/d/1O1jAzv0Ce6NdZIB3_utt-5omStVyI5EjQIc8057rC4I/edit?gid=0#gid=0 -- Esta vacia 😀
 	- hay que marcar bien quienes son los responsables, por ejemplo, de seguridad perimetra (Davi CO), publicacion de las apps (Davi CO), devops (Davi CO), etc

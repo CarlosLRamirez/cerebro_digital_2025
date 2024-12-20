@@ -7,11 +7,11 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-20 12:40", "5tc/G12T+6"'
+modified: '"2024-12-20 12:45", "5tc/G12T+6"'
 tags:
   - Escala24x7
 ---
-## Tareas y Puntos de segimiento
+## Tareas y Puntos de seguimiento
 
 > [!multi-column]
 >

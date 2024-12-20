@@ -33,7 +33,7 @@ WHERE !contains(tags, "#followup")
 - [x] Hablar con Jenny por PER #id11236 ✅ 2024-12-13
 - [x] Hago Minuta de la ultima sesion de PER #id11236 ??? 📅 2024-12-13
 - [x] Completar - Performance Review #Escala24x7 📅 2024-12-13 ✅ 2024-12-13
-- [x] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
+- [ ] Organizar grabaciones del proyecto PER #id11236 📅 2024-12-20
 - [ ] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
 
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
