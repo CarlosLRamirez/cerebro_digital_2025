@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 13:13", "5tc/G12T+6"'
+modified: '"2024-12-20 13:42", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -31,8 +31,7 @@ tags:
 - [ ] HU pendientes #followup #id11236  ⏫ 
 	- con [@Nahuel Moyano](https://escala24x7.slack.com/team/U0859E3UK41) estuvimos revisando las HU que nos enviaron y las comparamos con el alcance del MPV.Si bien aún falta avanzar con el refinamiento, les comparto el resultado del análisis preliminar 
 	- ![[Pasted image 20241220082639.png]]
-
-
+- [ ] Revisar las horas de los proeyctos de las dos ultimas semanas 📅 2024-12-23  #transversal #pmo
 ## Apuntes Proyectos
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T13:14:10
-modified: '"2024-12-20 13:27", "5tc/G12T+6"'
+modified: '"2024-12-20 13:36", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - minuta
@@ -61,10 +61,15 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Franklin debe pasar un cliente para Rafa
 		* Según Franklin NIU y Cuscatlan no tienen dependencia a nivel administrativo y de equipos
 	* Rafael  se queda con NIU y Tarjeta de Credito de Occiidente
-	* 
+* Asignación para DevOps de Davivienda
+	* Necesitan hacer un ambio del de Seguridad a DevOps (al 100% o 75%)
+		* por la creación de un 4to ambiente
+		* Extension hasta febrero
+		* Github Actions
+		* 
 
 ## Puntos de Acción acordados
-- 
+- [ ] Seguimiento pendientes SDL (Novys) #followup #pmo #cpsm-ceca
 
 ## Proxima Reunión
 *   
