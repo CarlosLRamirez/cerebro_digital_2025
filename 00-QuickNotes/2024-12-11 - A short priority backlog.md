@@ -6,16 +6,16 @@ aliases:
 tags: 
 ---
 #todo/nextmonth
-- [ ] llevar mi moto a servicio 
+- [ ] llevar mi moto a servicio 📅 2025-01-06
 
 #todo/thisweek
 * [x] pedir el pavo 
 * [x] sacar el camastron
-* [ ] arreglar olla
-* [ ] Enmarcar títulos
+* [ ] arreglar olla 📅 2024-12-28
+* [ ] Enmarcar títulos 📅 2025-01-04
 * [x] ordenar mi estudio
-* [ ] pagar impuesto circulación
-* [ ] pagar al contador
+* [ ] pagar impuesto circulación 📅 2024-11-29
+* [ ] pagar al contador 📅 2024-11-29
 * [ ] ordernar los papeles en el archivo - sacar los talonarios de facturas
 
 #todo/comprasdiciembre
@@ -23,7 +23,7 @@ tags:
 - [x] Trajes pants niños
 - [x] Ropa interior
 - [x] Pachones
-- [ ] Zapatos cole cata
+- [ ] Zapatos cole cata 📅 2025-01-11
 - [x] Mochila Víctor
 - [x] Tenis Víctor
 - [x] Zapatos Paula
