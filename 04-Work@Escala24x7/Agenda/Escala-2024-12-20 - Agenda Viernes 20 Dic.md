@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-20 08:56", "5tc/G12T+6"'
+modified: '"2024-12-20 09:20", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -14,6 +14,12 @@ tags:
 **Apuntes de trabajo en Escala2x47** del  viernes 20 de diciembre, de la semana 51 
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
+
+
+
+
+
+
 
 - [ ] HU pendientes #followup #id11236  ⏫ 
 	- con [@Nahuel Moyano](https://escala24x7.slack.com/team/U0859E3UK41) estuvimos revisando las HU que nos enviaron y las comparamos con el alcance del MPV.Si bien aún falta avanzar con el refinamiento, les comparto el resultado del análisis preliminar 
@@ -40,6 +46,7 @@ sort date asc
 7:45 Organizar, revisar tareas, escribir en diario
 8:00 empalme PER
 8:55 Revisar si hay novedades en Slack
+9:19 Focus: Tareas PER
 
 ----
 **Notas relacionadas:**

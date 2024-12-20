@@ -22,14 +22,14 @@ tags:
 - [x] Pavo
 - [x] Trajes pants niños
 - [x] Ropa interior
-- [ ] Pachones
+- [x] Pachones
 - [ ] Zapatos cole cata
 - [x] Mochila Víctor
 - [x] Tenis Víctor
 - [x] Zapatos Paula
 - [x] Airpods Paula
 - [x] R C
-- [ ] Regalos familia y amigos 
+- [x] Regalos familia y amigos
 
 
 --- 
