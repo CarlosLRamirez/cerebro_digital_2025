@@ -23,7 +23,7 @@ tags:
 - [x] Trajes pants niños
 - [x] Ropa interior
 - [x] Pachones
-- [ ] Zapatos cole cata 📅 2025-01-11
+- [ ] Zapatos cole cata 📅 2025-01-13
 - [x] Mochila Víctor
 - [x] Tenis Víctor
 - [x] Zapatos Paula

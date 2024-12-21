@@ -14,6 +14,8 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 - [[👷 Work@Escala24x7]]
 - [[📚 Gestión de Conocimiento - Pagina Principal]] 
 
+[[2024-12-20 - Task Manager]]
+
 
 ## Paginas Recientes
 ```dataview
