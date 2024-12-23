@@ -66,7 +66,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * Que necesitamos para empezar a construir campo a campo de los servicios?
 	* Lo primero que necesitamos es el token
 	* Sergio dice que pueden avanzar (sin necesidad de infraestructura) es pantallas
-	* [ ] Definición de Jenny de autenticación y servicios que están expuestos  #id11236 #followup
+	* [x] Definición de Jenny de autenticación y servicios que están expuestos #id11236 #followup ✅ 2024-12-23
 		* Tenemos que involucrar a Fabian Zambrano
 * Gestión de accesos a DevOps
 - Mañana nos sentamos a a revisar las HU de MVP y el Diagrama de Arquitectura

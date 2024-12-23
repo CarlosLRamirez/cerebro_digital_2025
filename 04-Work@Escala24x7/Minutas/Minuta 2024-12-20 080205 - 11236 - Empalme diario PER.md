@@ -49,7 +49,7 @@ TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup
 *  EL Datapower utiliza TLS (certificados)
 * Martin Vasconselos envio ayer un diagrama con el flujo de la autenticación
 * Dependencias de Technisys #risk #id11236 🚩 
-* [ ] Es necesario validar si BEL generó el token #followup #id11236
+* [x] Es necesario validar si BEL generó el token #followup #id11236 ✅ 2024-12-23
 	- Esto no esta en el alcance del proveedor del BEL
 	- ![[Pasted image 20241220083029.png]]
 	- David Romero hará la validación con Seguridad de la información (riesgo)
@@ -59,7 +59,7 @@ TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup
 - Integración (enrolamiento) de soft-token regional
 	- Esta como activación de semilla
 	- Tenemos que ver el detalle de esa integración
-- [ ] Reunión con el tercero para cerrar el alcance de single sign-on #id11236 #followup
+- [x] Reunión con el tercero para cerrar el alcance de single sign-on #id11236 #followup ✅ 2024-12-23
 
 ## Puntos de Acción acordados
 - [ ] David Romero pasará el diagrama de referencia de la arquitectura completa de PER #followup #id11236

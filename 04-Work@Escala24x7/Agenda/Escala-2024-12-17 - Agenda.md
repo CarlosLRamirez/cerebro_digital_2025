@@ -22,7 +22,7 @@ tags:
 
 ### 11236 - Davivienda - PER
 - Se tuvo la primera sesión de empalme, se envió breve resumen
-- [ ] Solicitar hoja de ruta por escrito a MC #followup #id11236 
+- [x] Solicitar hoja de ruta por escrito a MC #followup #id11236 ✅ 2024-12-23
 
 ## Minutas del Dia
  ```dataview

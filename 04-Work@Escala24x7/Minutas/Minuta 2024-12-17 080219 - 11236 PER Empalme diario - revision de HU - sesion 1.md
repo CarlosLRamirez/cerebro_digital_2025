@@ -1,6 +1,6 @@
 ---
 created: 2024-12-17T08:02:19
-modified: '"2024-12-20 15:59", "5tc/G12T+6"'
+modified: '"2024-12-23 10:20", "1tc/G12T+6"'
 date: 2024-12-17
 type:
   - minuta
@@ -73,7 +73,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 	* Como acceder al módulo regional, sin venir de una banca?? 
 	* Darwin Gabriel Arellano dice que eso NO VA -- El unico ingreso es de las bancas en linea
 	* Aun no esta el desarrollo del canal
-	* [ ] El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️ #risk #id11236 #followup
+	* [ ] El SSO no se va poder implementar en este momento, porque el proveedor no lo tiene todavia 🚩 ⚠️ #risk #id11236 
 	* Portal táctico?? 🤔
 	* Necesitamos revisar el tema del Sign On con Jenny 
 	* El backoffice (control center) ese si va con usuario y clave
@@ -118,9 +118,9 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 ## Puntos de Acción acordados
 - [x] Necesitamos la ultima version de HU  #followup #id11236
-- [ ] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236
+- [x] Esperamos una nueva HU (o ajuste) para el login de Control Center #followup #id11236 ✅ 2024-12-23
 - [x] Compartir los prototipos de las pantallas a desarrollar (incluido al modulo administraivo) #followup #id11236
-- [ ] Necesitamos una HU que haga referencia a logout #followup #id11236
+- [x] Necesitamos una HU que haga referencia a logout #followup #id11236 ✅ 2024-12-23
 - [x] Confirmar espacio para revisar diagrama de dependencias de comunicaciones  #followup #id11236
 
 

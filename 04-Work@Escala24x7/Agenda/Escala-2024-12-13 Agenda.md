@@ -66,7 +66,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 					- Levantar diagraa de conectividad con paises y platafrormas que rquieresn interactuar con plataforma d ePER y Camara de Comperancion
 					- Recomendacion: adicionar responables de cada paises para revisar estas dependencias en detalle.
 			- [x] Sesion para dependencias/esquema de SSO #followup #id11236
-			- [ ] Sesion para Despendencia de PER Seguridad - Conectividad a capacidades de negocio #followup #id11236
+			- [x] Sesion para Despendencia de PER Seguridad - Conectividad a capacidades de negocio #followup #id11236 ✅ 2024-12-23
 	- [x] Acceso de DevOps para equipo Escala y Mobile #followup #id11236
 		- Lo mas fácil es que lo administremos nosotros y le demos acceso a MC
 	- [x] Diagrama de dependencias deben estar bajo nuestra administración #followup  #id11236
@@ -78,7 +78,7 @@ Cosas que tengo que platicar con Jenny sobre PER:
 	- Firma de SoW
 	- Contrato?
 
-- [ ] Ver con MAFE el tema de horas, para ver como lo dejo Maria Fernanda #followup #id11236
+- [x] Ver con MAFE el tema de horas, para ver como lo dejo Maria Fernanda #followup #id11236 ✅ 2024-12-23
 	- hay 1040 horas gestion y apoyo a MC
 	- Toca validarlo con MAFE
 - [x] Tenemos que construir una RACI #followup #id11236

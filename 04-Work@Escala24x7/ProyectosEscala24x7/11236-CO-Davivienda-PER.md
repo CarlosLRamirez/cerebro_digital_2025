@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-23 10:04", "1tc/G12T+6"'
+modified: '"2024-12-23 10:20", "1tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -66,30 +66,10 @@ tags:
 >>```
 >
 >>[!Danger]+ Risks
->> ```dataviewjs
->> let projectID = dv.current().IDProyecto;
->>
->> // Función para filtrar tareas según las condiciones comunes
->> function filterTasks(tasks) {
->>    return tasks
->>         .where(t => t.tags.includes("#risk"))
->> 
->>       .where(t => !t.completed);
->> 
->>}
->> 
->> // Obtener todas las páginas que tienen tareas relacionadas con el ID del proyecto
->>let tasksByProperty = filterTasks(dv.pages().where(p => p.IDProyecto === projectID).file.tasks);
->> 
->> // Obtener todas las tareas que tienen el tag del ID del proyecto
->>let tasksByTag = filterTasks(dv.pages().file.tasks.where(t => t.tags.includes("#id" + projectID)));
->> 
->>// Combinar ambas listas de tareas y eliminar duplicados usando un Set
->> let combinedTasks = [...new Set([...tasksByProperty, ...tasksByTag])];
->> 
->>// Mostrar la lista de tareas
->> dv.taskList(combinedTasks, { asOf: dv.date("today") });
->>```
+>> ```tasks
+>> not done
+>> (tag includes #id11236) AND (tag includes #risk) 
+>> ```
 
 > [!Example]+ Minutas
 >```dataview
@@ -106,6 +86,7 @@ tags:
 > - [Informe de Status](https://docs.google.com/presentation/d/1Rr4Kg0bZDKAAzw5VDje7zP-uvwWfhmmX3nbdEoelST0/edit?usp=sharing)
 > - [Tablero Jira](https://escala24x7.atlassian.net/jira/software/c/projects/DACO/boards/1551/backlog)
 > - [Diagrama de Arquitectura](https://lucid.app/lucidchart/0a23965f-6b60-493f-8d81-6a960ccde2bc/edit?viewport_loc=-4068%2C-2537%2C8911%2C6025%2C8PoB4jq7HZ-1&invitationId=inv_b1bff465-c58a-4563-ae29-e32ddb23ae4c)
+> - [RAID LOG](https://docs.google.com/spreadsheets/d/1d_elL-W5sRhfpDWoLm_8fQopYCPJsZcJYY1ySIFu_Kg/edit?usp=sharing)
 
 ## Información General
 
