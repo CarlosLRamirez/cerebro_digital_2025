@@ -1,7 +1,12 @@
 ---
+created: 2024-12-23T08:17:35
+modified: '"2024-12-23 08:21", "1tc/G12T+6"'
 type: 
-Fecha Creacion: 2024-11-19
+aliases: 
+tags:
+  - Escala24x7
 ---
+
 
 
 - [Dashboard de Quicksight Escala24x PMO](https://quicksight.aws.amazon.com/sn/auth/signin?directory_alias=qs-escala24x7-bi&redirect_uri=https%3A%2F%2Fquicksight.aws.amazon.com%2Fsn%2Fstart%3Fdirectory_alias%3Dqs-escala24x7-bi%26ref_%3Dpe_3035110_233161080%26state%3DhashArgs%2523%26isauthcode%3Dtrue)	
@@ -103,6 +108,6 @@ EMX-17479 [PMO3-Grupo Ramos DO-Periodic Activities Report](https://escala24x7.at
 
 
 
----
-Template: [[Nota Zettle]]
-Author: Carlos Ramírez - 2024
+--- 
+ **Notas relacionadas:**
+[[👷 Work@Escala24x7]]
