@@ -62,9 +62,9 @@ TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup
 - [x] Reunión con el tercero para cerrar el alcance de single sign-on #id11236 #followup ✅ 2024-12-23
 
 ## Puntos de Acción acordados
-- [ ] David Romero pasará el diagrama de referencia de la arquitectura completa de PER #followup #id11236
-- [ ] A la espera de los WSDL #followup #id11236
-- [ ] Definir cronograma de actividades entre PMs #followup #id11236 
+- [x] David Romero pasará el diagrama de referencia de la arquitectura completa de PER #followup #id11236 ✅ 2024-12-23
+- [x] A la espera de los WSDL #followup #id11236 ✅ 2024-12-23
+- [x] Definir cronograma de actividades entre PMs #followup #id11236 ✅ 2024-12-23
 
 
 
