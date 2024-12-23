@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T10:52:43
-modified: '"2024-12-23 09:32", "1tc/G12T+6"'
+modified: '"2024-12-23 10:02", "1tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -75,20 +75,23 @@ no due date
 [[👷 Work@Escala24x7]]
 
 
+## Playground
+
 - [ ] Tarea para hoy #playground 📅 2024-12-23 
 - [ ] Tarea de ayer #playground 📅 2024-12-21
 - [ ] Tarea de mañana #playground 📅 2024-12-24 
-
-	
-```tasks
-not done
-due before today
-tag includes #playground
-```
+- [ ] Tarea para el otro mes #playground 📅 2025-01-23 
 
 ---
 ```tasks
 not done
-(due today) or (due before today)
+(due today) OR (due before today)
+tag includes #playground
+```
+
+
+```tasks
+not done
+due AFTER today
 tag includes #playground
 ```

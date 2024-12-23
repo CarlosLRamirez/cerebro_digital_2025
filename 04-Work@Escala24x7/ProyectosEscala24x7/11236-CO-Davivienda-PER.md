@@ -7,28 +7,33 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-23 09:17", "1tc/G12T+6"'
+modified: '"2024-12-23 10:04", "1tc/G12T+6"'
 tags:
   - Escala24x7
 ---
-## Tareas y Puntos de seguvaimiento
+## Tareas y Puntos de seguimiento
 
 > [!multi-column]
 >
->> [!tip]+ Do Today
->> ```dataview
->> TASK WHERE contains(tags, "#id" + this.IDProyecto) AND (due = date(today) OR due < date(today) ) AND !completed AND !contains(tags, "#followup") AND !contains(tags, "#actionpoint")
+>> [!tip]+ Do Today or Overdue
+>> ```tasks
+>>not done
+>>(due today) OR (due before today)
+>>tag includes #id11236
 >>```
 >
 >> [!abstract]+ Do Tomorrow
->> ```dataview
->>TASK WHERE contains(tags, "#id" + this.IDProyecto) AND due > date(today) AND !completed
->>```
+>> ```tasks
+>> not done
+>> due AFTER today
+>> tag includes #id11236 
+>> ```
 >
 >> [!warning]+ Follow UP
->> ```dataview
->>TASK WHERE contains(tags, "#id" + this.IDProyecto) AND contains(tags, "#followup") AND !completed
->>```
+>> ```tasks
+>> not done
+>> (tag includes #id11236) AND (tag includes #followup) 
+>> ```
 
 --- 
 
