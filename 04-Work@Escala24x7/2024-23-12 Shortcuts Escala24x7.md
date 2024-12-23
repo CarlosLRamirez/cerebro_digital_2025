@@ -1,6 +1,6 @@
 ---
 created: 2024-12-23T08:17:35
-modified: '"2024-12-23 08:21", "1tc/G12T+6"'
+modified: '"2024-12-23 08:45", "1tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -8,8 +8,7 @@ tags:
 ---
 
 
-
-- [Dashboard de Quicksight Escala24x PMO](https://quicksight.aws.amazon.com/sn/auth/signin?directory_alias=qs-escala24x7-bi&redirect_uri=https%3A%2F%2Fquicksight.aws.amazon.com%2Fsn%2Fstart%3Fdirectory_alias%3Dqs-escala24x7-bi%26ref_%3Dpe_3035110_233161080%26state%3DhashArgs%2523%26isauthcode%3Dtrue)	
+- [[2024-11-19 Dashbord de Quicksight de Escala]]
 - [Registro Vacaciones CECA](https://docs.google.com/spreadsheets/d/1ikJb6fBOtWdg8vaiotjKYJ3BN92CtBsAnC3P0nYpYg8/edit?usp=sharing)
 - [Propuesta Carrer Path](https://docs.google.com/spreadsheets/d/1lsQU3uUeHcKYADA253ek5VGiM5JzBVk1yH2PudQWe1A/edit?usp=sharing)
 

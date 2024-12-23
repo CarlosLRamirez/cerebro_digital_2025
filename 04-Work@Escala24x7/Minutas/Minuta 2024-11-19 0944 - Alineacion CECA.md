@@ -47,7 +47,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 * [ ] Debemos enviar todos los meses la horas a finanzas, Novys tiene un formato #followup   ⏫ 
 * [x] Revisar presentaciones de EMX de este mes #emx 📅 2024-11-19
 
-[[../20241119 Dashbord de Quicksight de Escala|20241119 Dashbord de Quicksight de Escala]]
+[[2024-11-19 Dashbord de Quicksight de Escala|2024-11-19 Dashbord de Quicksight de Escala]]
 
 
 
