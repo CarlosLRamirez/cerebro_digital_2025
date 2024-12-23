@@ -37,7 +37,7 @@ WHERE !contains(tags, "#followup")
 - [x] Ver tema de Inicio de Relacion del proyecto PER #id11236 📅 2024-12-20
 	
 - [x] El lunes ver lo del proyecto nuevo de Switft 📅 2024-12-14  #pmo
-- [ ] Cargar mis horas el lunes!!! a primera hora #PMO 📅 2024-12-20
+- [x] Cargar mis horas el lunes!!! a primera hora #PMO 📅 2024-12-20 ✅ 2024-12-23
 ## Registro de tiempo
 8:00 Organizacion
 8:30 Buscar documentos PER - Organizar carpeta Proyecto
@@ -54,8 +54,8 @@ Cosas que tengo que platicar con Jenny sobre PER:
 - Documento tecnico
 	- Cual es el definitivo? - los que dicen FINAl, hay uno para PER y otro para Camara
 	- Hay otro documento a tener en cuenta?
-		- [ ] Jenny me paso un slide con las funcionaldades, moverla y pasarlo a la carpeta de Jenny #id11236 📅 2024-12-20
-	- [ ] Buscar enlaces enlace a la Arquitectura en LucidChart, estan en el documento #id11236 📅 2024-12-20
+		- [x] Jenny me paso un slide con las funcionaldades, moverla y pasarlo a la carpeta de Jenny #id11236 📅 2024-12-20
+	- [x] Buscar enlaces enlace a la Arquitectura en LucidChart, estan en el documento #id11236 📅 2024-12-20
 - Tema de mapa de dependencias y conexiones
 	- Cual era el documento que estabas viendo ayer
 	- que necesita? 

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T18:27:08
-modified: '"2024-12-18 12:18", "3tc/G12T+6"'
+modified: '"2024-12-23 09:13", "1tc/G12T+6"'
 type:
   - Home
   - TOC
@@ -13,8 +13,8 @@ Bienvenido a mi Vault principal, donde manejo mi productividad y mi sistema de c
 ## 🌟 Acceso Rápido
 - [[👷 Work@Escala24x7]]
 - [[📚 Gestión de Conocimiento - Pagina Principal]] 
+- [[2024-12-20 - Task Manager]]
 
-[[2024-12-20 - Task Manager]]
 
 
 ## Paginas Recientes

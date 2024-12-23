@@ -7,7 +7,7 @@ statusProyecto:
   - activo
 cssclasses:
   - wide-page
-modified: '"2024-12-21 11:16", "6tc/G12T+6"'
+modified: '"2024-12-23 09:17", "1tc/G12T+6"'
 tags:
   - Escala24x7
 ---
@@ -113,9 +113,3 @@ tags:
 ---- 
 ## Otros Apuntes
 
-
-```dataview
-LIST
-where  contains(type, "minuta" )
-where IDProyecto = this.IDProyecto
-```

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T10:52:43
-modified: '"2024-12-20 13:00", "5tc/G12T+6"'
+modified: '"2024-12-23 09:22", "1tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -75,3 +75,11 @@ no due date
 [[👷 Work@Escala24x7]]
 
 
+
+
+```tasks
+not done
+has tag
+due today or before today
+tag includes #pl
+```
