@@ -1,6 +1,6 @@
 ---
 created: 2024-12-23T09:10:45
-modified: '"2024-12-23 09:11", "1tc/G12T+6"'
+modified: '"2024-12-23 16:09", "1tc/G12T+6"'
 date: 2024-12-23
 type:
   - daily-note-escala
@@ -14,6 +14,34 @@ tags:
 **Apuntes de trabajo en Escala2x47** del  lunes 23 de diciembre, de la semana 52 
 
 > Aquí escribe todo lo que necesites relacionado a Escala24x7
+
+
+**Marko Lozano**  
+**Ingeniero Cloud**  
+[marko.lozano@escala24x7.com](mailto:marko.lozano@escala24x7.com)  
+Ingeniero Infraestructura**Yaxer** **Palacios**  
+**Ingeniero Cloud**  
+[yaxer.palacios@escala24x7.com](mailto:yaxer.palacios@escala24x7.com)  
+Ingeniero Infraestructura**Jenner Fernandez**  
+**Ingeniero Cloud**  
+[jenner.fernandez@escala24x7.com](mailto:jenner.fernandez@escala24x7.com)  
+Ingeniero Seguridad**Jose Rosero**  
+**Ingeniero Cloud**  
+[jose.rosero@escala24x7.com](mailto:jose.rosero@escala24x7.com)  
+Ingeniero DevOps**Maria Fernanda Juarez**  
+**Account Manager**  
+[mafe@escala24x7.com](mailto:mafe@escala24x7.com)  
+Account Manager**Pablo Casas**  
+**Cloud Project Manager**  
+[pablo.casas@escala24x7.com](mailto:pablo.casas@escala24x7.com)  
+Project Manager
+
+[13:55](https://escala24x7.slack.com/archives/D06URD7PADT/p1734983740050849)
+
+Pablo Casas
+
+Solo Yaxer y Jenner son de CECA. Jose Rosero nos apoyo mucho pero el si quedo en otra region
+
 
 ## Tareas para hoy
 
