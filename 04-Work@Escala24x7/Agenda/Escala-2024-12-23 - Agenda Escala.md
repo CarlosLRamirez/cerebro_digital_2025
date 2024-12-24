@@ -1,6 +1,6 @@
 ---
 created: 2024-12-23T09:10:45
-modified: '"2024-12-23 16:09", "1tc/G12T+6"'
+modified: '"2024-12-24 08:01", "2tc/G12T+6"'
 date: 2024-12-23
 type:
   - daily-note-escala
@@ -62,3 +62,4 @@ sort date asc
 **Notas relacionadas:**
 [[TOC-Agenda Escala24x7]]
 
+https://x.com/RoxsRoss/status/1870859057902571930?t=L7eIRXOLiXO_Lu5I0lo0Sg&s=09
