@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:01:50
-modified: '"2024-12-26 08:18", "4tc/G12T+6"'
+modified: '"2024-12-26 16:33", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - daily-note-escala
@@ -10,8 +10,10 @@ tags:
 ---
 Fechas tentativas para kickoff
 
-Lunes 30 8am
-
+Lunes 30 8am, 11:30am, 2pm, 3pm
+Martes 31 9am
+Jueves 2 enero: 10am, 11am, 2pm
+Viernes 3 enero: 11am, 2pm, 
 
 **Apuntes de trabajo en Escala2x47** del  jueves 26 de diciembre, de la semana 52 
 
