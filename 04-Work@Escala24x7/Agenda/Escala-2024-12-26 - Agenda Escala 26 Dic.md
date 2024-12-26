@@ -8,7 +8,9 @@ aliases:
 tags:
   - Escala24x7
 ---
-`
+Fechas tentativas para kickoff
+
+Lunes 30 8am
 
 
 **Apuntes de trabajo en Escala2x47** del  jueves 26 de diciembre, de la semana 52 
