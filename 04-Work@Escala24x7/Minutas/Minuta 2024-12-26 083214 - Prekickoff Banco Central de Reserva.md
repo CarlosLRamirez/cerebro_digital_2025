@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:32:14
-modified: '"2024-12-26 08:45", "4tc/G12T+6"'
+modified: '"2024-12-26 08:59", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - minuta
@@ -41,7 +41,7 @@ IDProyecto:
 *  Tenemos los detalles de la Organizacion AWS del cliente
 	* 56 cuentas
 	* El detalle de la organizacion lo puede compartir Jose Azure
-	* Las cuentas estan en una organizacion con un Payer account exclusivo para el banco, administrada por TDSinnex
+	* Las cuentas estan en una organizacion con un Payer account exclusivo para el banco, administrada por TDSinnex (Tecdata)
 	* El proceso es mover todas el payer account.
 	* El algo que no tiene que ocurrir ahora aceleradamente, puede ser durante Enero
 * El cliente pidio una reunión en un par de horas
@@ -50,8 +50,10 @@ IDProyecto:
 	* El cliente debe comunicar con el partner actual la salida
 * No podemos iniciar la facturación, sin tener el contrato firmado
 	* Por ser un cliente de gobierno, no podemos mover las cuentas sin un contrato.
-	
-
+* Roadmap para 2025
+	* Hay una serie de proyectos para este año
+* La cuenta de 50k hay que quebrarla, eso genera 0 margen a Escala
+* 
 ## Puntos de Acción acordados
 - 
 
