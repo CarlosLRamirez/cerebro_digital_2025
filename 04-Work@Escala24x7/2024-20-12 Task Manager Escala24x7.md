@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T10:52:43
-modified: '"2024-12-23 10:02", "1tc/G12T+6"'
+modified: '"2024-12-26 08:16", "4tc/G12T+6"'
 type: 
 aliases: 
 tags:
@@ -77,10 +77,10 @@ no due date
 
 ## Playground
 
-- [ ] Tarea para hoy #playground 📅 2024-12-23 
-- [ ] Tarea de ayer #playground 📅 2024-12-21
-- [ ] Tarea de mañana #playground 📅 2024-12-24 
-- [ ] Tarea para el otro mes #playground 📅 2025-01-23 
+- [x] Tarea para hoy #playground 📅 2024-12-23 ✅ 2024-12-26
+- [x] Tarea de ayer #playground 📅 2024-12-21 ✅ 2024-12-26
+- [x] Tarea de mañana #playground 📅 2024-12-24 ✅ 2024-12-26
+- [x] Tarea para el otro mes #playground 📅 2025-01-23 ✅ 2024-12-26
 
 ---
 ```tasks

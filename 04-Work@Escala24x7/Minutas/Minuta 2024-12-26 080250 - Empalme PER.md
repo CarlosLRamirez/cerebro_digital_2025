@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:02:50
-modified: '"2024-12-26 08:04", "4tc/G12T+6"'
+modified: '"2024-12-26 08:15", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - minuta
@@ -53,9 +53,15 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - Sergio Bonanno (MC)
 
 ## Agenda
-* Empalme  
+* Empalme Diario proyecto PER 
 ## Temas Discutidos
-*  
+- Incorporación de Diego Felipe (PO Regional) quien estaba de vacaciones
+* Login de CC
+	* Con el diagrama de Jenny esta bastante claro
+	* Los clientes de Miami no van a utilizar el SSO, estos clientes ingresan dese otra banca en linea (CO o PA), 
+	* Diego explica el flujo esperado, se espera que al moverse de una BEL a PER, se cierre la sesion de BEL e ingrese a PER, si necesita regresar, d
+* Logout
+	* 
 
 ## Puntos de Acción acordados
 - 

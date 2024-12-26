@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:01:50
-modified: '"2024-12-26 08:02", "4tc/G12T+6"'
+modified: '"2024-12-26 08:18", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - daily-note-escala
@@ -17,6 +17,11 @@ tags:
 
 ## Tareas para hoy
 
+```tasks
+not done
+(due today) OR (due before today)
+has tag
+```
 
 ## Apuntes Proyectos
 
