@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:32:14
-modified: 2024-12-26T08:32:13+
+modified: '"2024-12-26 08:45", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - minuta
@@ -43,7 +43,14 @@ IDProyecto:
 	* El detalle de la organizacion lo puede compartir Jose Azure
 	* Las cuentas estan en una organizacion con un Payer account exclusivo para el banco, administrada por TDSinnex
 	* El proceso es mover todas el payer account.
-	* 
+	* El algo que no tiene que ocurrir ahora aceleradamente, puede ser durante Enero
+* El cliente pidio una reunión en un par de horas
+* Necesitamos tener una sesión de descubrimiento
+	* Alinear temas con el partner actual (correos, facturas pendientes)
+	* El cliente debe comunicar con el partner actual la salida
+* No podemos iniciar la facturación, sin tener el contrato firmado
+	* Por ser un cliente de gobierno, no podemos mover las cuentas sin un contrato.
+	
 
 ## Puntos de Acción acordados
 - 
