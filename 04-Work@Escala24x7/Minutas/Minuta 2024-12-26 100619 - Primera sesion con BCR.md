@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T10:06:19
-modified: '"2024-12-26 10:18", "4tc/G12T+6"'
+modified: '"2024-12-26 10:30", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - minuta
@@ -23,8 +23,8 @@ IDProyecto:
 * Delmy Yamileth Magarin
 * Guiseped Vladimir Mejia
 * Italo Alfredo Mejía
-* Jorge Mauricio Soriano
-* Jose Elías Alvarado
+* Jorge Mauricio Soriano (aws admin)
+* Jose Elías Alvarado (lider)
 * René Alfredo Mendoza
 * Saúl Antonio Argueta
 ### Escala24x7
