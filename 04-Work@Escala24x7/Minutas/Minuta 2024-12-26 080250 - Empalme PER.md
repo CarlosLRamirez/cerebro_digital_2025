@@ -1,6 +1,6 @@
 ---
 created: 2024-12-26T08:02:50
-modified: '"2024-12-26 08:15", "4tc/G12T+6"'
+modified: '"2024-12-26 08:27", "4tc/G12T+6"'
 date: 2024-12-26
 type:
   - minuta
@@ -58,8 +58,12 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 - Incorporación de Diego Felipe (PO Regional) quien estaba de vacaciones
 * Login de CC
 	* Con el diagrama de Jenny esta bastante claro
+* Login de BEL
 	* Los clientes de Miami no van a utilizar el SSO, estos clientes ingresan dese otra banca en linea (CO o PA), 
-	* Diego explica el flujo esperado, se espera que al moverse de una BEL a PER, se cierre la sesion de BEL e ingrese a PER, si necesita regresar, d
+	* Diego explica el flujo esperado, se espera que al moverse de una BEL a PER, se cierre la sesion de BEL e ingrese a PER, si necesita regresar debe autenticarse nuevamente.
+	* Los usuarios de CECA deben tener activado el Softoken.
+	* Debe aparecer un mensaje de advertencia al usuario que se está yendo del a BEL, y debe cerrar la sesión en BEL
+	* [ ] El flujo del Softoken lo debemos definir con David Romero para entregar los consumos a Escala #id11236 #followup
 * Logout
 	* 
 

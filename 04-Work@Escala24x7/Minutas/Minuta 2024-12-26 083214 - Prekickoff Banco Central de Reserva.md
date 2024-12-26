@@ -1,0 +1,56 @@
+---
+created: 2024-12-26T08:32:14
+modified: 2024-12-26T08:32:13+
+date: 2024-12-26
+type:
+  - minuta
+aliases: 
+tags:
+  - Escala24x7
+IDProyecto: 
+---
+
+`
+
+### Seguimiento
+
+## Fecha de Reunion
+2024-12-26
+
+## Asistentes
+
+### Cliente
+* 
+### Escala24x7
+- Carlos Leonel Ramírez
+- Adela Abreu
+- Alejandro Planas
+- Edgar A Lange
+- Eva Castaneyra
+- Jesús Contreras
+- Julia Arguello
+- Kevin Molina Castillo
+- Nelson Mora
+- Hector Sandoval
+- Jose Azor - AWS
+- Mariann Salas - AWS
+
+## Agenda
+* Prekickoff proyecto BCR (foco en el billing)
+## Temas Discutidos
+*  Tenemos los detalles de la Organizacion AWS del cliente
+	* 56 cuentas
+	* El detalle de la organizacion lo puede compartir Jose Azure
+	* Las cuentas estan en una organizacion con un Payer account exclusivo para el banco, administrada por TDSinnex
+	* El proceso es mover todas el payer account.
+	* 
+
+## Puntos de Acción acordados
+- 
+
+## Proxima Reunión
+*   
+
+---
+Template: [[06 Minuta de Reunion Template]]
+Author: Carlos Ramírez - 2024
