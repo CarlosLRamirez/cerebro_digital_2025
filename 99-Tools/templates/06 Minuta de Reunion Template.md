@@ -12,13 +12,6 @@ IDProyecto:
 
 <%* await tp.file.move("/04-Work@Escala24x7/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
 
-### Seguimiento
-
-> [!warning]+ Follow UP
->```dataview
-> TASK
->WHERE contains(tags, "#followup") AND contains(tags, "#id" + this.IDProyecto)
-> ```
 
 ## Fecha de Reunion
 <% tp.date.now() %>
@@ -41,6 +34,14 @@ IDProyecto:
 
 ## Proxima Reunión
 *   
+
+--- 
+## Pendientes
+
+```dataview
+TASK
+WHERE contains(tags, "#followup") AND contains(tags, "#id" + this.IDProyecto) AND !completed
+```
 
 ---
 Template: [[06 Minuta de Reunion Template]]
