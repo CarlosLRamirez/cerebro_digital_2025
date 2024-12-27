@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T10:27:39
-modified: '"2024-12-27 11:41", "5tc/G12T+6"'
+modified: '"2024-12-27 11:53", "5tc/G12T+6"'
 date: 2024-12-27
 type:
   - minuta
@@ -64,7 +64,6 @@ IDProyecto:
 	- Despues que me des todos los prerequisitos, el proyecto inicia
 	- Hay que ser bien rigidios y duros
 - [ ] Compartir editable del diagrama de arquitectura #followup #id11248 
-- [ ] 
 
 Que hacemos nosotros
 - Pedir CIDRs
@@ -74,7 +73,13 @@ Que hacemos nosotros
 Que hacen ellos
 - Crear cuentas
 
-## Fedback Pablo
+## Feedback Pablo
+- Denis es quien el más difícil de tratar, el es quien involucra al equipo de Guatemala
+- Denis dice que no le gustan los sprints
+	- El va preguntar cuando nos van a entregar desarrollo
+	- Se quejó de la metodologia
+	- 1 semana para desplegar desarrollo (Networking, Seguridad y Monitoreo)
+	- 
 
 ## Proxima Reunión
 *   
