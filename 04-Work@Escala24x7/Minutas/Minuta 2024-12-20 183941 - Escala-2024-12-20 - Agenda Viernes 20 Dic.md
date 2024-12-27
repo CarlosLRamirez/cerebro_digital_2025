@@ -30,7 +30,7 @@ tags:
 - [x] HU pendientes #followup #id11236  ⏫
 	- con [@Nahuel Moyano](https://escala24x7.slack.com/team/U0859E3UK41) estuvimos revisando las HU que nos enviaron y las comparamos con el alcance del MPV.Si bien aún falta avanzar con el refinamiento, les comparto el resultado del análisis preliminar 
 	- ![[Pasted image 20241220082639.png]]
-- [ ] Revisar las horas de los proeyctos de las dos ultimas semanas 📅 2024-12-23  #transversal #pmo
+- [ ] Revisar las horas de los proeyctos de las dos ultimas semanas #transversal #pmo 📅 2024-12-30
 ## Apuntes Proyectos
 
 

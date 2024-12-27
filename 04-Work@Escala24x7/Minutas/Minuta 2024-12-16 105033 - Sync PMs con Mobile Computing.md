@@ -65,7 +65,7 @@ Temas que hablar con MC
 	- 🚩 Como se van a integrar las bancas en lineas actuales para integrarse al modulo regional #followup 
 
 ## Puntos de acción
-- [ ] Crear tableros Lucid y compartirlo a MC (correos de Grid) #id11236 📅 2024-12-27
+- [ ] Crear tableros Lucid y compartirlo a MC (correos de Grid) #id11236 📅 2024-12-31
 - [x] Agendar las sesiones de dependiencias #id11236 📅 2024-12-16 ✅ 2024-12-20
 - Agendar las sesiones de Matriz Raci #id11236
 - [x] Dar seguimiento a los temas de accesos de Jira y OpenVPN a MC #id11236 📅 2024-12-16 ✅ 2024-12-20

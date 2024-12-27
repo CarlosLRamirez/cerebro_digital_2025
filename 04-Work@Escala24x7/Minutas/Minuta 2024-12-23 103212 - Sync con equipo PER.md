@@ -1,6 +1,6 @@
 ---
 created: 2024-12-23T10:32:12
-modified: '"2024-12-23 10:48", "1tc/G12T+6"'
+modified: '"2024-12-27 16:05", "5tc/G12T+6"'
 date: 2024-12-23
 type:
   - minuta
@@ -32,7 +32,8 @@ IDProyecto:
 * 
 ## Temas Discutidos
 * Github
-* [ ] OpenVPN: Johan y Francisco: Pedir Mesa de Ayuda #id11236 📅 2024-12-23 
+* [x] OpenVPN: Johan y Francisco: Pedir Mesa de Ayuda #id11236 📅 2024-12-23 ✅ 2024-12-27
+	* Se abrió el ticket [SOI-2711](https://escala24x7.atlassian.net/browse/SOI-2711)
 * Lineamientos de DevOps y Seguridad
 	* Documento formal
 		* Que nos digan que vamos con los mismos lineamientos de Whitelist, sesion técnica formal: estos pipelines, estos módulos (ubicacion, versión), esta forma de despliegue.
