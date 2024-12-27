@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T10:27:39
-modified: '"2024-12-27 11:28", "5tc/G12T+6"'
+modified: '"2024-12-27 11:41", "5tc/G12T+6"'
 date: 2024-12-27
 type:
   - minuta
@@ -53,11 +53,28 @@ IDProyecto:
 	* diagramas y proyecto (conectividad, cargas por ambiente, seguridad)
 	* Kubernetes (no es por Fargate, nos vamos por nodos)
 
+- [ ] Importante tener visibilidad de los pipelines en Jenkins #followup #id11248 
+- [ ] No tenemos acceso a un Transit Gateway  #followup #id11248
+
 ## Temas Discutidos
 *  
 
 ## Puntos de Acción acordados
 - [ ] Enviar correo pidiendo los accesos 📅 2024-12-27  #id11248
+	- Despues que me des todos los prerequisitos, el proyecto inicia
+	- Hay que ser bien rigidios y duros
+- [ ] Compartir editable del diagrama de arquitectura #followup #id11248 
+- [ ] 
+
+Que hacemos nosotros
+- Pedir CIDRs
+- Configurar la parte de networking (con sus modulos)
+- Mejorar los modulos siguientes a networking (de que hay que hechar código hay que hechar)
+
+Que hacen ellos
+- Crear cuentas
+
+## Fedback Pablo
 
 ## Proxima Reunión
 *   
