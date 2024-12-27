@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T10:27:39
-modified: '"2024-12-27 11:53", "5tc/G12T+6"'
+modified: '"2024-12-27 15:57", "5tc/G12T+6"'
 date: 2024-12-27
 type:
   - minuta
@@ -60,10 +60,10 @@ IDProyecto:
 *  
 
 ## Puntos de Acción acordados
-- [ ] Enviar correo pidiendo los accesos 📅 2024-12-27  #id11248
+- [x] Enviar correo pidiendo los accesos #id11248 📅 2024-12-27 ✅ 2024-12-27
 	- Despues que me des todos los prerequisitos, el proyecto inicia
 	- Hay que ser bien rigidios y duros
-- [ ] Compartir editable del diagrama de arquitectura #followup #id11248 
+- [x] Compartir editable del diagrama de arquitectura #followup #id11248 ✅ 2024-12-27
 
 Que hacemos nosotros
 - Pedir CIDRs

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-20T07:40:41
-modified: '"2024-12-23 10:30", "1tc/G12T+6"'
+modified: '"2024-12-27 15:59", "5tc/G12T+6"'
 date: 2024-12-20
 type:
   - daily-note-escala
@@ -25,7 +25,6 @@ tags:
 
 
 - [x] Completar HOY mi cuadro de Open Items del proyecto de PER #id11236 🔺 📅 2024-12-20 ✅ 2024-12-23
-- [ ] Enviar HOY informes de status de proyectos 📅 2024-12-20 🔺 #id11236 #id11065 #id11206 #id11221 
 - [x] Gestionar la generación de la matriz RACI con Mobile Computing y Escala #id11236 ⏫ 📅 2024-12-20 ✅ 2024-12-23
 - [x] Gestionar la generación del backlog de tareas de Escala24x7 para el proyecto PER #id11236 ⏫ 📅 2024-12-23 ✅ 2024-12-23
 - [x] HU pendientes #followup #id11236  ⏫

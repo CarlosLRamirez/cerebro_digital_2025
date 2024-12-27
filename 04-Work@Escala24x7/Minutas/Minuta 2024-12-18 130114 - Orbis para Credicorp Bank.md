@@ -34,10 +34,10 @@ Se grabó la sesión
 *  
 
 ## Puntos de Acción acordados
-- [ ] Gestion de accesos de para Orbis, para el equipo de Credicorp (dar seguimiento) #emx-credicorp-pa 📅 2024-12-20
+- [ ] Gestion de accesos de para Orbis, para el equipo de Credicorp (dar seguimiento) #emx-credicorp-pa 📅 2024-12-30
 	- Preguntarle a Ricardo sobre estos usuarios, dice Humberto que ya los deberiamos tener.
 	- 19/Dic: Dice Ricardo que el no los tiene, se los voy a pedir a Humberto
-- [ ] Compartir presentación de Orbis #emx-credicorp-pa 📅 2024-12-20
+- [ ] Compartir presentación de Orbis #emx-credicorp-pa 📅 2024-12-30
 
 ## Proxima Reunión
 *   

@@ -25,13 +25,13 @@ tags:
 
 
 - [x] Completar HOY mi cuadro de Open Items del proyecto de PER #id11236 🔺 📅 2024-12-20 ✅ 2024-12-23
-- [ ] Enviar HOY informes de status de proyectos 📅 2024-12-20 🔺 #id11236 #id11065 #id11206 #id11221 
+- [ ] Enviar HOY informes de status de proyectos #id11236 #id11065 #id11206 #id11221 🔺 📅 2024-12-30
 - [x] Gestionar la generación de la matriz RACI con Mobile Computing y Escala #id11236 ⏫ 📅 2024-12-20 ✅ 2024-12-23
 - [x] Gestionar la generación del backlog de tareas de Escala24x7 para el proyecto PER #id11236 ⏫ 📅 2024-12-23 ✅ 2024-12-23
 - [x] HU pendientes #followup #id11236  ⏫
 	- con [@Nahuel Moyano](https://escala24x7.slack.com/team/U0859E3UK41) estuvimos revisando las HU que nos enviaron y las comparamos con el alcance del MPV.Si bien aún falta avanzar con el refinamiento, les comparto el resultado del análisis preliminar 
 	- ![[Pasted image 20241220082639.png]]
-- [ ] Revisar las horas de los proeyctos de las dos ultimas semanas 📅 2024-12-23  #transversal #pmo
+- [ ] Revisar las horas de los proeyctos de las dos ultimas semanas #transversal #pmo 📅 2024-12-30
 ## Apuntes Proyectos
 
 

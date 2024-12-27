@@ -79,7 +79,7 @@ dv.taskList(combinedTasks, { asOf: dv.date("today") });
 
 ## Tareas
 - [x] Revisar mi acceso al dashboard de Quicksight #PMO 📅 2024-12-20 ✅ 2024-12-23
-- [ ] Seguimiento asignacion de FE y UI/IX para proyecto Swift 📅 2024-12-20  #id11245-swift
+- [ ] Seguimiento asignacion de FE y UI/IX para proyecto Swift #id11245-swift 📅 2024-12-30
 
 ---
 Template: [[06 Minuta de Reunion Template]]
