@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T10:27:39
-modified: '"2024-12-27 10:29", "5tc/G12T+6"'
+modified: '"2024-12-27 11:12", "5tc/G12T+6"'
 date: 2024-12-27
 type:
   - minuta
@@ -10,13 +10,8 @@ tags:
 IDProyecto:
   - "11248"
 ---
-
-`
-
-
 ## Fecha de Reunion
 2024-12-27
-
 ## Asistentes
 
 ### Cliente
@@ -26,11 +21,20 @@ IDProyecto:
 -  
 
 ## Agenda
-* Confirmacion del equipo
+* Confirmación del equipo
 * Retos encontrados
+	* El mayor reto fue que todo lo querian rapido
+* Accesos
+	* Creación de cuentas (las crean ellos)
+	* 
 * Creditos AWS
 * Numero de Horas
 * Confirmación de Alcance
+	* Hay unos cambios en el alcance
+	* apoyo con revision y mejoras a módulos de IaC
+	* apoyo mejores practicas
+	* diagramas y proyecto
+	* Kubernetes (no es por frga)
 ## Temas Discutidos
 *  
 
