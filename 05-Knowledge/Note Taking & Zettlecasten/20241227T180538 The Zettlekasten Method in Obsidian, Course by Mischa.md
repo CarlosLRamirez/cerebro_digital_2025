@@ -1,6 +1,6 @@
 ---
 created: 2024-12-27T18:05:38
-modified: '"2024-12-27 18:11", "5tc/G12T+6"'
+modified: '"2024-12-27 18:42", "5tc/G12T+6"'
 date: 2024-12-27
 type:
   - course_summary
@@ -12,6 +12,9 @@ tags:
 
 En este curso de 2.5h en Udemy, Mischa da una explicación a fondo del método Zettlekasten creado por Niklas Luhman, cubriendo sus orígenes y principios fundamentales, así como describiendo como este sistema nos puede ayudar a ser mas productivos y mejor nuestro proceso de pensamiento en general.
 
+Tambien describe el proceso general sobre como crear notas mediante el método Zettlekasten
+
+
 --- 
  **Notas relacionadas:**
- 
+
