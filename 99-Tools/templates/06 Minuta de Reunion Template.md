@@ -4,14 +4,12 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>+
 date: <% tp.date.now("YYYY-MM-DD") %>
 type:
   - minuta
-aliases: 
-tags:
-  - Escala24x7
-IDProyecto: 
+IDProyecto:
 ---
 
-<%* await tp.file.move("/04-Work@Escala24x7/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
+<%* await tp.file.move("/2 Areas/21 Work@Escala24x7/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
 
+#minuta 
 
 ## Fecha de Reunion
 <% tp.date.now() %>
@@ -44,5 +42,3 @@ WHERE contains(tags, "#followup") AND contains(tags, "#id" + this.IDProyecto) AN
 ```
 
 ---
-Template: [[06 Minuta de Reunion Template]]
-Author: Carlos Ramírez - 2024

@@ -1,6 +1,6 @@
 ---
 created: 2024-12-09T23:07:00
-modified: 2024-12-10T23:08:00
+modified: '"2024-12-31 09:35", "2tc/G12T+6"'
 ---
 
 # Mi Cerebro Digital: version 2025 (El definitivo)

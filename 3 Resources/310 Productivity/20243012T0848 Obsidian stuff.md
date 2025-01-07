@@ -1,0 +1,28 @@
+---
+created: 2024-12-30T20:48:47
+modified: '"2024-12-30 20:49", "1tc/G12T+6"'
+type: 
+aliases: 
+tags: 
+---
+
+
+
+https://youtu.be/Hsme9MOW-rc?si=XpgD-Qhop1yTmIgl
+
+https://youtu.be/YDKYJG5eAnE?si=FZe7bT6w89BlEOFm&t=1599
+
+https://medium.com/@brickbarnblog/buttons-dashboards-and-flow-bb7f2ad59c73#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjkzNGE1ODE2NDY4Yjk1NzAzOTUzZDE0ZTlmMTVkZjVkMDlhNDAxZTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDk5ODYwNTM0MjM1ODQ2NDk3NDgiLCJlbWFpbCI6ImNhcmxvc2xybUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibmJmIjoxNzEyMDc0NDM1LCJuYW1lIjoiQ2FybG9zIFJhbcOtcmV6IiwiZ2l2ZW5fbmFtZSI6IkNhcmxvcyIsImZhbWlseV9uYW1lIjoiUmFtw61yZXoiLCJpYXQiOjE3MTIwNzQ3MzUsImV4cCI6MTcxMjA3ODMzNSwianRpIjoiOGVhMDlmMGI3YzE0MjZiYWNlNzMwZTBiOTc4NjhjMGM5YzBkNjEwNCJ9.gNfJfBjDzj290PfQIo4UpYgq7LO41h20OBTURz7MCdXrDiyfNiLtsWsp9AgJoNJz_FlQ3ucnmSGk5sPUx7g26pCWFvKNvA0SK9D3191pp52PF1Y3GHBNaUfpmuCqyPTU0RcZN-xFyGpxtgMa7A3FyTw49tMOSKJdLaMX07TxhqI0-95eBhia5P0OSrZfap7CPWxaIDM9lOzVVbIK0Jkb5_38BowBJhnhZKZK86TdKvdrgaZCVd_ZQs1UH5GbRFAGJER88vLFlzK3cpZEC_qWLMK5MFnCWboRxmllZZ45ukignkTXpQLm2Dsw8f5-UZ5Cqd26DFCokeXbYncmpeLGaQ
+
+https://github.com/efemkay/obsidian-modular-css-layout
+
+
+
+https://help.obsidian.md/Editing+and+formatting/Callouts
+
+https://www.youtube.com/watch?v=Ak7cuIyQeYw&t=2s
+
+
+https://jdheyburn.co.uk/blog/how-i-use-obsidian-to-journal/#plugins-and-configuration
+
+
