@@ -20,7 +20,7 @@ Obtener la primera certificación de Kubernetes - Fundamentos
 
 
 # Backlog
-- [ ] Decidir/ adquirir curso #pp-kubernetes
+- [ ] Decidir/ adquirir curso #pp-kubernetes #personal 
 
 
 

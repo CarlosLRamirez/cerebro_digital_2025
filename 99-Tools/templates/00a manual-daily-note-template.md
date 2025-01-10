@@ -15,5 +15,14 @@ Hoy es <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MM
 
 <% tp.file.rename(tp.date.now("YYYY-MM-DD ddd HHmmss") + "-Daily Note") %>
 
+
+
+**Hacerlo hoy:**
+```tasks
+not done
+(due before today) OR (due today)
+(tag include #personal) OR (tag include #syprotec) OR (tag include #teaching)
+```
+
 ----
 **Notas relacionadas:**

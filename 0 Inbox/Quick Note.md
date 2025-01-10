@@ -1,1 +1,0 @@
-https://x.com/RoxsRoss/status/1870859057902571930?t=_x7VGlU1VYylC9ADisPSNQ&s=09

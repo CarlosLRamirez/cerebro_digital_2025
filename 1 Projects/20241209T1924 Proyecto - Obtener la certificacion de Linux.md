@@ -20,7 +20,7 @@ pp-linux
 
 
 ## Backlog
-- [ ] Obtener/decidir algún curso #pp-linux 
+- [ ] Obtener/decidir algún curso #pp-linux  #personal 
 
 
 

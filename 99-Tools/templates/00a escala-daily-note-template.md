@@ -2,36 +2,38 @@
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ss") %>
 date: <% tp.date.now("YYYY-MM-DD") %>
-type:
-  - daily-note-escala
-aliases: 
-tags:
-  - Escala24x7
+aliases:
 ---
 <%* await tp.file.move("/2 Areas/21 Work@Escala24x7/Agenda/" + "Escala-" + tp.date.now("YYYY-MM-DD") + " - " + tp.file.title) -%>`
 
+#daily-escala 
 
-**Apuntes de trabajo en Escala2x47** del  <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MMMM') %>, de la semana <% tp.date.now("WW") %> 
+**Agenda Escala2x47** del  <% moment(tp.date.now("YYYY-MM-DD")).locale('es').format('dddd DD [de] MMMM') %>, de la semana <% tp.date.now("WW") %> 
 
-> Aquí escribe todo lo que necesites relacionado a Escala24x7
+## ☑ Tasks
 
-## Tareas para hoy
+```tasks
+not done
+(due before today) OR (due today)
+```
 
 
-## Apuntes Proyectos
+## 📓 Notes 
+- 
+- 
+- 
 
 
-## Minutas del Dia
+## 🗒 Minutes of Meetings
 
  ```dataview
 table date as "Fecha de Reunión", IDProyecto as "ID del Proyecto"
-from "2 Areas/21 Work@Escala24x7/Minutas"
+from "2 Areas/21 Work@Escala24x7/213 Minutas"
 where contains(type, "minuta")
 where date = date(this.file.frontmatter.date)
 sort date asc
 ```
 
 ----
-**Notas relacionadas:**
-[[Agendas Escala24x7]]
+## Related Notes:
 

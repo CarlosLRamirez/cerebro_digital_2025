@@ -7,7 +7,7 @@ type:
 IDProyecto:
 ---
 
-<%* await tp.file.move("/2 Areas/21 Work@Escala24x7/Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
+<%* await tp.file.move("/2 Areas/21 Work@Escala24x7/213 Minutas/Minuta " + tp.date.now("YYYY-MM-DD HHmmss") + " - " + tp.file.title) -%>`
 
 #minuta 
 

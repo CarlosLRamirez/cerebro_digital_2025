@@ -1,29 +1,29 @@
 ---
 created: 2024-12-11T08:40:30
-modified: '"2024-12-30 18:44", "1tc/G12T+6"'
+modified: '"2025-01-08 12:15", "3tc/G1T+6"'
 type: 
 aliases: 
 tags: 
 ---
-#todo/nextmonth
-- [ ] llevar mi moto a servicio 📅 2025-01-06
 
-#todo/thisweek
+- [ ] llevar mi moto a servicio 📅 2025-01-18 #personal
+
+
 * [x] pedir el pavo 
 * [x] sacar el camastron
 * [x] arreglar olla 📅 2024-12-28 ✅ 2024-12-30
-* [ ] Enmarcar títulos 📅 2025-01-04
+* [ ] Enmarcar títulos 📅 2025-01-18 #personal
 * [x] ordenar mi estudio
-* [ ] pagar impuesto circulación 📅 2025-01-04
+* [ ] pagar impuesto circulación 📅 2025-01-31 #personal
 * [x] pagar al contador 📅 2024-12-28 ✅ 2024-12-30
-* [ ] ordernar los papeles en el archivo - sacar los talonarios de facturas
+* [ ] ordernar los papeles en el archivo - sacar los talonarios de facturas #personal
 
-#todo/comprasdiciembre
+
 - [x] Pavo
 - [x] Trajes pants niños
 - [x] Ropa interior
 - [x] Pachones
-- [ ] Zapatos cole cata 📅 2025-01-13
+- [ ] Zapatos cole cata 📅 2025-01-13 #personal
 - [x] Mochila Víctor
 - [x] Tenis Víctor
 - [x] Zapatos Paula

@@ -1,0 +1,62 @@
+---
+created: 2023-12-04T15:39:24
+modified: '"2025-01-09 15:39", "4tc/G1T+6"'
+date: 2023-12-04
+type:
+  - minuta
+IDProyecto:
+  - "10933"
+---
+
+#minuta 
+#id10933 
+
+## Fecha de Reunion
+2023-12-04
+
+## Asistentes
+
+### Cliente
+1. Jean-Paul Magermans Galeano
+2. Manuel Alejandro Hernandez Aquino
+### Escala24x7
+1. Carlos Leonel Ramírez
+2. Jean Carlos Montilla Gil
+3. Gabriel Fernandez
+4. Jonathan Flores
+5. Ronald Jose Blanco Dugarte
+
+## Temas Discutidos
+- Herramienta de Discovery - **Portfolio**
+	- Informamos que aún tenemos algunos desafíos con la instalación de las herramientas.
+	- Se escaló el tema con AWS, y solicitaron una reunión para esta semana, ya enviamos las posibles opciones.
+	- Manuel Hernandez nos confirmará la fecha y hora, dentro de las opciones enviadas.
+- Entrevistas con las EVC   - **Portfolio**
+	- Jean-Paul espera iniciar esta semana las sesiones, nos enviarán la invitación para las sesiones.
+	- Quedamos atentos de la invitación para validar la disponibilidad del equipo.
+	- Jean-Paul consultó sobre el formulario para hacer el discovery de aplicaciones, se indicó que Luis lo esta terminando de generar, sin embargo acordamos iniciar las primeras sesiones aunque no tengamos el instrumento.
+	- En este sentido les hice el comentario que (a diferencia el EBA Party Discovery) el objetivo de este track en Mobilize no es hacer un análisis profundo de las aplicaciones una por una, sino recolectar la información suficiente para generar el plan de migración por olas.
+- Pilotos de Migración - **Migración
+	- Jean-Paul comenta que ya tienen dos aplicaciones decididas, sin embargo espera reunirse hoy con el Comité de Tecnología de BAM para terminar de definirlas, e indicó compartirlas entre hoy un mañana a mas tardar.
+- Notificación sobre ausencia Carlos Ramírez 
+	- Se notificó a Jean-Paul el periodo de vacaciones de Carlos Ramirez, del 11 al 27 de Diciembre, regresando el 28. A excepción de los día 18 y 19 de diciembre, fecha en las que estaría participando en el Workshop de CCoE.
+	- Se presentó Gabriel Fernandez, quien estaría cubriendo el rol de PM durante ese período.
+-  Workshop de CCoE - **People**
+	- Se confirmó la asistencia de tres personas de Escala para la actividad del 18 y 19 de diciembre en las oficinas de BAM.
+	- Se enviará por correo la información completa.
+- DevOps Assessment - **Plataforma**
+	- Continuamos a la espera de la retroalimentación de BAM sobre el entregable del DevOps Assessment.
+	- Mañana se reintegra Jose Abzum, y Jean Carlos se va la próxima semana de vacaciones.
+- Landing Zone Assessment  - **Plataforma**
+	-  Se mencionó que continuamos a la espera de la retroalimentación de BAM sobre el entrañable del Lading Zone Assessment.
+- Modelo Operativo (Patch Management) - **Plataforma
+	- Jhonatan esta trabajando en la preparación de un workshop de Patch Manager con servidores Linux, nos estará informando cuando podamos coordinar la sesión con BAM.
+- Sesión de FinOps - **Platforma
+	- Se enviará la disponibilidad de Lillibeth para hacer la sesión de FinOps
+
+## Puntos de Acción acordados
+1. 
+
+## Proxima Reunión
+1.  
+

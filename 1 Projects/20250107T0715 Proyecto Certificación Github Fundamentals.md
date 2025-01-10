@@ -33,13 +33,13 @@ Obtener la certificación de Github Fundamentals
 
 
 ## Backlog
-- [ ] Decidir que curso inicial o recursos utilizar #pp-ghf  📅 2025-01-07 
+- [x] Decidir que curso inicial o recursos utilizar #personal  #pp-ghf 📅 2025-01-07 ✅ 2025-01-08
 
 
 
 --- 
 ## Enlaces: 
-[[Curso Github Fundations de Exampro]]
+[[20250108T0754 - Curso Github Fundations de Exampro]]
 [[Certificacion Github Foundations]]
 
 
